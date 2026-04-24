@@ -12,10 +12,27 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav1792/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://gauravdubey.com/"><img src="https://img.shields.io/badge/gauravdubey.com-0D1117?style=flat-square&logo=firefox&logoColor=F97316" alt="Site" /></a>
-  <a href="mailto:gauravdubey0107@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Senior%20SDE-Expedia%20Fraud%20%26%20Risk-0F172A?style=flat-square&labelColor=0E7490" alt="Role" />
+  <a href="https://www.linkedin.com/in/gaurav1792/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:gauravdubey0107@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gurgaon%2C%20India-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<p align="center">
+  <sub><b>Currently</b></sub><br/>
+  <img src="https://img.shields.io/badge/Expedia%20Group-FDDB32?style=for-the-badge&logo=expedia&logoColor=00355F&labelColor=00355F" alt="Expedia Group" />
+</p>
+
+<p align="center">
+  <sub><b>Previously</b></sub><br/>
+  <img src="https://img.shields.io/badge/Blinkit-F8CB46?style=for-the-badge&labelColor=0F172A" alt="Blinkit" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OYO-EE2E24?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="OYO" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/airtel%20X%20Labs-E40000?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="airtel X Labs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Knowlarity-2D3748?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="Knowlarity" />
 </p>
 
 ---
