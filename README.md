@@ -47,23 +47,6 @@ Senior engineer shipping **agentic systems for fraud &amp; risk** at **Expedia G
 
 ## &nbsp;&#x1f916;&nbsp; Agentic stack
 
-```text
-  ┌──────────────┐   ┌──────────────────┐   ┌────────────┐
-  │  investigator│──▶│ LangGraph agent  │──▶│ MCP tools  │──▶ fraud data
-  │   / trigger  │   │ (DAG · Postgres  │   │ (JSON-RPC  │
-  │              │   │  checkpoints)    │   │  + SSE)    │
-  └──────────────┘   └────────┬─────────┘   └────────────┘
-                              ▼
-                     ┌────────────────────┐
-                     │ Tokenisation Layer │  PII never crosses the trust boundary
-                     │ ── schema-aware    │  HKDF master → per-convo salt
-                     │ ── Presidio + NER  │  HMAC-SHA256 token IDs
-                     │ ── Bedrock guard   │  CRC8 hallucination checksums
-                     └─────────┬──────────┘
-                               ▼
-                     hosted LLM  (Bedrock / SageMaker / OSS)
-```
-
 -  &#x1f512;&nbsp; **Privacy-preserving LLM gateway** — three-tier tokenisation, deterministic + reversible within conversation, `60-bit → 115-bit` trade-off analysis
 -  &#x1f517;&nbsp; **MCP servers** — tool-centric access, dual transport, schema-gated queries
 -  &#x1f9ea;&nbsp; **Agent DAGs** — LangGraph + Postgres checkpointing, YAML-compiled tasks, Selenium browser agents
