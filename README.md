@@ -1,6 +1,10 @@
 <!-- ─────────────────────────  HERO  ───────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:0E7490,80:06B6D4,100:F97316&height=220&section=header&text=Gaurav%20Dubey&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Agentic%20systems%20%E2%80%A2%20LLM%20platforms%20%E2%80%A2%20Fraud%20%26%20risk&descSize=17&descAlignY=62&animation=twinkling" alt="Gaurav Dubey" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:0E7490,80:06B6D4,100:F97316&height=200&section=header&text=Gaurav%20Dubey&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Gaurav Dubey" />
+</p>
+
+<p align="center">
+  <b>Agentic systems &nbsp;·&nbsp; LLM platforms &nbsp;·&nbsp; Fraud &amp; risk</b>
 </p>
 
 <p align="center">
@@ -65,17 +69,19 @@ Senior engineer shipping **agentic systems for fraud &amp; risk** at **Expedia G
 
 ## &nbsp;&#x1f31f;&nbsp; Open-source contributions
 
-Sorted by upstream star count. Open + merged PRs only (closed-unmerged skipped). Agentic-coding repos bolded.
+Sorted by upstream star count. Closed-unmerged PRs skipped.
 
-| Repo | Stars | Open | Merged |
-|---|---:|:---:|:---:|
-| [**openclaw/openclaw**](https://github.com/openclaw/openclaw) | 363k | 1 | — |
-| [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) | 166k | 1 | 1 |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | — | 1 |
-| [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli) | 102k | 1 | — |
-| [apache/airflow](https://github.com/apache/airflow) | 45k | — | 1 |
-| [**langchain-ai/langchain-google**](https://github.com/langchain-ai/langchain-google) | 367 | 1 | — |
-| [**LambdaTest/agent-skills**](https://github.com/LambdaTest/agent-skills) | 227 | 3 | — |
+**&#x1f7e2;&nbsp; Merged**
+-  [huggingface/transformers](https://github.com/huggingface/transformers) &nbsp;·&nbsp; &#x2b50; 160k &nbsp;·&nbsp; `1 PR`
+-  [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) &nbsp;·&nbsp; &#x2b50; 166k &nbsp;·&nbsp; `1 PR`
+-  [apache/airflow](https://github.com/apache/airflow) &nbsp;·&nbsp; &#x2b50; 45k &nbsp;·&nbsp; `1 PR`
+
+**&#x1f7e1;&nbsp; Pending review**
+-  [openclaw/openclaw](https://github.com/openclaw/openclaw) &nbsp;·&nbsp; &#x2b50; 363k &nbsp;·&nbsp; `1 PR`
+-  [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) &nbsp;·&nbsp; &#x2b50; 166k &nbsp;·&nbsp; `1 PR`
+-  [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) &nbsp;·&nbsp; &#x2b50; 102k &nbsp;·&nbsp; `1 PR`
+-  [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) &nbsp;·&nbsp; &#x2b50; 227 &nbsp;·&nbsp; `3 PRs`
+-  [langchain-ai/langchain-google](https://github.com/langchain-ai/langchain-google) &nbsp;·&nbsp; &#x2b50; 367 &nbsp;·&nbsp; `1 PR`
 
 ---
 
