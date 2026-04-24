@@ -65,19 +65,17 @@ Senior engineer shipping **agentic systems for fraud &amp; risk** at **Expedia G
 
 ## &nbsp;&#x1f31f;&nbsp; Open-source contributions
 
-Sorted by upstream star count. Agentic-coding repos bolded.
+Sorted by upstream star count. Open + merged PRs only (closed-unmerged skipped). Agentic-coding repos bolded.
 
-| Repo | Stars | Opened | Merged |
+| Repo | Stars | Open | Merged |
 |---|---:|:---:|:---:|
 | [**openclaw/openclaw**](https://github.com/openclaw/openclaw) | 363k | 1 | — |
-| [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) | 166k | 3 | 1 |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | 1 | 1 |
-| [**open-webui/open-webui**](https://github.com/open-webui/open-webui) | 134k | 2 | — |
-| [**anthropics/skills**](https://github.com/anthropics/skills) | 123k | 1 | — |
+| [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) | 166k | 1 | 1 |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | — | 1 |
 | [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli) | 102k | 1 | — |
-| [apache/airflow](https://github.com/apache/airflow) | 45k | 1 | 1 |
+| [apache/airflow](https://github.com/apache/airflow) | 45k | — | 1 |
 | [**langchain-ai/langchain-google**](https://github.com/langchain-ai/langchain-google) | 367 | 1 | — |
-| [**LambdaTest/agent-skills**](https://github.com/LambdaTest/agent-skills) | 227 | 4 | — |
+| [**LambdaTest/agent-skills**](https://github.com/LambdaTest/agent-skills) | 227 | 3 | — |
 
 ---
 
