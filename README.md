@@ -1,68 +1,120 @@
-<!-- ─────────────────────────  BANNER  ───────────────────────── -->
+<!-- ───────────────────────────────────────────────────────────────
+     HERO · waving gradient anchored in teal → cyan → orange
+     ─────────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:06B6D4,100:F97316&height=220&section=header&text=Gaurav%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20Fraud%20%26%20Risk%20%C2%B7%20Distributed%20Systems%20%C2%B7%20LLM%20Platforms&descSize=15&descAlignY=62&animation=twinkling" alt="Gaurav Dubey" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:0E7490,70:06B6D4,100:F97316&height=260&section=header&text=Gaurav%20Dubey&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=I%20build%20the%20AI%20layer%20for%20fraud%20detection%20at%20scale&descSize=16&descAlignY=62&animation=twinkling" alt="Gaurav Dubey" />
 </p>
 
-<!-- ─────────────────────────  TAGLINE  ───────────────────────── -->
+<!-- ───────────────────────────────────────────────────────────────
+     TAGLINE · lean into AI-systems identity
+     ─────────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=I+design+systems+that+think+in+entities%2C+not+events.;Fraud+platforms+at+scale.+LLM+systems+that+don%27t+leak.;Benchmarks+over+vibes.+Tenets+over+opinions." alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=820&lines=Privacy-preserving+LLM+gateways.;MCP+servers+that+investigators+actually+trust.;LangGraph+agents+with+durable+checkpoints.;Eval+harnesses+that+gate+prompts+in+CI.;Entity+thinking.+Benchmarks+over+vibes." alt="What I do" />
 </p>
 
-<!-- ─────────────────────────  QUICK LINKS  ───────────────────────── -->
+<!-- ───────────────────────────────────────────────────────────────
+     QUICK LINKS · compact, high-contrast, single row
+     ─────────────────────────────────────────────────────────────── -->
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav1792/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://gauravdubey.com/"><img src="https://img.shields.io/badge/gauravdubey.com-0D1117?style=flat-square&logo=firefox&logoColor=F97316" alt="Personal site" /></a>
   <a href="mailto:gauravdubey0107@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Gurgaon%2C%20India-06B6D4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to%20deep%20technical%20discussions-0D1117?style=flat-square&logo=signal&logoColor=06B6D4" alt="Open to deep technical discussions" />
+  <img src="https://img.shields.io/badge/Senior%20SDE-%23%20Fraud%20%26%20Risk-0F172A?style=flat-square&labelColor=0E7490" alt="Role" />
 </p>
 
----
+<br/>
 
-### &nbsp;About
+<!-- ───────────────────────────────────────────────────────────────
+     ABOUT · tight, factual, positioned
+     ─────────────────────────────────────────────────────────────── -->
 
-Senior Software Engineer at **Expedia Group** — Fraud &amp; Risk.
-Tech lead for platform architecture: I design systems that model users as entities, process events in real time, and surface high-signal decisions to investigators and automated pipelines.
+### &nbsp;//&nbsp; about
 
-Previously: **Blinkit** · Feature Store &amp; CDP · **OYO** · Engineering Manager, Promotions &amp; Ordering · **airtel X Labs** · distributed ingress on CEPH · **Knowlarity** · cloud telephony at scale · **PressPlay TV** · data pipeline &amp; payments.
-**B.Tech, Computer Science — Jaypee University of Information Technology (2011 – 2015).**
+I'm a senior software engineer at **Expedia Group**, on the fraud &amp; risk platform team. My day-job is designing the systems that sit between LLMs and sensitive fraud data — **tokenising PII, orchestrating agents, and giving investigators superpowers without giving up trust boundaries**.
+
+I've shipped production infra at **Blinkit** (Feature Store / CDP), **OYO** (Engineering Manager, Promotions &amp; Ordering), **airtel X Labs** (distributed ingress on CEPH), **Knowlarity** (cloud telephony at high availability), and **PressPlay TV** (data pipeline &amp; payments). **B.Tech in Computer Science, Jaypee University of Information Technology ('15).**
 
 > *Builder &amp; Tinkerer — I don't just use tools, I take them apart.*
 
 ---
 
-### &nbsp;What I work on
+<!-- ───────────────────────────────────────────────────────────────
+     AI SYSTEMS · promoted to its own section, top of content
+     ─────────────────────────────────────────────────────────────── -->
+
+## &nbsp;&#x1f9e0;&nbsp; AI systems I build
+
+This is where my work lives in 2026. Production systems, not demos.
+
+### &nbsp;&#x1f512;&nbsp; Privacy-preserving LLM gateways
+
+Three-tier tokenisation pipeline — PII never leaves the trust boundary. The tokens that go to the LLM are **opaque, deterministic, reversible within the conversation, and cryptographically distinguishable from hallucinated lookalikes**.
+
+```text
+  ┌───────────┐    ┌─────────────────────┐    ┌───────────┐
+  │   User    │───▶│  TOKENISATION LAYER │───▶│    LLM    │
+  │  request  │    │                     │    │  (hosted) │
+  └───────────┘    │  Tier 1  Schema-aware (sub-ms, deterministic)
+                   │  Tier 2  Presidio + spaCy NER (ML catch-all)
+                   │  Tier 3  Bedrock Guardrails (fail-safe)
+                   │                     │
+                   │  HKDF master key    │
+                   │    └── per-convo salt → SHA-256 derived key
+                   │         └── HMAC-SHA256 token IDs
+                   │              └── CRC8 hallucination check
+                   │                                    ▲
+  ┌───────────┐    │  Detokenise response ──────────────┘
+  │ Response  │◀───│  (only within original trust scope)
+  └───────────┘    └─────────────────────┘
+```
+
+**Trade-offs I think about.** 60-bit vs 115-bit token security (36 years vs 10¹⁵ years brute-force). Per-conversation salts to break cross-session linkability. Redis vault with TTL, scoped to `transaction_id · session_id · chat_id`. GDPR / PCI-aware by construction.
+
+### &nbsp;&#x1f517;&nbsp; MCP servers for fraud decisioning
+
+Model Context Protocol servers that expose decision data to agents through **tools, not static resources** — following the pattern proven by Atlassian's MCP (72 tools / 0 resources). Dual-transport (HTTP/JSON-RPC + SSE). Schema-driven `isSearchableByMCP` flags act as guardrails on what agents can ask. Tool-centric access means every query is explicit, logged, and permissioned.
+
+### &nbsp;&#x1f9ea;&nbsp; Agent orchestration
+
+**LangGraph DAGs** with Postgres checkpointing for durability across crashes and retries. YAML-defined tasks compile to Python functions — non-engineers author workflows, engineers review the compilation target. FastAPI control plane for the graph itself. Browser agents (Selenium + LLM-guided interaction) for vendor portals that don't have APIs.
+
+### &nbsp;&#x1f4ca;&nbsp; Eval harnesses
+
+Prompt changes shouldn't merge on vibes. I build pairwise eval harnesses (see **[diffprompt](https://github.com/gaurav0107/diffprompt)**) that run calibrated LLM-as-judge, structural-JSON rubrics, and CI-gating exit codes — so a prompt regression fails the build the same way a unit-test regression does.
+
+### &nbsp;&#x1f9ec;&nbsp; Vector search &amp; RAG for investigations
+
+Conversation and event embeddings, similarity search against historically flagged patterns, hybrid rule-based + ML retrieval. Embeddings are a *recall* tool; rules and graph traversal are *precision* tools. They complement each other; neither replaces the other.
+
+---
+
+<!-- ───────────────────────────────────────────────────────────────
+     FRAUD PLATFORMS · supporting specialisation, kept concise
+     ─────────────────────────────────────────────────────────────── -->
+
+## &nbsp;&#x1f578;&#xfe0f;&nbsp; Fraud &amp; risk platforms
+
+The AI layer sits on top of a fraud platform I've spent years designing.
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-**&#x1f578;&#xfe0f;  Entity-based fraud modeling**
-Users, devices, IPs, and payment instruments as nodes in a behavioral graph. Multi-hop traversal to surface fraud rings. Relationship-change detection beats event-change detection.
+**Entity-based modeling**
+Users, devices, IPs, payment instruments as nodes in a behavioral graph. Multi-hop traversal to surface fraud rings. Relationship-change detection beats event-change detection.
 
-**&#x26a1;  Real-time signal generation**
-Behavioral anomaly pipelines, state-transition tracking, velocity stores, multi-threaded aggregation tuned for throughput &middot; latency &middot; memory.
-
-**&#x1f50e;  Entity-snapshot investigation**
-Time-windowed consolidations that collapse hours of manual drill-down into seconds for human reviewers.
-
-**&#x1f9ed;  Graph-based analysis**
-Cluster detection, shared-infrastructure traversal, graph-DB vs computed-join trade-off evaluation.
+**Real-time signal generation**
+Anomaly pipelines, state-transition tracking, velocity stores. Multi-threaded aggregation tuned for `throughput · latency · memory`. High recall without drowning reviewers.
 
    </td>
     <td valign="top" width="50%">
 
-**&#x1f9ec;  Vector search for fraud**
-Embedding representations of conversations and events; similarity search against historically flagged patterns.
+**Entity-snapshot investigation**
+Time-windowed consolidated views that collapse hours of manual drill-down into seconds. Optimised for fast lookup by entity ID.
 
-**&#x1f916;  LLM systems engineering**
-Secure MCP servers, agent DAG orchestration (LangGraph), three-tier PII tokenization (schema-aware &rarr; NER &rarr; Guardrails), HKDF/HMAC-SHA256 key hierarchies, checksummed tokens, privacy-preserving intelligence gateways.
-
-**&#x1f3d7;&#xfe0f;  Architecture &amp; system design**
-HLDs, LLDs, API &amp; data contracts, design reviews. Pick datastores with IOPS and cost-per-hour math, not vibes.
-
-**&#x1f91d;  Cross-functional translation**
-Turn ambiguous risk/product problem statements into implementable, reviewed systems.
+**Decision pipelines**
+Real-time (ms SLA) · near-real-time (seconds) · batch (minutes). State machines, checkpointing, replay. Pick the tier with cost-per-hour math, not preference.
 
    </td>
   </tr>
@@ -70,99 +122,112 @@ Turn ambiguous risk/product problem statements into implementable, reviewed syst
 
 ---
 
-### &nbsp;How I think about systems
+<!-- ───────────────────────────────────────────────────────────────
+     SYSTEM-LEVEL DIAGRAM · shows how the two halves connect
+     ─────────────────────────────────────────────────────────────── -->
+
+## &nbsp;&#x1f3d7;&#xfe0f;&nbsp; How the pieces fit
 
 ```text
-                       ┌────────────────────────────────────────┐
-                       │                ENTITY                  │
-                       │   user · device · ip · instrument      │
-                       └────────────────┬───────────────────────┘
-                                        │ event stream
-                  ┌─────────────────────┼─────────────────────┐
-                  │                     │                     │
-          ┌───────▼────────┐   ┌────────▼────────┐   ┌────────▼────────┐
-          │    Signals     │   │  Relationships  │   │   Snapshots     │
-          │  (anomalies,   │   │   (graph ops,   │   │ (time-windowed  │
-          │   velocities)  │   │   multi-hop)    │   │  investigation) │
-          └───────┬────────┘   └────────┬────────┘   └────────┬────────┘
-                  │                     │                     │
-                  └─────────────────────┼─────────────────────┘
-                                        │
-                               ┌────────▼────────┐
-                               │   Decisioning   │
-                               │  RT · NRT · Batch│
-                               └─────────────────┘
-```
-
-**Tenets.** Model the problem before the system. Design for scale early. Optimise on real bottlenecks. Prefer simple composition over clever abstractions.
-
----
-
-### &nbsp;Current focus — 2026
-
-Building the AI layer for fraud operations: privacy-preserving LLM gateways, MCP servers that expose decision data safely to agents, LangGraph-based investigation workflows with durable checkpointing, and evaluation harnesses that gate prompt changes in CI.
-
----
-
-### &nbsp;Stack
-
-```text
-  Languages   Java   ·  Python  ·  Golang  ·  TypeScript  ·  Scala  ·  Angular
-  AI / Agents LangGraph · LangChain · MCP SDK · FastAPI · SageMaker · Bedrock · Presidio · spaCy
-  Data        PostgreSQL · MongoDB · DynamoDB · Elasticsearch · Redis · Kafka · Airflow
-  Infra       AWS · Docker · Kubernetes · Vault · Spring Boot · CEPH
-  Crypto      HKDF · HMAC-SHA256 · CRC · per-conversation key derivation
-  Patterns    JSON-RPC · SSE · REST · Event sourcing · CQRS · State machines
+   ╔════════════════════════════╗           ╔══════════════════════════════╗
+   ║   ENTITIES & EVENTS        ║           ║   LLM / AGENT LAYER          ║
+   ║   user · device · ip · pi  ║           ║   investigation · summaries  ║
+   ╚──────────────┬─────────────╝           ╚──────────────┬───────────────╝
+                  │                                        │
+      ┌───────────┼───────────┐                   ┌────────┴────────┐
+      ▼           ▼           ▼                   ▼                 ▼
+   signals   relationships  snapshots     MCP tool surface    eval harness
+   (anomaly,  (graph ops,   (time-win    (schema-gated,       (pairwise,
+    velocity)  multi-hop)    views)       dual transport)      LLM-judge,
+      │           │           │                 │               CI gate)
+      └───────────┴───────────┘                 │                 │
+                  │                             ▼                 ▼
+          ┌───────▼────────┐            ┌────────────────────────────┐
+          │   Decisioning  │            │  Privacy-Preserving Gateway │
+          │   RT · NRT · B │◀───────────│  HKDF · HMAC · CRC · vault  │
+          └────────────────┘            └────────────────────────────┘
 ```
 
 ---
 
-### &nbsp;Selected projects
+<!-- ───────────────────────────────────────────────────────────────
+     STACK · monospace code blocks, grouped
+     ─────────────────────────────────────────────────────────────── -->
+
+## &nbsp;&#x1f4e6;&nbsp; Stack
+
+```text
+  languages    Java   Python   Golang   TypeScript   Scala   Angular
+  ai / agents  LangGraph   LangChain   MCP SDK   FastAPI   asyncio   Pydantic
+               SageMaker   Bedrock Guardrails   Presidio   spaCy   Ollama
+  eval / ops   diffprompt   LLM-as-judge   Langfuse   Helicone   LangSmith
+  data         PostgreSQL   MongoDB   DynamoDB   Elasticsearch   Redis   Kafka   Airflow
+  infra        AWS   Docker   Kubernetes   Vault   Spring Boot   CEPH
+  crypto       HKDF   HMAC-SHA256   CRC8   per-conversation key derivation
+  patterns     JSON-RPC   SSE   REST   Event sourcing   CQRS   State machines
+```
+
+---
+
+<!-- ───────────────────────────────────────────────────────────────
+     PROJECTS · real repos, tight descriptions
+     ─────────────────────────────────────────────────────────────── -->
+
+## &nbsp;&#x1f9ea;&nbsp; Open-source
 
 <table>
   <tr>
-    <th align="left">Project</th>
-    <th align="left">What it is</th>
+    <td valign="top" width="28%">&nbsp;<a href="https://github.com/gaurav0107/diffprompt"><b>diffprompt</b></a></td>
+    <td valign="top">Pairwise prompt-evaluation CLI + GitHub Action. Calibrated LLM-as-judge, CI-gating exit codes, pluggable providers (OpenAI · Groq · OpenRouter · Ollama), structural-JSON and LLM rubrics, seed from Langfuse / Helicone / LangSmith. Treats prompts like production code.</td>
   </tr>
   <tr>
-    <td>&nbsp;&#x1f9ea;&nbsp; <a href="https://github.com/gaurav0107/diffprompt"><b>diffprompt</b></a></td>
-    <td>Pairwise prompt-evaluation CLI + GitHub Action. Calibrated LLM-as-judge, CI-gating exit codes, pluggable providers (OpenAI / Groq / OpenRouter / Ollama), structural-JSON and LLM rubrics, seed from Langfuse / Helicone / LangSmith.</td>
+    <td valign="top">&nbsp;<a href="https://github.com/gaurav0107/GdPlayer"><b>GdPlayer</b></a></td>
+    <td valign="top">Android media player built on ExoPlayer with custom UI and FFmpeg integration.</td>
   </tr>
   <tr>
-    <td>&nbsp;&#x1f4f1;&nbsp; <a href="https://github.com/gaurav0107/GdPlayer"><b>GdPlayer</b></a></td>
-    <td>Android media player built on ExoPlayer with custom UI and FFmpeg integration.</td>
+    <td valign="top">&nbsp;<a href="https://github.com/gaurav0107/FileDownloader"><b>FileDownloader</b></a></td>
+    <td valign="top">Android file downloader with a companion React UI.</td>
   </tr>
   <tr>
-    <td>&nbsp;&#x2b07;&#xfe0f;&nbsp; <a href="https://github.com/gaurav0107/FileDownloader"><b>FileDownloader</b></a></td>
-    <td>Android file downloader with a companion React UI.</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&#x1f578;&#xfe0f;&nbsp; <a href="https://github.com/gaurav0107/janusgraph-utils"><b>janusgraph-utils</b></a></td>
-    <td>Graph database utilities — schema, bulk loading, traversal helpers on JanusGraph.</td>
+    <td valign="top">&nbsp;<a href="https://github.com/gaurav0107/janusgraph-utils"><b>janusgraph-utils</b></a></td>
+    <td valign="top">Graph database utilities — schema, bulk loading, traversal helpers on JanusGraph.</td>
   </tr>
 </table>
 
-**Recent upstream contributions —** `apache/airflow` · `huggingface/transformers` · `google-gemini/gemini-cli` · `langchain-ai/langchain-google` · `open-webui/open-webui` · `anthropics/skills`.
+**Upstream contributions (2026) —** `apache/airflow` · `huggingface/transformers` · `google-gemini/gemini-cli` · `langchain-ai/langchain-google` · `open-webui/open-webui` · `anthropics/skills`
 
 ---
 
-### &nbsp;How I work
+<!-- ───────────────────────────────────────────────────────────────
+     PHILOSOPHY · short, opinionated, true
+     ─────────────────────────────────────────────────────────────── -->
 
--  **Every design doc, same shape —** Problem &rarr; Tenets &rarr; Conceptual Model &rarr; Architecture &rarr; Components &rarr; Flows &rarr; Security/Ops &rarr; Future.
--  **Benchmarks over opinions —** datastores picked with IOPS + cost-per-hour math; LLM routes picked with eval harness numbers.
--  **Security is baseline, not an afterthought —** name the threats, name the controls, keep trust boundaries explicit.
--  **Simple &amp; composable &gt; clever —** three clear lines beat one clever abstraction.
--  **Entity thinking —** if you're debugging individual events, you're already behind the fraud ring.
+## &nbsp;&#x1f4d0;&nbsp; How I work
+
+-  **Every design doc, same shape —** Problem &rarr; Tenets &rarr; Conceptual Model &rarr; Architecture &rarr; Components &rarr; Flows &rarr; Security/Ops &rarr; Future
+-  **Separate the tenets** — functional, security, and reliability tenets live in different sections, not the same bullet list
+-  **Benchmarks over opinions** — datastores picked with IOPS + cost-per-hour math; LLM routes picked with eval-harness numbers
+-  **Security is baseline, not decoration** — name the threats (cross-conversation linkage, hallucinated tokens, reconstruction, memorisation leakage) and name the specific controls
+-  **Simple &amp; composable &gt; clever** — three clear lines beat one clever abstraction
+-  **Entity thinking** — if you're debugging individual events, you're already behind the fraud ring
 
 ---
 
-### &nbsp;Publication
+<!-- ───────────────────────────────────────────────────────────────
+     PUBLICATION
+     ─────────────────────────────────────────────────────────────── -->
 
-&#x1f4c4; &nbsp; *Implementing Security Technique on Generic Database*
+## &nbsp;&#x1f4c4;&nbsp; Publication
+
+*Implementing Security Technique on Generic Database*
 
 ---
 
-### &nbsp;GitHub
+<!-- ───────────────────────────────────────────────────────────────
+     STATS · kept, themed consistently
+     ─────────────────────────────────────────────────────────────── -->
+
+## &nbsp;&#x1f4c8;&nbsp; GitHub
 
 <table>
   <tr>
@@ -185,9 +250,13 @@ Building the AI layer for fraud operations: privacy-preserving LLM gateways, MCP
 
 ---
 
+<!-- ───────────────────────────────────────────────────────────────
+     CLOSING · invitation, not summary
+     ─────────────────────────────────────────────────────────────── -->
+
 <p align="center">
-  <em>Working on fraud systems, large-scale data platforms, graph analysis, or LLM infrastructure?</em><br/>
-  <em>I'm always open to deep technical discussions.</em>
+  <em>Building secure LLM infrastructure, MCP servers, agent pipelines,</em><br/>
+  <em>fraud platforms, or graph analysis? I'm always open to deep technical discussions.</em>
 </p>
 
 <p align="center">
@@ -195,5 +264,5 @@ Building the AI layer for fraud operations: privacy-preserving LLM gateways, MCP
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:06B6D4&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:0E7490&height=120&section=footer" alt="footer" />
 </p>
