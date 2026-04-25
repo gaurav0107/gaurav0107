@@ -37,7 +37,7 @@
 
 ---
 
-### &nbsp;//&nbsp; about
+### &nbsp;About
 
 Senior engineer shipping **agentic systems for fraud &amp; risk** at **Expedia Group**. I build the infra between LLMs and sensitive data: privacy-preserving gateways, MCP servers, LangGraph agents, and eval harnesses that gate prompts in CI.
 
