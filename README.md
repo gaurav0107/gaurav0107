@@ -1,3 +1,8 @@
+<!-- ───────────────────  terminal masthead  ─────────────────── -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010409,100:0d1117&height=6&section=header&reversal=false" width="100%" alt="" />
+</p>
+
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │  GAURAV DUBEY · agentic systems engineer                    │
@@ -5,29 +10,31 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-```console
-gaurav@expedia:~$ whoami
-```
+<p align="left">
+  <a href="https://github.com/gaurav0107">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=FF9A3C&vCenter=true&width=760&height=30&lines=gaurav%40expedia%3A~%24+whoami;gaurav%40expedia%3A~%24+cat+%2Fetc%2Fabout;gaurav%40expedia%3A~%24+ls+.%2Fagents%2F;gaurav%40expedia%3A~%24+curl+-s+gaurav.dev" alt="prompt" />
+  </a>
+</p>
 
-🟢 &nbsp; I build **agentic systems** that catch fraud before it ships — LLMs orchestrated through deterministic graphs, grounded in policy, and observable enough to put on call.
-
-<sub>9 years in. Java & distributed systems → Python & ML platforms → now full-time on agent infrastructure.</sub>
+> 🟢 &nbsp; I build **agentic systems** that catch fraud before it ships — LLMs orchestrated through deterministic graphs, grounded in policy, and observable enough to put on call.
+>
+> <sub>9 years in. Java & distributed systems → Python & ML platforms → now full-time on agent infrastructure.</sub>
 
 ---
 
-## \# now
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1200&pause=60000&color=FF9A3C&width=220&height=28&lines=%23+now" alt="# now" />
 
 | | |
 |---|---|
 | **role** | Senior SDE II · Expedia · Trust & Safety platform |
-| **building** | Multi-agent fraud reasoning over LangGraph + MCP |
+| **building** | Multi-agent fraud reasoning over `LangGraph` + `MCP` |
 | **shipped** | Privacy-preserving LLM gateway · three-tier tokenisation · eval-gated in CI |
 | **writing** | A field guide to deterministic agents — *wip* |
 | **open to** | collaborating on agent infra · eval tooling · MCP servers |
 
 ---
 
-## \# stack
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1400&pause=60000&color=FF9A3C&width=220&height=28&lines=%23+stack" alt="# stack" />
 
 ```text
   AI       LangGraph · LangChain · MCP SDK · FastAPI · Pydantic · Presidio · spaCy
@@ -40,7 +47,7 @@ gaurav@expedia:~$ whoami
 
 ---
 
-## \# featured
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=60000&color=FF9A3C&width=260&height=28&lines=%23+featured" alt="# featured" />
 
 <table>
 <tr>
@@ -87,7 +94,7 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 
 ---
 
-## \# contributions
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=60000&color=FF9A3C&width=320&height=28&lines=%23+contributions" alt="# contributions" />
 
 | Repository | PR | Status |
 |---|---|---|
@@ -103,7 +110,7 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 
 ---
 
-## \# principles
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1400&pause=60000&color=FF9A3C&width=280&height=28&lines=%23+principles" alt="# principles" />
 
 - &rsaquo; &nbsp;**Benchmarks over vibes** — datastores picked with IOPS + `$/hr`; LLM routes picked with eval numbers
 - &rsaquo; &nbsp;**Security is the first tenet, not the last** — name the threats, name the controls
@@ -111,16 +118,24 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 
 ---
 
-## \# contact
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1300&pause=60000&color=FF9A3C&width=240&height=28&lines=%23+contact" alt="# contact" />
 
-[![open for collab](https://img.shields.io/badge/%E2%86%92%20open%20for%20collab-ff9a3c?style=for-the-badge&labelColor=0d1117&color=ff9a3c)](mailto:gauravdubey0107@gmail.com)
-&nbsp;
-[![linkedin](https://img.shields.io/badge/linkedin.com%2Fin%2Fgaurav1792-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff9a3c&labelColor=0d1117)](https://www.linkedin.com/in/gaurav1792/)
-&nbsp;
-[![email](https://img.shields.io/badge/gauravdubey0107%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff9a3c&labelColor=0d1117)](mailto:gauravdubey0107@gmail.com)
+<p align="left">
+  <a href="mailto:gauravdubey0107@gmail.com">
+    <img src="https://img.shields.io/badge/%E2%86%92%20open%20for%20collab-FF9A3C?style=for-the-badge&labelColor=0d1117&color=FF9A3C" alt="open for collab" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gaurav1792/">
+    <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fgaurav1792-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF9A3C&labelColor=0d1117" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:gauravdubey0107@gmail.com">
+    <img src="https://img.shields.io/badge/gauravdubey0107%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=FF9A3C&labelColor=0d1117" alt="email" />
+  </a>
+</p>
 
-```console
-gaurav@expedia:~$ exit▍
-```
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1200&pause=120000&color=9198A1&vCenter=true&width=760&height=26&lines=gaurav%40expedia%3A~%24+exit" alt="exit" />
+</p>
 
 <sub><img src="https://komarev.com/ghpvc/?username=gaurav0107&color=ff9a3c&style=flat-square&label=visits" alt="visits" /></sub>
