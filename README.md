@@ -96,6 +96,7 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=60000&color=FF9A3C&width=320&height=28&lines=%23+contributions" alt="# contributions" />
 
+<!-- OSS:START -->
 | Repository | PR | Status |
 |---|---|---|
 | [`huggingface/transformers`](https://github.com/huggingface/transformers) | `1 PR` | 🟣 &nbsp;merged |
@@ -105,6 +106,7 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 | [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | `1 PR` | 🟢 &nbsp;open |
 | [`langchain-ai/langchain-google`](https://github.com/langchain-ai/langchain-google) | `1 PR` | 🟢 &nbsp;open |
 | [`LambdaTest/agent-skills`](https://github.com/LambdaTest/agent-skills) | `3 PRs` | 🟢 &nbsp;open |
+<!-- OSS:END -->
 
 <sub>Sorted by upstream star count. Closed-unmerged PRs skipped.</sub>
 
