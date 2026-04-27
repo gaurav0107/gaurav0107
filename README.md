@@ -97,15 +97,27 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=60000&color=FF9A3C&width=320&height=28&lines=%23+contributions" alt="# contributions" />
 
 <!-- OSS:START -->
-| Repository | PR | Status |
-|---|---|---|
-| [`huggingface/transformers`](https://github.com/huggingface/transformers) | `1 PR` | 🟣 &nbsp;merged |
-| [`apache/airflow`](https://github.com/apache/airflow) | `1 PR` | 🟣 &nbsp;merged |
-| [`affaan-m/everything-claude-code`](https://github.com/affaan-m/everything-claude-code) | `2 PRs` | 🟣 &nbsp;merged |
-| [`google-gemini/gemini-cli`](https://github.com/google-gemini/gemini-cli) | `1 PR` | 🟢 &nbsp;open |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | `1 PR` | 🟢 &nbsp;open |
-| [`langchain-ai/langchain-google`](https://github.com/langchain-ai/langchain-google) | `1 PR` | 🟢 &nbsp;open |
-| [`LambdaTest/agent-skills`](https://github.com/LambdaTest/agent-skills) | `3 PRs` | 🟢 &nbsp;open |
+_last synced · 2026-04-27_
+
+```
+┌─ impact ──────────────────────────────────────────────────────────────┐
+│ 3 merged  ·  11 open  ·  900k⭐ reached
+│                     ▅█  █▂▂▂█   prs over last 30 days
+└───────────────────────────────────────────────────────────────────────┘
+```
+
+| repository | ⭐ | merged | open | latest title |
+|---|---:|---|---|---|
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 167k | [#1490](https://github.com/affaan-m/everything-claude-code/pull/1490) | [#1567](https://github.com/affaan-m/everything-claude-code/pull/1567) | fix(hooks): bypass gateguard friction gates inside subagent invocat... |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 159k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
+| [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | [#65887](https://github.com/apache/airflow/pull/65887) | Fix Triggerer subprocess sys.path gap for DAG bundle helpers |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 364k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 102k | — | [#26011](https://github.com/google-gemini/gemini-cli/pull/26011) [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | fix(cli): propagate TLS env vars from .gemini/.env in parent process |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 36k | — | [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | fix: graceful MCP OAuth revoke cleanup when tokens are missing (#12... |
+| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 23k | — | [#15769](https://github.com/mastra-ai/mastra/pull/15769) | fix(core): reject plain functions as individual tool entries in Age... |
+| [langchain-ai/langchain-google](https://github.com/langchain-ai/langchain-google) | 367 | — | [#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embeddi... |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 230 | — | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | feat(api): standardize frontmatter, update validation, register 24 ... |
+
 <!-- OSS:END -->
 
 <sub>Sorted by upstream star count. Closed-unmerged PRs skipped.</sub>
