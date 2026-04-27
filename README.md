@@ -5,8 +5,8 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  GAURAV DUBEY · agentic systems engineer                    │
-│  expedia group · gurgaon, india · ↑ since 2018              │
+│  GAURAV DUBEY · Senior Engineer                    │
+│  Expedia Group · gurgaon, india · ↑ since 2022              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -16,9 +16,9 @@
   </a>
 </p>
 
-> 🟢 &nbsp; I build **agentic systems** that catch fraud before it ships — LLMs orchestrated through deterministic graphs, grounded in policy, and observable enough to put on call.
+> 🟢 &nbsp; building **agentic systems** that catches fraud — LLMs orchestrated through deterministic graphs, grounded in policy, and observable enough to put on call.
 >
-> <sub>9 years in. Java & distributed systems → Python & ML platforms → now full-time on agent infrastructure.</sub>
+> <sub>11 years in. Java| Python & distributed systems → now full-time on agent infrastructure.</sub>
 
 ---
 
@@ -26,7 +26,7 @@
 
 | | |
 |---|---|
-| **role** | Senior SDE II · Expedia · Trust & Safety platform |
+| **role** | Senior SDE· Expedia · Fraud & Risk platform |
 | **building** | Multi-agent fraud reasoning over `LangGraph` + `MCP` |
 | **shipped** | Privacy-preserving LLM gateway · three-tier tokenisation · eval-gated in CI |
 | **writing** | A field guide to deterministic agents — *wip* |
