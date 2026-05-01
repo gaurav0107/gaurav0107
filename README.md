@@ -97,18 +97,18 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=60000&color=FF9A3C&width=320&height=28&lines=%23+contributions" alt="# contributions" />
 
 <!-- OSS:START -->
-_last synced · 2026-04-30_
+_last synced · 2026-05-01_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 5 merged  ·  10 open  ·  936k⭐ reached
-│                  ▅█  █▂▂▂▅▅     prs over last 30 days
+│ 5 merged  ·  11 open  ·  938k⭐ reached
+│                 ▅█  █▂▂▂▅▅  ▂   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 170k | [#1490](https://github.com/affaan-m/everything-claude-code/pull/1490) | [#1567](https://github.com/affaan-m/everything-claude-code/pull/1567) | fix(hooks): bypass gateguard friction gates inside subagent invocat... |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 171k | [#1490](https://github.com/affaan-m/everything-claude-code/pull/1490) | [#1658](https://github.com/affaan-m/everything-claude-code/pull/1658) [#1567](https://github.com/affaan-m/everything-claude-code/pull/1567) | fix(code-reviewer): suppress false-positive findings (#1486) |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 102k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#26074](https://github.com/google-gemini/gemini-cli/pull/26074) [#26011](https://github.com/google-gemini/gemini-cli/pull/26011) | fix(core): handle ENAMETOOLONG/ENOTDIR in robustRealpath (#26010) |
 | [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
