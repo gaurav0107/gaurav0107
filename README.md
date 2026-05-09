@@ -97,32 +97,32 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=60000&color=FF9A3C&width=320&height=28&lines=%23+contributions" alt="# contributions" />
 
 <!-- OSS:START -->
-_last synced · 2026-05-08_
+_last synced · 2026-05-09_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 6 merged  ·  16 open  ·  1.3M⭐ reached
-│          ▄▆  ▆▂▂▂▄▄   ▂▂  ▂█    prs over last 30 days
+│ 9 merged  ·  14 open  ·  1.3M⭐ reached
+│         ▄▆  ▆▂▂▂▄▄   ▂▂  ▂█ ▂   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 175k | [#1490](https://github.com/affaan-m/everything-claude-code/pull/1490) | [#1682](https://github.com/affaan-m/everything-claude-code/pull/1682) [#1669](https://github.com/affaan-m/everything-claude-code/pull/1669) [#1567](https://github.com/affaan-m/everything-claude-code/pull/1567) | docs(strategic-compact): fix hook command path in SKILL.md |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 176k | [#1490](https://github.com/affaan-m/everything-claude-code/pull/1490) | [#1701](https://github.com/affaan-m/everything-claude-code/pull/1701) [#1682](https://github.com/affaan-m/everything-claude-code/pull/1682) [#1669](https://github.com/affaan-m/everything-claude-code/pull/1669) [#1567](https://github.com/affaan-m/everything-claude-code/pull/1567) | docs(strategic-compact): fix hook command path in zh-CN/zh-TW/ja-JP... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 103k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#26074](https://github.com/google-gemini/gemini-cli/pull/26074) [#26011](https://github.com/google-gemini/gemini-cli/pull/26011) | fix(core): handle ENAMETOOLONG/ENOTDIR in robustRealpath (#26010) |
 | [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 36k | [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 fix: Graceful MCP OAuth Revoke Cleanup When Tokens Are Missing |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 268 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
 | [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 12 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 369k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 137k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 139k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 99k | — | [#182701](https://github.com/pytorch/pytorch/pull/182701) | [Docathon] Convert cudnn_rnn_determinism.rst from rST to MyST Markdown |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 72k | — | [#14321](https://github.com/OpenHands/OpenHands/pull/14321) | feat(app-server): plumb llm.base_url into ACP subprocess env (#13999) |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 52k | — | [#6355](https://github.com/FlowiseAI/Flowise/pull/6355) | feat: add Cohere Aya multilingual models to ChatCohere |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | — | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | Fix torch.compile breaking toggle_optimizer / untoggle_optimizer |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 23k | — | [#15769](https://github.com/mastra-ai/mastra/pull/15769) | fix(core): reject plain functions as individual tool entries in Age... |
 | [langchain-ai/langchain-google](https://github.com/langchain-ai/langchain-google) | 373 | — | [#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embeddi... |
-| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 262 | — | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | feat(api): standardize frontmatter, update validation, register 24 ... |
 
 <!-- OSS:END -->
 
