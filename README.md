@@ -97,12 +97,12 @@ Property-based evaluation harness for agent traces. Diffs two runs, surfaces dri
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=60000&color=FF9A3C&width=320&height=28&lines=%23+contributions" alt="# contributions" />
 
 <!-- OSS:START -->
-_last synced · 2026-05-09_
+_last synced · 2026-05-10_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 9 merged  ·  14 open  ·  1.3M⭐ reached
-│         ▄▆  ▆▂▂▂▄▄   ▂▂  ▂█ ▂   prs over last 30 days
+│        ▄▆  ▆▂▂▂▄▄   ▂▂  ▂█ ▂    prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -115,10 +115,10 @@ _last synced · 2026-05-09_
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 36k | [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 fix: Graceful MCP OAuth Revoke Cleanup When Tokens Are Missing |
 | [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 268 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
 | [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 12 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 369k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 139k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 370k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 141k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 99k | — | [#182701](https://github.com/pytorch/pytorch/pull/182701) | [Docathon] Convert cudnn_rnn_determinism.rst from rST to MyST Markdown |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 72k | — | [#14321](https://github.com/OpenHands/OpenHands/pull/14321) | feat(app-server): plumb llm.base_url into ACP subprocess env (#13999) |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 73k | — | [#14321](https://github.com/OpenHands/OpenHands/pull/14321) | feat(app-server): plumb llm.base_url into ACP subprocess env (#13999) |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 52k | — | [#6355](https://github.com/FlowiseAI/Flowise/pull/6355) | feat: add Cohere Aya multilingual models to ChatCohere |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | — | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | Fix torch.compile breaking toggle_optimizer / untoggle_optimizer |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 23k | — | [#15769](https://github.com/mastra-ai/mastra/pull/15769) | fix(core): reject plain functions as individual tool entries in Age... |
