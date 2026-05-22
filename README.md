@@ -48,28 +48,28 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-05-21_
+_last synced · 2026-05-22_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 15 merged  ·  13 open  ·  1.5M⭐ reached
-│ ▆▂ ▂▂▂   ▂▂  ▂▄ ▂     █   ▄▂▆   prs over last 30 days
+│ 15 merged  ·  13 open  ·  1.6M⭐ reached
+│ ▂ ▂▂▂   ▂▂  ▂▄ ▂     █   ▄▂▆    prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 187k | [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | docs(strategic-compact): fix hook command path in zh-CN/zh-TW/ja-JP... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 188k | [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | docs(strategic-compact): fix hook command path in zh-CN/zh-TW/ja-JP... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 104k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#27068](https://github.com/google-gemini/gemini-cli/pull/27068) | test: add validation tests for esbuild and eslint config |
 | [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 37k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 chore: Type Agent MCP lean projection in ServerConfigsDB |
 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | 1k | [#2175](https://github.com/ExpediaGroup/graphql-kotlin/pull/2175) [#2174](https://github.com/ExpediaGroup/graphql-kotlin/pull/2174) | [#2173](https://github.com/ExpediaGroup/graphql-kotlin/pull/2173) | feat(server-subscriptions): expose flatMapMerge concurrency for web... |
-| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 287 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
-| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 206 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 288 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
+| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 207 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 373k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
-| [obra/superpowers](https://github.com/obra/superpowers) | 200k | — | [#1575](https://github.com/obra/superpowers/pull/1575) | docs(tdd): use backticked filename instead of @-prefix |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 160k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 201k | — | [#1575](https://github.com/obra/superpowers/pull/1575) | docs(tdd): use backticked filename instead of @-prefix |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 161k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 74k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 56k | — | [#5202](https://github.com/mem0ai/mem0/pull/5202) | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 52k | — | [#6355](https://github.com/FlowiseAI/Flowise/pull/6355) | feat: add Cohere Aya multilingual models to ChatCohere |
@@ -77,7 +77,7 @@ _last synced · 2026-05-21_
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26k | — | [#23488](https://github.com/mlflow/mlflow/pull/23488) | Support optimizing chat-type prompts in optimize_prompts |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 24k | — | [#15769](https://github.com/mastra-ai/mastra/pull/15769) | fix(core): reject plain functions as individual tool entries in Age... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | — | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | DefaultFileSystemSkill: add toBuilder() (#5267) |
-| [langchain-ai/langchain-google](https://github.com/langchain-ai/langchain-google) | 377 | — | [#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embeddi... |
+| [langchain-ai/langchain-google](https://github.com/langchain-ai/langchain-google) | 379 | — | [#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embeddi... |
 
 <!-- OSS:END -->
 
