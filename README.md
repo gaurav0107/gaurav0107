@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-05-25_
+_last synced · 2026-05-26_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 15 merged  ·  20 open  ·  1.5M⭐ reached
-│ ▁▁   ▁▁  ▁▃ ▁     ▆   ▁▁▄ ▄ █   prs over last 30 days
+│ 16 merged  ·  19 open  ·  1.5M⭐ reached
+│ ▁   ▁▁  ▁▃ ▁     ▆   ▁▁▄ ▄ █    prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 191k | [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2041](https://github.com/affaan-m/ECC/pull/2041) | fix(install-targets): validate compiled OpenCode plugin before install |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 192k | [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(install-targets): validate compiled OpenCode plugin before install |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 104k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#27379](https://github.com/google-gemini/gemini-cli/pull/27379) [#27068](https://github.com/google-gemini/gemini-cli/pull/27068) | fix(core): drop shell:true from grep isCommandAvailable spawn (Node... |
 | [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
@@ -68,7 +68,7 @@ _last synced · 2026-05-25_
 | [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 289 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
 | [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 209 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 374k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 166k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 167k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 74k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
 | [starship/starship](https://github.com/starship/starship) | 57k | — | [#7497](https://github.com/starship/starship/pull/7497) [#7495](https://github.com/starship/starship/pull/7495) | docs(preset): add Void Linux symbol to catppuccin-powerline |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 56k | — | [#5202](https://github.com/mem0ai/mem0/pull/5202) | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
@@ -81,7 +81,7 @@ _last synced · 2026-05-25_
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | — | [#6016](https://github.com/mochajs/mocha/pull/6016) | docs: modernize spies example, drop should.js |
 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16k | — | [#11439](https://github.com/weaviate/weaviate/pull/11439) | gh-11399 validate hnsw vectorIndexConfig numeric ranges |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | — | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | DefaultFileSystemSkill: add toBuilder() (#5267) |
-| [langchain-ai/langchain-google](https://github.com/langchain-ai/langchain-google) | 379 | — | [#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embeddi... |
+| [langchain-ai/langchain-google](https://github.com/langchain-ai/langchain-google) | 380 | — | [#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embeddi... |
 
 <!-- OSS:END -->
 
