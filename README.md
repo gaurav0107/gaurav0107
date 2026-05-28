@@ -48,27 +48,27 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-05-27_
+_last synced · 2026-05-28_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 16 merged  ·  22 open  ·  1.6M⭐ reached
-│    ▁▁  ▁▃ ▁     ▆   ▁▁▄ ▄ █  ▄  prs over last 30 days
+│   ▁▁  ▁▃ ▁     ▆   ▁▁▄ ▄ █  ▄   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 194k | [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(install-targets): validate compiled OpenCode plugin before install |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 160k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 196k | [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(install-targets): validate compiled OpenCode plugin before install |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 161k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 104k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#27379](https://github.com/google-gemini/gemini-cli/pull/27379) [#27068](https://github.com/google-gemini/gemini-cli/pull/27068) | fix(core): drop shell:true from grep isCommandAvailable spawn (Node... |
 | [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 37k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 chore: Type Agent MCP lean projection in ServerConfigsDB |
 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | 1k | [#2175](https://github.com/ExpediaGroup/graphql-kotlin/pull/2175) [#2174](https://github.com/ExpediaGroup/graphql-kotlin/pull/2174) | [#2173](https://github.com/ExpediaGroup/graphql-kotlin/pull/2173) | feat(server-subscriptions): expose flatMapMerge concurrency for web... |
-| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 292 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
-| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 209 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 374k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 169k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 294 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
+| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 210 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 375k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 170k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 75k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
 | [starship/starship](https://github.com/starship/starship) | 57k | — | [#7497](https://github.com/starship/starship/pull/7497) [#7495](https://github.com/starship/starship/pull/7495) | docs(preset): add Void Linux symbol to catppuccin-powerline |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 56k | — | [#5202](https://github.com/mem0ai/mem0/pull/5202) | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
