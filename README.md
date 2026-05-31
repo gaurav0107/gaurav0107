@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-05-30_
+_last synced · 2026-05-31_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 18 merged  ·  18 open  ·  1.6M⭐ reached
-│ ▁▁  ▁▃ ▁     ▄   ▁▁▄ ▃ █  ▄     prs over last 30 days
+│ ▁  ▁▃ ▁     ▄   ▁▁▄ ▃ █  ▄      prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 198k | [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(install-targets): validate compiled OpenCode plugin before install |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 199k | [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(install-targets): validate compiled OpenCode plugin before install |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 161k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 104k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | — | fix(cli): add missing response key to custom theme text schema |
 | [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
@@ -67,8 +67,8 @@ _last synced · 2026-05-30_
 | [oxc-project/oxc](https://github.com/oxc-project/oxc) | 21k | [#22752](https://github.com/oxc-project/oxc/pull/22752) | — | fix(linter/no-array-sort): skip non compare fn sort arguments |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | 1k | [#2175](https://github.com/ExpediaGroup/graphql-kotlin/pull/2175) [#2174](https://github.com/ExpediaGroup/graphql-kotlin/pull/2174) | [#2173](https://github.com/ExpediaGroup/graphql-kotlin/pull/2173) | feat(server-subscriptions): expose flatMapMerge concurrency for web... |
-| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 298 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
-| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 210 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 299 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
+| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 212 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 375k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 173k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 75k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
