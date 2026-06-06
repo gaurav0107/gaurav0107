@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-06-05_
+_last synced · 2026-06-06_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 20 merged  ·  18 open  ·  1.7M⭐ reached
-│  ▁     ▄   ▁▁▄ ▃ █  ▄      ▁ ▁  prs over last 30 days
+│ 20 merged  ·  22 open  ·  1.7M⭐ reached
+│ ▁     ▄   ▁▁▄ ▃ █  ▄      ▁ █   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 207k | [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2134](https://github.com/affaan-m/ECC/pull/2134) | fix(continuous-learning-v2): accept claude-vscode as valid entrypoint |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208k | [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) | fix(session-start): support ECC_SESSION_RETENTION_DAYS opt-out + do... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 161k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 104k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | — | fix(cli): add missing response key to custom theme text schema |
 | [apache/airflow](https://github.com/apache/airflow) | 45k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
@@ -69,14 +69,15 @@ _last synced · 2026-06-05_
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17k | [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | — | Fix GoogleModelSettings.google_cached_content so request omits syst... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | 1k | [#2175](https://github.com/ExpediaGroup/graphql-kotlin/pull/2175) [#2174](https://github.com/ExpediaGroup/graphql-kotlin/pull/2174) | [#2173](https://github.com/ExpediaGroup/graphql-kotlin/pull/2173) | feat(server-subscriptions): expose flatMapMerge concurrency for web... |
-| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 305 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 306 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
 | [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 212 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 376k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 181k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 377k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 183k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 75k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
 | [starship/starship](https://github.com/starship/starship) | 58k | — | [#7497](https://github.com/starship/starship/pull/7497) [#7495](https://github.com/starship/starship/pull/7495) | docs(preset): add Void Linux symbol to catppuccin-powerline |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 57k | — | [#5202](https://github.com/mem0ai/mem0/pull/5202) | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 53k | — | [#6355](https://github.com/FlowiseAI/Flowise/pull/6355) | feat: add Cohere Aya multilingual models to ChatCohere |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k | — | [#21891](https://github.com/run-llama/llama_index/pull/21891) | fix(openrouter): support llama-index-llms-openai-like 0.7 |
 | [ray-project/ray](https://github.com/ray-project/ray) | 42k | — | [#63659](https://github.com/ray-project/ray/pull/63659) | [core][docs] Document hex round-trip ObjectRef anti-pattern (#47923) |
 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34k | — | [#17567](https://github.com/SeleniumHQ/selenium/pull/17567) | [rust] honor --browser-version in Selenium Manager Electron driver ... |
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26k | — | [#23488](https://github.com/mlflow/mlflow/pull/23488) | Support optimizing chat-type prompts in optimize_prompts |
