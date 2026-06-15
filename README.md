@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-06-14_
+_last synced · 2026-06-15_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 42 merged  ·  26 open  ·  2.3M⭐ reached
-│     ▂ ▁ ▃  ▂        ▃█▇  ▁      prs over last 30 days
+│    ▂ ▁ ▃  ▂        ▃█▇  ▁       prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -73,19 +73,19 @@ _last synced · 2026-06-14_
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17k | [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | 1k | [#2175](https://github.com/ExpediaGroup/graphql-kotlin/pull/2175) [#2174](https://github.com/ExpediaGroup/graphql-kotlin/pull/2174) | [#2177](https://github.com/ExpediaGroup/graphql-kotlin/pull/2177) [#2173](https://github.com/ExpediaGroup/graphql-kotlin/pull/2173) | docs(plugin-client): use tasks.registering instead of deprecated ta... |
-| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 309 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 311 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
 | [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 216 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
 | [tracebility-ai/tracebility](https://github.com/tracebility-ai/tracebility) | 0 | [#13](https://github.com/tracebility-ai/tracebility/pull/13) [#12](https://github.com/tracebility-ai/tracebility/pull/12) [#11](https://github.com/tracebility-ai/tracebility/pull/11) [#9](https://github.com/tracebility-ai/tracebility/pull/9) [#8](https://github.com/tracebility-ai/tracebility/pull/8) [#7](https://github.com/tracebility-ai/tracebility/pull/7) [#6](https://github.com/tracebility-ai/tracebility/pull/6) [#5](https://github.com/tracebility-ai/tracebility/pull/5) [#4](https://github.com/tracebility-ai/tracebility/pull/4) [#3](https://github.com/tracebility-ai/tracebility/pull/3) [#2](https://github.com/tracebility-ai/tracebility/pull/2) [#1](https://github.com/tracebility-ai/tracebility/pull/1) | [#10](https://github.com/tracebility-ai/tracebility/pull/10) | feat(web): playground composer for typed messages + Save flow (Plan C) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 378k | — | [#70287](https://github.com/openclaw/openclaw/pull/70287) | fix(msteams): drop unsupported $search on msteams:search (AI-assisted) |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 192k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 193k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 184k | — | [#13311](https://github.com/Significant-Gravitas/AutoGPT/pull/13311) | fix(frontend/copilot): pair tool calls to outputs by position (#13306) |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 98k | — | [#58241](https://github.com/ant-design/ant-design/pull/58241) | fix(Descriptions): apply labelStyle/contentStyle to bordered cells |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 76k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 77k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 74k | — | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 72k | — | [#10553](https://github.com/hiyouga/LlamaFactory/pull/10553) | [misc] improve diagnostics for missing processor on multi-modal tem... |
 | [starship/starship](https://github.com/starship/starship) | 58k | — | [#7497](https://github.com/starship/starship/pull/7497) [#7495](https://github.com/starship/starship/pull/7495) | docs(preset): add Void Linux symbol to catppuccin-powerline |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 53k | — | [#6355](https://github.com/FlowiseAI/Flowise/pull/6355) | feat: add Cohere Aya multilingual models to ChatCohere |
-| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 47k | — | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | Common: mask sensitive data on Exception::addMessage |
+| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 48k | — | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | Common: mask sensitive data on Exception::addMessage |
 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 43k | — | [#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | feat: add termlog_colors option to force/disable color output |
 | [ray-project/ray](https://github.com/ray-project/ray) | 42k | — | [#63659](https://github.com/ray-project/ray/pull/63659) | [core][docs] Document hex round-trip ObjectRef anti-pattern (#47923) |
 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34k | — | [#17567](https://github.com/SeleniumHQ/selenium/pull/17567) | [rust] honor --browser-version in Selenium Manager Electron driver ... |
