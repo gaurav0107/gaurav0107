@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-06-23_
+_last synced · 2026-06-24_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 43 merged  ·  25 open  ·  1.9M⭐ reached
-│   ▂        ▃█▇  ▁               prs over last 30 days
+│  ▂        ▃█▇  ▁                prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -76,7 +76,7 @@ _last synced · 2026-06-23_
 | [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 312 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
 | [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 221 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
 | [tracebility-ai/tracebility](https://github.com/tracebility-ai/tracebility) | 0 | [#13](https://github.com/tracebility-ai/tracebility/pull/13) [#12](https://github.com/tracebility-ai/tracebility/pull/12) [#11](https://github.com/tracebility-ai/tracebility/pull/11) [#9](https://github.com/tracebility-ai/tracebility/pull/9) [#8](https://github.com/tracebility-ai/tracebility/pull/8) [#7](https://github.com/tracebility-ai/tracebility/pull/7) [#6](https://github.com/tracebility-ai/tracebility/pull/6) [#5](https://github.com/tracebility-ai/tracebility/pull/5) [#4](https://github.com/tracebility-ai/tracebility/pull/4) [#3](https://github.com/tracebility-ai/tracebility/pull/3) [#2](https://github.com/tracebility-ai/tracebility/pull/2) [#1](https://github.com/tracebility-ai/tracebility/pull/1) | [#10](https://github.com/tracebility-ai/tracebility/pull/10) | feat(web): playground composer for typed messages + Save flow (Plan C) |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 200k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 201k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 185k | — | [#13311](https://github.com/Significant-Gravitas/AutoGPT/pull/13311) | fix(frontend/copilot): pair tool calls to outputs by position (#13306) |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 98k | — | [#58241](https://github.com/ant-design/ant-design/pull/58241) | fix(Descriptions): apply labelStyle/contentStyle to bordered cells |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 78k | — | [#14472](https://github.com/OpenHands/OpenHands/pull/14472) | feat(frontend): show "Delivering..." status for queued messages |
