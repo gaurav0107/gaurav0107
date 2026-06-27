@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-06-26_
+_last synced · 2026-06-27_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 44 merged  ·  24 open  ·  1.9M⭐ reached
-│         ▃█▇  ▁                  prs over last 30 days
+│        ▃█▇  ▁                   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 221k | [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(clv2): escape $HOME before pgrep -f in migrate-homunculus.sh |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 222k | [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(clv2): escape $HOME before pgrep -f in migrate-homunculus.sh |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 161k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 105k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | — | fix(cli): add missing response key to custom theme text schema |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 59k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
@@ -73,8 +73,8 @@ _last synced · 2026-06-26_
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18k | [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | 1k | [#2177](https://github.com/ExpediaGroup/graphql-kotlin/pull/2177) [#2175](https://github.com/ExpediaGroup/graphql-kotlin/pull/2175) [#2174](https://github.com/ExpediaGroup/graphql-kotlin/pull/2174) | [#2173](https://github.com/ExpediaGroup/graphql-kotlin/pull/2173) | docs(plugin-client): use tasks.registering instead of deprecated ta... |
-| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 312 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
-| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 222 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
+| [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 311 | [#5](https://github.com/LambdaTest/agent-skills/pull/5) [#4](https://github.com/LambdaTest/agent-skills/pull/4) [#3](https://github.com/LambdaTest/agent-skills/pull/3) | — | feat(api): standardize frontmatter, update validation, register 24 ... |
+| [LambdaTest/kane-cli](https://github.com/LambdaTest/kane-cli) | 223 | [#25](https://github.com/LambdaTest/kane-cli/pull/25) | — | docs: document pnpm install as unsupported (#24) |
 | [tracebility-ai/tracebility](https://github.com/tracebility-ai/tracebility) | 0 | [#13](https://github.com/tracebility-ai/tracebility/pull/13) [#12](https://github.com/tracebility-ai/tracebility/pull/12) [#11](https://github.com/tracebility-ai/tracebility/pull/11) [#9](https://github.com/tracebility-ai/tracebility/pull/9) [#8](https://github.com/tracebility-ai/tracebility/pull/8) [#7](https://github.com/tracebility-ai/tracebility/pull/7) [#6](https://github.com/tracebility-ai/tracebility/pull/6) [#5](https://github.com/tracebility-ai/tracebility/pull/5) [#4](https://github.com/tracebility-ai/tracebility/pull/4) [#3](https://github.com/tracebility-ai/tracebility/pull/3) [#2](https://github.com/tracebility-ai/tracebility/pull/2) [#1](https://github.com/tracebility-ai/tracebility/pull/1) | [#10](https://github.com/tracebility-ai/tracebility/pull/10) | feat(web): playground composer for typed messages + Save flow (Plan C) |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 203k | — | [#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (... |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 185k | — | [#13311](https://github.com/Significant-Gravitas/AutoGPT/pull/13311) | fix(frontend/copilot): pair tool calls to outputs by position (#13306) |
