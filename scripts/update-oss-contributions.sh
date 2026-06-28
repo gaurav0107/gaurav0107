@@ -52,6 +52,19 @@ jq --slurpfile stars "$tmp_stars" '
 ' "$tmp_raw" > "${tmp_raw}.stars"
 mv "${tmp_raw}.stars" "$tmp_raw"
 
+# Keep only repos worth showing: at least 10k stars AND at least one
+# merged PR. Repos that fail either test are dropped entirely (all of
+# their PRs), so the impact summary and table stay consistent.
+MIN_STARS=10000
+jq --argjson min "$MIN_STARS" '
+  ( group_by(.repo)
+    | map(select((.[0].stars >= $min) and any(.[]; .merged_at != null)))
+    | map(.[0].repo)
+  ) as $keep
+  | map(select(.repo as $r | $keep | index($r)))
+' "$tmp_raw" > "${tmp_raw}.kept"
+mv "${tmp_raw}.kept" "$tmp_raw"
+
 MERGED=$(jq '[.[] | select(.merged_at != null)] | length' "$tmp_raw")
 OPEN=$(jq '[.[] | select(.state == "open")] | length' "$tmp_raw")
 TOTAL_STARS=$(jq -r '[.[] | {repo, stars}] | unique_by(.repo) | map(.stars) | add // 0' "$tmp_raw")
