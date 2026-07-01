@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-06-30_
+_last synced · 2026-07-01_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 32 merged  ·  11 open  ·  989k⭐ reached
-│   ▁ ▄▇               ▁    ▃█ ▃  prs over last 30 days
+│ 33 merged  ·  10 open  ·  990k⭐ reached
+│  ▁ ▄▇               ▁    ▃█ ▃   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 223k | [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2396](https://github.com/affaan-m/ECC/pull/2396) | chore(continuous-learning-v2): standardize shell shebangs to env bash |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 224k | [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2396](https://github.com/affaan-m/ECC/pull/2396) | chore(continuous-learning-v2): standardize shell shebangs to env bash |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 162k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 105k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#28183](https://github.com/google-gemini/gemini-cli/pull/28183) | fix(vscode-ide-companion): preserve terminal focus when closing dif... |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 98k | [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#58551](https://github.com/ant-design/ant-design/pull/58551) | fix(Typography): inherit font size in editable textarea |
@@ -70,7 +70,7 @@ _last synced · 2026-06-30_
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 40k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 chore: Type Agent MCP lean projection in ServerConfigsDB |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | feat: add dtype option to LightningModule.load_from_checkpoint |
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors |
-| [oxc-project/oxc](https://github.com/oxc-project/oxc) | 21k | [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | [#23909](https://github.com/oxc-project/oxc/pull/23909) | fix(linter/unicorn/prefer-at): skip object numeric-key access |
+| [oxc-project/oxc](https://github.com/oxc-project/oxc) | 21k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | — | fix(linter/unicorn/prefer-at): skip object numeric-key access |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | 21k | [#5090](https://github.com/lima-vm/lima/pull/5090) | [#5165](https://github.com/lima-vm/lima/pull/5165) | shell: clean up stale ssh.sock on --reconnect when the master is al... |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18k | [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
