@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-07-13_
+_last synced · 2026-07-14_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 43 merged  ·  10 open  ·  1.1M⭐ reached
-│         ▁    ▄█ ▂▃▁   ▁  ▁▂▁    prs over last 30 days
+│ 43 merged  ·  11 open  ·  1.1M⭐ reached
+│        ▁    ▄█ ▂▃▁   ▁  ▁▂▁ ▁   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,13 +65,13 @@ _last synced · 2026-07-13_
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 98k | [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#58551](https://github.com/ant-design/ant-design/pull/58551) | fix(Typography): inherit font size in editable textarea |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 75k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 60k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 58k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 59k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | — | fix(openrouter): support llama-index-llms-openai-like 0.7 |
 | [apache/airflow](https://github.com/apache/airflow) | 46k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 40k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 chore: Type Agent MCP lean projection in ServerConfigsDB |
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 31k | [#1239](https://github.com/conductor-oss/conductor/pull/1239) | — | fix(rest): log 4xx client exceptions at WARN instead of ERROR |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | fix: log the convenience epoch metric once per step (#20902) |
-| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 29k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | — | fix(magic-link, email-otp): force-validate Origin on cookieless sen... |
+| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 29k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | [#10383](https://github.com/better-auth/better-auth/pull/10383) | fix(session): use authoritative session reads in token and delete-a... |
 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 28k | [#45510](https://github.com/envoyproxy/envoy/pull/45510) | — | docs: remove broken Ubuntu noble install instructions |
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 23k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors |
 | [oxc-project/oxc](https://github.com/oxc-project/oxc) | 21k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | — | fix(linter/unicorn/prefer-at): skip object numeric-key access |
