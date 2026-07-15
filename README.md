@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-07-14_
+_last synced · 2026-07-15_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 43 merged  ·  11 open  ·  1.1M⭐ reached
-│        ▁    ▄█ ▂▃▁   ▁  ▁▂▁ ▁   prs over last 30 days
+│ 44 merged  ·  12 open  ·  1.2M⭐ reached
+│       ▁    ▄█ ▂▃▁   ▁  ▁▂▂ ▂    prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -64,6 +64,7 @@ _last synced · 2026-07-14_
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 105k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#28183](https://github.com/google-gemini/gemini-cli/pull/28183) | fix(vscode-ide-companion): preserve terminal focus when closing dif... |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 98k | [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#58551](https://github.com/ant-design/ant-design/pull/58551) | fix(Typography): inherit font size in editable textarea |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 75k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 68k | [#7113](https://github.com/unslothai/unsloth/pull/7113) | [#7082](https://github.com/unslothai/unsloth/pull/7082) | Studio: fix the permanent GGUF "update available" on no-symlink caches |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 60k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 59k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | — | fix(openrouter): support llama-index-llms-openai-like 0.7 |
