@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-07-17_
+_last synced · 2026-07-18_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 47 merged  ·  14 open  ·  1.5M⭐ reached
-│     ▁    ▄█ ▂▃▁   ▁  ▁▂▂ ▃ ▃▁   prs over last 30 days
+│ 49 merged  ·  17 open  ·  1.6M⭐ reached
+│    ▁    ▅█▁▂▃▁   ▁  ▁▂▂ ▃ ▃▂    prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -70,14 +70,16 @@ _last synced · 2026-07-17_
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 59k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 56k | [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): serve noarch Alpine index for any requested architec... |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | [#22371](https://github.com/run-llama/llama_index/pull/22371) | refactor(core): deduplicate SimpleDirectoryReader load_file/aload_file |
+| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 48k | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | — | Common: mask sensitive data on Exception::addMessage |
 | [apache/airflow](https://github.com/apache/airflow) | 46k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
+| [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 44k | [#8326](https://github.com/mitmproxy/mitmproxy/pull/8326) | [#8294](https://github.com/mitmproxy/mitmproxy/pull/8294) [#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) [#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | proxy: bracket IPv6 literals in upstream CONNECT authority |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 40k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 chore: Type Agent MCP lean projection in ServerConfigsDB |
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32k | [#1239](https://github.com/conductor-oss/conductor/pull/1239) | — | fix(rest): log 4xx client exceptions at WARN instead of ERROR |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | fix: log the convenience epoch metric once per step (#20902) |
 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | 29k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | [#10423](https://github.com/better-auth/better-auth/pull/10423) [#10383](https://github.com/better-auth/better-auth/pull/10383) | fix(two-factor): reject reused TOTP codes on step-up verification |
 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 28k | [#45510](https://github.com/envoyproxy/envoy/pull/45510) | — | docs: remove broken Ubuntu noble install instructions |
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors |
-| [oxc-project/oxc](https://github.com/oxc-project/oxc) | 21k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | — | fix(linter/unicorn/prefer-at): skip object numeric-key access |
+| [oxc-project/oxc](https://github.com/oxc-project/oxc) | 22k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | — | fix(linter/unicorn/prefer-at): skip object numeric-key access |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | 21k | [#5165](https://github.com/lima-vm/lima/pull/5165) [#5090](https://github.com/lima-vm/lima/pull/5090) | — | shell: clean up stale ssh.sock on --reconnect when the master is al... |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18k | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | — | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
