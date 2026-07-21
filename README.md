@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-07-20_
+_last synced · 2026-07-21_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 49 merged  ·  17 open  ·  1.6M⭐ reached
-│  ▁    ▅█▁▂▃▁   ▁  ▁▂▂ ▃ ▃▂      prs over last 30 days
+│ ▁    ▅█▁▂▃▁   ▁  ▁▂▂ ▃ ▃▂       prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 257k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 258k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 231k | [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) | fix(opencode): resolve command agent ids to registered opencode agents |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 162k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 106k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#28183](https://github.com/google-gemini/gemini-cli/pull/28183) | fix(vscode-ide-companion): preserve terminal focus when closing dif... |
@@ -73,7 +73,7 @@ _last synced · 2026-07-20_
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 48k | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | — | Common: mask sensitive data on Exception::addMessage |
 | [apache/airflow](https://github.com/apache/airflow) | 46k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 44k | [#8326](https://github.com/mitmproxy/mitmproxy/pull/8326) | [#8294](https://github.com/mitmproxy/mitmproxy/pull/8294) [#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) [#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | proxy: bracket IPv6 literals in upstream CONNECT authority |
-| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 40k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 chore: Type Agent MCP lean projection in ServerConfigsDB |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 41k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | — | 🧹 chore: Type Agent MCP lean projection in ServerConfigsDB |
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32k | [#1239](https://github.com/conductor-oss/conductor/pull/1239) | — | fix(rest): log 4xx client exceptions at WARN instead of ERROR |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | fix: log the convenience epoch metric once per step (#20902) |
 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | 29k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | [#10423](https://github.com/better-auth/better-auth/pull/10423) [#10383](https://github.com/better-auth/better-auth/pull/10383) | fix(two-factor): reject reused TOTP codes on step-up verification |
