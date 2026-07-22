@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-07-21_
+_last synced · 2026-07-22_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 49 merged  ·  17 open  ·  1.6M⭐ reached
-│ ▁    ▅█▁▂▃▁   ▁  ▁▂▂ ▃ ▃▂       prs over last 30 days
+│     ▅█▁▂▃▁   ▁  ▁▂▂ ▃ ▃▂        prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -67,7 +67,7 @@ _last synced · 2026-07-21_
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 75k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 68k | [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | [#7156](https://github.com/unslothai/unsloth/pull/7156) | Studio: add option to disable the in-memory API monitor |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 61k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 60k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 61k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 56k | [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): serve noarch Alpine index for any requested architec... |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | [#22371](https://github.com/run-llama/llama_index/pull/22371) | refactor(core): deduplicate SimpleDirectoryReader load_file/aload_file |
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 48k | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | — | Common: mask sensitive data on Exception::addMessage |
