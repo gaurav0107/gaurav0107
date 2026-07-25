@@ -48,25 +48,25 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-07-24_
+_last synced · 2026-07-25_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 50 merged  ·  18 open  ·  1.7M⭐ reached
-│   ▅█▁▂▃▁   ▁  ▁▂▂ ▃ ▃▂      ▁   prs over last 30 days
+│ 51 merged  ·  17 open  ·  1.7M⭐ reached
+│  ▅█▁▂▃▁   ▁  ▁▂▂ ▃ ▃▂      ▁    prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
 | [obra/superpowers](https://github.com/obra/superpowers) | 260k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 232k | [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2555](https://github.com/affaan-m/ECC/pull/2555) [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) | fix(marketplace): use object source so Claude Cowork remote sync su... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 232k | [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#2555](https://github.com/affaan-m/ECC/pull/2555) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) | fix(marketplace): use object source so Claude Cowork remote sync su... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 162k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 106k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#28183](https://github.com/google-gemini/gemini-cli/pull/28183) | fix(vscode-ide-companion): preserve terminal focus when closing dif... |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 98k | [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#58551](https://github.com/ant-design/ant-design/pull/58551) | fix(Typography): inherit font size in editable textarea |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 75k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 68k | [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | [#7156](https://github.com/unslothai/unsloth/pull/7156) | Studio: add option to disable the in-memory API monitor |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 61k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 62k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 61k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 57k | [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): serve noarch Alpine index for any requested architec... |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | [#22371](https://github.com/run-llama/llama_index/pull/22371) | refactor(core): deduplicate SimpleDirectoryReader load_file/aload_file |
