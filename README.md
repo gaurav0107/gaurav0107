@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-08-07_
+_last synced · 2026-08-08_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 58 merged  ·  17 open  ·  1.9M⭐ reached
-│ ▂▅▅ █ █▅  ▂   ▅ ▂▂█             prs over last 30 days
+│ 59 merged  ·  17 open  ·  1.9M⭐ reached
+│ ▄▄ ▆ █▄  ▂   ▄ ▂▂▆              prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,7 @@ _last synced · 2026-08-07_
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32k | [#1239](https://github.com/conductor-oss/conductor/pull/1239) | — | fix(rest): log 4xx client exceptions at WARN instead of ERROR |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | fix: log the convenience epoch metric once per step (#20902) |
 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | 29k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | [#10423](https://github.com/better-auth/better-auth/pull/10423) [#10383](https://github.com/better-auth/better-auth/pull/10383) | fix(two-factor): reject reused TOTP codes on step-up verification |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 28k | [#6776](https://github.com/reflex-dev/reflex/pull/6776) | — | fix(init): declare RadixThemesPlugin in default rxconfig template |
 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 28k | [#45510](https://github.com/envoyproxy/envoy/pull/45510) | — | docs: remove broken Ubuntu noble install instructions |
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors |
 | [oxc-project/oxc](https://github.com/oxc-project/oxc) | 22k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | — | fix(linter/unicorn/prefer-at): skip object numeric-key access |
