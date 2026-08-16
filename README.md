@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-08-15_
+_last synced · 2026-08-16_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 63 merged  ·  13 open  ·  2.0M⭐ reached
-│   ▂   ▂ ▂▂█                     prs over last 30 days
+│  ▂   ▂ ▂▂█                      prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -67,7 +67,7 @@ _last synced · 2026-08-15_
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99k | [#58551](https://github.com/ant-design/ant-design/pull/58551) [#58241](https://github.com/ant-design/ant-design/pull/58241) | — | fix(Typography): inherit font size in editable textarea |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 75k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [apache/superset](https://github.com/apache/superset) | 74k | [#42220](https://github.com/apache/superset/pull/42220) | [#42489](https://github.com/apache/superset/pull/42489) | fix(core): stop discarding API errors that quote an HTML tag |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 71k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 66k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 63k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 57k | [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): serve noarch Alpine index for any requested architec... |
