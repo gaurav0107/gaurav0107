@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-08-16_
+_last synced · 2026-08-17_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 63 merged  ·  13 open  ·  2.0M⭐ reached
-│  ▂   ▂ ▂▂█                      prs over last 30 days
+│ ▂   ▂ ▂▂█                       prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
