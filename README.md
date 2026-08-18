@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-08-17_
+_last synced · 2026-08-18_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 63 merged  ·  13 open  ·  2.0M⭐ reached
-│ ▂   ▂ ▂▂█                       prs over last 30 days
+│    ▂ ▂▂█                        prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 272k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 273k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 240k | [#2606](https://github.com/affaan-m/ECC/pull/2606) [#2577](https://github.com/affaan-m/ECC/pull/2577) [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(continuous-learning-v2): warn when the observer never survives ... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 164k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | — | fix(ext/node): apply backpressure in Readable.toWeb() |
@@ -67,7 +67,7 @@ _last synced · 2026-08-17_
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99k | [#58551](https://github.com/ant-design/ant-design/pull/58551) [#58241](https://github.com/ant-design/ant-design/pull/58241) | — | fix(Typography): inherit font size in editable textarea |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 75k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [apache/superset](https://github.com/apache/superset) | 74k | [#42220](https://github.com/apache/superset/pull/42220) | [#42489](https://github.com/apache/superset/pull/42489) | fix(core): stop discarding API errors that quote an HTML tag |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 73k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 66k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 63k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 57k | [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): serve noarch Alpine index for any requested architec... |
