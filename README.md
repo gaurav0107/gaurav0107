@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-08-24_
+_last synced · 2026-08-25_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
 │ 64 merged  ·  12 open  ·  2.0M⭐ reached
-│ ▂█                              prs over last 30 days
+│ █                               prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 276k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 277k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242k | [#2606](https://github.com/affaan-m/ECC/pull/2606) [#2577](https://github.com/affaan-m/ECC/pull/2577) [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(continuous-learning-v2): warn when the observer never survives ... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 164k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | — | fix(ext/node): apply backpressure in Readable.toWeb() |
