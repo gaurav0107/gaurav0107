@@ -48,18 +48,18 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-08-26_
+_last synced · 2026-08-27_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 64 merged  ·  12 open  ·  2.0M⭐ reached
+│ 65 merged  ·  13 open  ·  2.0M⭐ reached
 │                                 prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 277k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 278k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 243k | [#2606](https://github.com/affaan-m/ECC/pull/2606) [#2577](https://github.com/affaan-m/ECC/pull/2577) [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(continuous-learning-v2): warn when the observer never survives ... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 164k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | — | fix(ext/node): apply backpressure in Readable.toWeb() |
@@ -77,6 +77,7 @@ _last synced · 2026-08-26_
 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 44k | [#8326](https://github.com/mitmproxy/mitmproxy/pull/8326) [#8294](https://github.com/mitmproxy/mitmproxy/pull/8294) | [#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) [#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | proxy: bracket IPv6 literals in upstream CONNECT authority |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 42k | [#13171](https://github.com/danny-avila/LibreChat/pull/13171) [#12825](https://github.com/danny-avila/LibreChat/pull/12825) | [#14415](https://github.com/danny-avila/LibreChat/pull/14415) | 📧 fix: Add .msg (application/vnd.ms-outlook) Support to File Upload |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 39k | [#3498](https://github.com/HKUDS/LightRAG/pull/3498) | — | 🐛 fix(api): stop the ollama bracket prompt from corrupting the query |
+| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 36k | [#50809](https://github.com/keycloak/keycloak/pull/50809) | [#50429](https://github.com/keycloak/keycloak/pull/50429) | Honor configured admin realm in ClientManager.isInternalClient |
 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34k | [#17567](https://github.com/SeleniumHQ/selenium/pull/17567) | — | [rust] honor --browser-version in Selenium Manager Electron driver ... |
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32k | [#1239](https://github.com/conductor-oss/conductor/pull/1239) | — | fix(rest): log 4xx client exceptions at WARN instead of ERROR |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | fix: log the convenience epoch metric once per step (#20902) |
