@@ -48,7 +48,7 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-08-29_
+_last synced · 2026-08-30_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
@@ -68,7 +68,7 @@ _last synced · 2026-08-29_
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 76k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 75k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
 | [apache/superset](https://github.com/apache/superset) | 74k | [#42220](https://github.com/apache/superset/pull/42220) | [#42489](https://github.com/apache/superset/pull/42489) | fix(core): stop discarding API errors that quote an HTML tag |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 67k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 68k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 64k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 57k | [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): serve noarch Alpine index for any requested architec... |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | [#22371](https://github.com/run-llama/llama_index/pull/22371) | refactor(core): deduplicate SimpleDirectoryReader load_file/aload_file |
