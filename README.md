@@ -48,7 +48,7 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-09-01_
+_last synced · 2026-09-02_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
@@ -89,7 +89,7 @@ _last synced · 2026-09-01_
 | [oxc-project/oxc](https://github.com/oxc-project/oxc) | 22k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | — | fix(linter/unicorn/prefer-at): skip object numeric-key access |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | 21k | [#5165](https://github.com/lima-vm/lima/pull/5165) [#5090](https://github.com/lima-vm/lima/pull/5090) | — | shell: clean up stale ssh.sock on --reconnect when the master is al... |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19k | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | — | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
-| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
+| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 
 <!-- OSS:END -->
 
