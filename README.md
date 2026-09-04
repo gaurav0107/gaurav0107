@@ -48,19 +48,19 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-09-03_
+_last synced · 2026-09-04_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 65 merged  ·  13 open  ·  2.0M⭐ reached
+│ 65 merged  ·  13 open  ·  2.1M⭐ reached
 │                                 prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 280k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 246k | [#2606](https://github.com/affaan-m/ECC/pull/2606) [#2577](https://github.com/affaan-m/ECC/pull/2577) [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(continuous-learning-v2): warn when the observer never survives ... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 281k | [#1987](https://github.com/obra/superpowers/pull/1987) | — | test: realign antigravity + pi mapping assertions with pruned refer... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 247k | [#2606](https://github.com/affaan-m/ECC/pull/2606) [#2577](https://github.com/affaan-m/ECC/pull/2577) [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | — | fix(continuous-learning-v2): warn when the observer never survives ... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 164k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | — | fix(ext/node): apply backpressure in Readable.toWeb() |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 106k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | [#28183](https://github.com/google-gemini/gemini-cli/pull/28183) | fix(vscode-ide-companion): preserve terminal focus when closing dif... |
@@ -71,7 +71,7 @@ _last synced · 2026-09-03_
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 68k | [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): retry passthrough on transient upstream connection close |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 64k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 57k | [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): serve noarch Alpine index for any requested architec... |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | [#22371](https://github.com/run-llama/llama_index/pull/22371) | refactor(core): deduplicate SimpleDirectoryReader load_file/aload_file |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | [#22371](https://github.com/run-llama/llama_index/pull/22371) | refactor(core): deduplicate SimpleDirectoryReader load_file/aload_file |
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 49k | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | — | Common: mask sensitive data on Exception::addMessage |
 | [apache/airflow](https://github.com/apache/airflow) | 46k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 44k | [#8326](https://github.com/mitmproxy/mitmproxy/pull/8326) [#8294](https://github.com/mitmproxy/mitmproxy/pull/8294) | [#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) [#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | proxy: bracket IPv6 literals in upstream CONNECT authority |
