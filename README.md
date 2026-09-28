@@ -48,7 +48,7 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-09-27_
+_last synced · 2026-09-28_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
@@ -75,7 +75,7 @@ _last synced · 2026-09-27_
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50k | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | — | Common: mask sensitive data on Exception::addMessage |
 | [apache/airflow](https://github.com/apache/airflow) | 46k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 45k | [#8326](https://github.com/mitmproxy/mitmproxy/pull/8326) [#8294](https://github.com/mitmproxy/mitmproxy/pull/8294) | [#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) [#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | proxy: bracket IPv6 literals in upstream CONNECT authority |
-| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 44k | [#13171](https://github.com/LibreChat-AI/LibreChat/pull/13171) [#12825](https://github.com/LibreChat-AI/LibreChat/pull/12825) | [#14415](https://github.com/LibreChat-AI/LibreChat/pull/14415) | 📧 fix: Add .msg (application/vnd.ms-outlook) Support to File Upload |
+| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 45k | [#13171](https://github.com/LibreChat-AI/LibreChat/pull/13171) [#12825](https://github.com/LibreChat-AI/LibreChat/pull/12825) | [#14415](https://github.com/LibreChat-AI/LibreChat/pull/14415) | 📧 fix: Add .msg (application/vnd.ms-outlook) Support to File Upload |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 39k | [#3498](https://github.com/HKUDS/LightRAG/pull/3498) | — | 🐛 fix(api): stop the ollama bracket prompt from corrupting the query |
 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | [#50809](https://github.com/keycloak/keycloak/pull/50809) | [#50429](https://github.com/keycloak/keycloak/pull/50429) | Honor configured admin realm in ClientManager.isInternalClient |
 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34k | [#17567](https://github.com/SeleniumHQ/selenium/pull/17567) | — | [rust] honor --browser-version in Selenium Manager Electron driver ... |
