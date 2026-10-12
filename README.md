@@ -95,7 +95,7 @@ _last synced · 2026-10-12_
 
 <!-- OSS:END -->
 
-<sub>Sorted by upstream star count. Closed-unmerged PRs skipped.</sub>
+<sub>Sorted by upstream star count. Closed-unmerged PRs skipped. · [**All open PRs + week-by-week opened/merged →**](PULLS.md)</sub>
 
 ---
 
