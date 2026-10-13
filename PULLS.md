@@ -1,15 +1,16 @@
 # Pull requests
 
-_last synced · 2026-10-12_ · [← back to profile](README.md)
+_last synced · 2026-10-13_ · [← back to profile](README.md)
 
-**245** merged · **53** open
+**142** merged · **51** open
 
 ## By month opened
 
-### October 2026 · 6 opened · 1 merged
+### October 2026 · 7 opened · 2 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [gaurav0107/gaurav0107#2](https://github.com/gaurav0107/gaurav0107/pull/2) | PULLS.md: group by month, open list below | 2026-10-12 | 2026-10-12 |
 | [gaurav0107/gaurav0107#1](https://github.com/gaurav0107/gaurav0107/pull/1) | Add PR timeline page (PULLS.md) | 2026-10-12 | 2026-10-12 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 | open |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 | open |
@@ -17,18 +18,14 @@ _last synced · 2026-10-12_ · [← back to profile](README.md)
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 | open |
 | [oxc-project/oxc#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports | 2026-10-12 | open |
 
-### September 2026 · 6 opened · 5 merged
+### September 2026 · 2 opened · 1 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
 | [ZhuLinsen/daily_stock_analysis#2368](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2368) | fix: use full English stock analysis prompt templates when REPORT_LANGUAGE=en | 2026-09-29 | 2026-09-30 |
 | [khoj-ai/khoj#1430](https://github.com/khoj-ai/khoj/pull/1430) | Fix crash when chat tool selection falls back to agent's configured tools | 2026-09-23 | open |
-| [whatthedough/website#9](https://github.com/whatthedough/website/pull/9) | feat: add /qr landing page for packaging QR codes | 2026-09-21 | 2026-09-21 |
-| [whatthedough/website#8](https://github.com/whatthedough/website/pull/8) | fix: size the Swiggy pill to match Zomato | 2026-09-08 | 2026-09-10 |
-| [whatthedough/website#7](https://github.com/whatthedough/website/pull/7) | feat: replace Order Now CTAs with Swiggy and Zomato links | 2026-09-08 | 2026-09-08 |
-| [whatthedough/website#3](https://github.com/whatthedough/website/pull/3) | feat: implement home page design, move pages into (site) route group | 2026-09-05 | 2026-09-05 |
 
-### July 2026 · 87 opened · 64 merged
+### July 2026 · 82 opened · 59 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -88,21 +85,16 @@ _last synced · 2026-10-12_ · [← back to profile](README.md)
 | [gaurav0107/superhuman#19](https://github.com/gaurav0107/superhuman/pull/19) | Revert "Add landing page website and make it Vercel-ready" | 2026-07-05 | 2026-07-05 |
 | [gaurav0107/superhuman#18](https://github.com/gaurav0107/superhuman/pull/18) | Add landing page website and make it Vercel-ready | 2026-07-05 | 2026-07-05 |
 | [wwade/jobrunner#428](https://github.com/wwade/jobrunner/pull/428) | fix: render printable env values as text in job -vvv | 2026-07-05 | open |
-| [langprobe/website#5](https://github.com/langprobe/website/pull/5) | Remove vs-LangSmith comparison story | 2026-07-05 | 2026-07-05 |
 | [gaurav0107/superhuman#17](https://github.com/gaurav0107/superhuman/pull/17) | Add basic opt-out usage telemetry (PostHog) | 2026-07-05 | 2026-07-05 |
 | [langprobe/langprobe#33](https://github.com/langprobe/langprobe/pull/33) | feat: agent-native eval loop (cluster → propose → backtest → promote → watch) | 2026-07-05 | 2026-07-05 |
 | [gaurav0107/superhuman#16](https://github.com/gaurav0107/superhuman/pull/16) | v0.8.0: disclose Superhuman PR origin by default (SUPERHUMAN_ATTRIBUTION opt-out) | 2026-07-04 | 2026-07-04 |
 | [langprobe/langprobe#32](https://github.com/langprobe/langprobe/pull/32) | chore: remove unused code, stale docs, and committed tool caches | 2026-07-04 | 2026-07-04 |
-| [langprobe/website#4](https://github.com/langprobe/website/pull/4) | Point docs to docs.langprobe.com and update SEO/agent-search surfaces | 2026-07-04 | 2026-07-04 |
 | [langprobe/langprobe#31](https://github.com/langprobe/langprobe/pull/31) | fix(web): login graph tags — edge inset + floating | 2026-07-04 | 2026-07-04 |
 | [langprobe/langprobe#29](https://github.com/langprobe/langprobe/pull/29) | fix(web): login trace-graph flow + viewport scaling | 2026-07-04 | 2026-07-04 |
-| [langprobe/website#3](https://github.com/langprobe/website/pull/3) | Fix production domain: langprobe.dev → langprobe.com | 2026-07-04 | 2026-07-04 |
-| [langprobe/website#2](https://github.com/langprobe/website/pull/2) | SEO/AEO/GEO overhaul: content pages, machine-readable surface, site hardening | 2026-07-04 | 2026-07-04 |
 | [langprobe/langprobe#28](https://github.com/langprobe/langprobe/pull/28) | feat(web): design 4A sign-in for the login page | 2026-07-04 | 2026-07-04 |
 | [langprobe/langprobe#27](https://github.com/langprobe/langprobe/pull/27) | fix(web): align all modal/dialog/form components with the overhaul | 2026-07-03 | 2026-07-03 |
 | [langprobe/langprobe#26](https://github.com/langprobe/langprobe/pull/26) | fix(web): traces filter/search bar to pill design | 2026-07-03 | 2026-07-03 |
 | [langprobe/langprobe#25](https://github.com/langprobe/langprobe/pull/25) | feat(web): design overhaul — match claude.ai/design app target | 2026-07-03 | 2026-07-03 |
-| [langprobe/website#1](https://github.com/langprobe/website/pull/1) | Add Langprobe landing page + Cloud Run deploy config | 2026-07-03 | 2026-07-03 |
 | [FlowiseAI/Flowise#6596](https://github.com/FlowiseAI/Flowise/pull/6596) | fix(postgres): honor user-supplied ssl config in vector store connection | 2026-07-03 | open |
 | [gaurav0107/superhuman#15](https://github.com/gaurav0107/superhuman/pull/15) | Bump pr to 0.7.1 | 2026-07-03 | 2026-07-03 |
 | [langprobe/langprobe#24](https://github.com/langprobe/langprobe/pull/24) | fix(migrator): don't drop SQL statements under a comment line (unblocks deploy) | 2026-07-03 | 2026-07-03 |
@@ -120,7 +112,7 @@ _last synced · 2026-10-12_ · [← back to profile](README.md)
 | [langprobe/langprobe#18](https://github.com/langprobe/langprobe/pull/18) | feat(web): v4 design system — Plus Jakarta Sans + dc.html tokens | 2026-07-01 | 2026-07-01 |
 | [affaan-m/ECC#2413](https://github.com/affaan-m/ECC/pull/2413) | feat(session-start): make instinct injection count and confidence threshold configurable | 2026-07-01 | 2026-07-04 |
 
-### June 2026 · 62 opened · 49 merged
+### June 2026 · 61 opened · 48 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -147,7 +139,6 @@ _last synced · 2026-10-12_ · [← back to profile](README.md)
 | [affaan-m/ECC#2372](https://github.com/affaan-m/ECC/pull/2372) | fix(clv2): serialize observer signal-counter to stop dropped increments | 2026-06-27 | 2026-06-30 |
 | [langprobe/sdk-js#1](https://github.com/langprobe/sdk-js/pull/1) | rebrand: tracebility → langprobe (JS/TS SDK) | 2026-06-27 | 2026-06-27 |
 | [langprobe/sdk-python#1](https://github.com/langprobe/sdk-python/pull/1) | rebrand: tracebility → langprobe (Python SDK) | 2026-06-27 | 2026-06-27 |
-| [langprobe/langprobe-examples#1](https://github.com/langprobe/langprobe-examples/pull/1) | rebrand: tracebility → langprobe | 2026-06-27 | 2026-06-27 |
 | [langprobe/langprobe#14](https://github.com/langprobe/langprobe/pull/14) | rebrand: tracebility/tracability → langprobe | 2026-06-27 | 2026-06-27 |
 | [mitmproxy/mitmproxy#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) | scripts: fix crash when loading addon scripts that define a dataclass | 2026-06-27 | open |
 | [affaan-m/ECC#2369](https://github.com/affaan-m/ECC/pull/2369) | fix(clv2): align Python _update_registry schema with shell counterpart | 2026-06-27 | 2026-06-30 |
@@ -222,7 +213,7 @@ _last synced · 2026-10-12_ · [← back to profile](README.md)
 | [gaurav0107/superhuman#3](https://github.com/gaurav0107/superhuman/pull/3) | v0.2.2: hard-code single-author rule, forbid Claude co-author trailers | 2026-05-01 | 2026-05-01 |
 | [NousResearch/hermes-agent#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (#16951) | 2026-05-01 | open |
 
-### April 2026 · 13 opened · 12 merged
+### April 2026 · 11 opened · 10 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -237,152 +228,6 @@ _last synced · 2026-10-12_ · [← back to profile](README.md)
 | [LambdaTest/agent-skills#3](https://github.com/LambdaTest/agent-skills/pull/3) | feat(migration-skill): add missing reference/playbook.md | 2026-04-19 | 2026-05-08 |
 | [affaan-m/ECC#1490](https://github.com/affaan-m/ECC/pull/1490) | fix: remove unsupported agents field from plugin.json | 2026-04-18 | 2026-04-21 |
 | [langchain-ai/langchain-google#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embedding count | 2026-04-18 | open |
-| [whatthedough/website#2](https://github.com/whatthedough/website/pull/2) | Feature/hamburger menu | 2026-04-06 | 2026-04-06 |
-| [whatthedough/website#1](https://github.com/whatthedough/website/pull/1) | Feature/setup | 2026-04-06 | 2026-04-06 |
-
-### April 2019 · 18 opened · 17 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [wealthscore/wealthscore-webapp#14](https://github.com/wealthscore/wealthscore-webapp/pull/14) | Merge codefire | 2019-04-28 | 2019-04-28 |
-| [wealthscore/wealthscore-backend#22](https://github.com/wealthscore/wealthscore-backend/pull/22) | Gaurav | 2019-04-17 | open |
-| [wealthscore/wealthscore-webapp#13](https://github.com/wealthscore/wealthscore-webapp/pull/13) | Gaurav | 2019-04-17 | 2019-04-17 |
-| [wealthscore/wealthscore-webapp#12](https://github.com/wealthscore/wealthscore-webapp/pull/12) | Merge codefire | 2019-04-17 | 2019-04-17 |
-| [wealthscore/wealthscore-webapp#11](https://github.com/wealthscore/wealthscore-webapp/pull/11) | text change | 2019-04-16 | 2019-04-16 |
-| [wealthscore/wealthscore-webapp#10](https://github.com/wealthscore/wealthscore-webapp/pull/10) | Merge codefire | 2019-04-16 | 2019-04-16 |
-| [wealthscore/wealthscore-webapp#9](https://github.com/wealthscore/wealthscore-webapp/pull/9) | updating referral logic | 2019-04-16 | 2019-04-16 |
-| [wealthscore/wealthscore-webapp#8](https://github.com/wealthscore/wealthscore-webapp/pull/8) | Gaurav | 2019-04-16 | 2019-04-16 |
-| [wealthscore/wealthscore-backend#21](https://github.com/wealthscore/wealthscore-backend/pull/21) | Gaurav | 2019-04-16 | 2019-04-16 |
-| [wealthscore/wealthscore-webapp#7](https://github.com/wealthscore/wealthscore-webapp/pull/7) | Gaurav | 2019-04-16 | 2019-04-16 |
-| [wealthscore/wealthscore-backend#20](https://github.com/wealthscore/wealthscore-backend/pull/20) | creating otp jugaad | 2019-04-16 | 2019-04-16 |
-| [wealthscore/wealthscore-backend#19](https://github.com/wealthscore/wealthscore-backend/pull/19) | Gaurav | 2019-04-15 | 2019-04-15 |
-| [wealthscore/wealthscore-backend#18](https://github.com/wealthscore/wealthscore-backend/pull/18) | Gaurav | 2019-04-14 | 2019-04-14 |
-| [wealthscore/wealthscore-backend#17](https://github.com/wealthscore/wealthscore-backend/pull/17) | passing referral code in onboaring mail | 2019-04-14 | 2019-04-14 |
-| [wealthscore/wealthscore-webapp#6](https://github.com/wealthscore/wealthscore-webapp/pull/6) | Gaurav | 2019-04-14 | 2019-04-14 |
-| [wealthscore/wealthscore-backend#16](https://github.com/wealthscore/wealthscore-backend/pull/16) | invite only signup | 2019-04-14 | 2019-04-14 |
-| [wealthscore/wealthscore-backend#15](https://github.com/wealthscore/wealthscore-backend/pull/15) | Gaurav | 2019-04-11 | 2019-04-11 |
-| [wealthscore/wealthscore-backend#14](https://github.com/wealthscore/wealthscore-backend/pull/14) | Gaurav | 2019-04-10 | 2019-04-10 |
-
-### March 2019 · 13 opened · 13 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [wealthscore/wealthscore-backend#13](https://github.com/wealthscore/wealthscore-backend/pull/13) | Feature/advice | 2019-03-30 | 2019-03-30 |
-| [wealthscore/wealthscore-backend#12](https://github.com/wealthscore/wealthscore-backend/pull/12) | Develop codefire merge | 2019-03-26 | 2019-03-26 |
-| [wealthscore/wealthscore-backend#10](https://github.com/wealthscore/wealthscore-backend/pull/10) | creating part1 and part2 | 2019-03-25 | 2019-03-25 |
-| [wealthscore/wealthscore-webapp#1](https://github.com/wealthscore/wealthscore-webapp/pull/1) | adding city dropdown | 2019-03-22 | 2019-03-22 |
-| [wealthscore/wealthscore-backend#9](https://github.com/wealthscore/wealthscore-backend/pull/9) | Feature/insights | 2019-03-20 | 2019-03-20 |
-| [wealthscore/wealthscore-backend#8](https://github.com/wealthscore/wealthscore-backend/pull/8) | Feature/insights | 2019-03-20 | 2019-04-10 |
-| [wealthscore/wealthscore-backend#7](https://github.com/wealthscore/wealthscore-backend/pull/7) | Feature/insights 1 | 2019-03-19 | 2019-03-19 |
-| [wealthscore/wealthscore-backend#6](https://github.com/wealthscore/wealthscore-backend/pull/6) | Feature/fixingbugs | 2019-03-18 | 2019-03-18 |
-| [wealthscore/wealthscore-backend#5](https://github.com/wealthscore/wealthscore-backend/pull/5) | enabeling celery | 2019-03-18 | 2019-03-18 |
-| [wealthscore/wealthscore-backend#4](https://github.com/wealthscore/wealthscore-backend/pull/4) | Feature/insights | 2019-03-18 | 2019-03-18 |
-| [wealthscore/wealthscore-backend#3](https://github.com/wealthscore/wealthscore-backend/pull/3) | Feature/inmemory computation 1 | 2019-03-17 | 2019-03-17 |
-| [wealthscore/wealthscore-backend#2](https://github.com/wealthscore/wealthscore-backend/pull/2) | Feature/inmemory computation | 2019-03-11 | 2019-03-17 |
-| [wealthscore/wealthscore-backend#1](https://github.com/wealthscore/wealthscore-backend/pull/1) | Develop | 2019-03-10 | 2019-04-10 |
-
-### March 2016 · 7 opened · 7 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [PressPlayTV/smithy#36](https://github.com/PressPlayTV/smithy/pull/36) | Bug Fix for a Non existing series  | 2016-03-30 | 2016-03-30 |
-| [PressPlayTV/smithy#35](https://github.com/PressPlayTV/smithy/pull/35) | Adding engagement time | 2016-03-18 | 2016-03-18 |
-| [PressPlayTV/cyclops#86](https://github.com/PressPlayTV/cyclops/pull/86) | App Release 48(0.8.2) | 2016-03-15 | 2016-03-15 |
-| [PressPlayTV/cyclops#81](https://github.com/PressPlayTV/cyclops/pull/81) | Hulk | 2016-03-14 | 2016-03-14 |
-| [PressPlayTV/smithy#33](https://github.com/PressPlayTV/smithy/pull/33) | Content stats | 2016-03-13 | 2016-03-13 |
-| [PressPlayTV/smithy#32](https://github.com/PressPlayTV/smithy/pull/32) | Content stats  | 2016-03-10 | 2016-03-11 |
-| [PressPlayTV/cyclops#42](https://github.com/PressPlayTV/cyclops/pull/42) | merging kshark | 2016-03-04 | 2016-03-04 |
-
-### February 2016 · 7 opened · 6 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [PressPlayTV/cyclops#27](https://github.com/PressPlayTV/cyclops/pull/27) | Merging ui changes by kartik | 2016-02-28 | 2016-02-28 |
-| [PressPlayTV/cyclops#12](https://github.com/PressPlayTV/cyclops/pull/12) | merging | 2016-02-23 | 2016-02-24 |
-| [PressPlayTV/cyclops#11](https://github.com/PressPlayTV/cyclops/pull/11) | merging | 2016-02-23 | 2016-02-23 |
-| [PressPlayTV/cyclops#8](https://github.com/PressPlayTV/cyclops/pull/8) | Daredevil | 2016-02-22 | 2016-02-22 |
-| [PressPlayTV/cyclops#7](https://github.com/PressPlayTV/cyclops/pull/7) | Merge pull request #1 from PressPlayTV/development | 2016-02-22 | 2016-02-22 |
-| [PressPlayTV/cyclops#5](https://github.com/PressPlayTV/cyclops/pull/5) | Daredevil | 2016-02-16 | 2016-02-16 |
-| [PressPlayTV/smithy#30](https://github.com/PressPlayTV/smithy/pull/30) | Movingpingstoinflux | 2016-02-06 | open |
-
-### January 2016 · 4 opened · 4 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [gaurav0107/smithy#1](https://github.com/gaurav0107/smithy/pull/1) | pulling from master | 2016-01-27 | 2016-01-27 |
-| [gaurav0107/PressPlayApp#6](https://github.com/gaurav0107/PressPlayApp/pull/6) | Addingmoengage | 2016-01-12 | 2016-01-12 |
-| [gaurav0107/PressPlayApp#5](https://github.com/gaurav0107/PressPlayApp/pull/5) | Development | 2016-01-09 | 2016-01-09 |
-| [gaurav0107/PressPlayApp#4](https://github.com/gaurav0107/PressPlayApp/pull/4) | Fixinglogin | 2016-01-08 | 2016-01-08 |
-
-### December 2015 · 24 opened · 24 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [gaurav0107/PressPlayApp#3](https://github.com/gaurav0107/PressPlayApp/pull/3) | Merging Development | 2015-12-30 | 2015-12-30 |
-| [PressPlayTV/PressPlayApp#83](https://github.com/PressPlayTV/PressPlayApp/pull/83) | merging requests | 2015-12-24 | 2015-12-24 |
-| [PressPlayTV/PressPlayApp#80](https://github.com/PressPlayTV/PressPlayApp/pull/80) | merging conflicts | 2015-12-24 | 2015-12-24 |
-| [PressPlayTV/PressPlayApp#77](https://github.com/PressPlayTV/PressPlayApp/pull/77) | fixing notification bug | 2015-12-23 | 2015-12-23 |
-| [PressPlayTV/PressPlayApp#76](https://github.com/PressPlayTV/PressPlayApp/pull/76) | bringing development back to life | 2015-12-23 | 2015-12-23 |
-| [gaurav0107/PressPlayApp#2](https://github.com/gaurav0107/PressPlayApp/pull/2) | Gaurav development | 2015-12-21 | 2015-12-21 |
-| [gaurav0107/PressPlayApp#1](https://github.com/gaurav0107/PressPlayApp/pull/1) | Syncing forks | 2015-12-20 | 2015-12-20 |
-| [PressPlayTV/PressPlayApp#71](https://github.com/PressPlayTV/PressPlayApp/pull/71) | Gaurav development | 2015-12-20 | 2015-12-20 |
-| [PressPlayTV/PressPlayApp#70](https://github.com/PressPlayTV/PressPlayApp/pull/70) | Gaurav testing1 | 2015-12-20 | 2015-12-20 |
-| [PressPlayTV/PressPlayApp#63](https://github.com/PressPlayTV/PressPlayApp/pull/63) | AdFragment fixes | 2015-12-16 | 2015-12-16 |
-| [PressPlayTV/PressPlayApp#62](https://github.com/PressPlayTV/PressPlayApp/pull/62) | splash add tracking | 2015-12-16 | 2015-12-16 |
-| [PressPlayTV/PressPlayApp#61](https://github.com/PressPlayTV/PressPlayApp/pull/61) | Errohitgupta master | 2015-12-16 | 2015-12-16 |
-| [PressPlayTV/PressPlayApp#60](https://github.com/PressPlayTV/PressPlayApp/pull/60) | merge bhasad | 2015-12-15 | 2015-12-16 |
-| [PressPlayTV/PressPlayApp#59](https://github.com/PressPlayTV/PressPlayApp/pull/59) | ProgressBar | 2015-12-15 | 2015-12-15 |
-| [PressPlayTV/PressPlayApp#58](https://github.com/PressPlayTV/PressPlayApp/pull/58) | Merging | 2015-12-14 | 2015-12-14 |
-| [PressPlayTV/PressPlayApp#54](https://github.com/PressPlayTV/PressPlayApp/pull/54) | Merge branch 'rohit-development' | 2015-12-14 | 2015-12-14 |
-| [PressPlayTV/PressPlayApp#50](https://github.com/PressPlayTV/PressPlayApp/pull/50) | merging edits | 2015-12-11 | 2015-12-11 |
-| [PressPlayTV/PressPlayApp#47](https://github.com/PressPlayTV/PressPlayApp/pull/47) | Gaurav testing | 2015-12-08 | 2015-12-08 |
-| [PressPlayTV/PressPlayApp#46](https://github.com/PressPlayTV/PressPlayApp/pull/46) | Rohit development | 2015-12-07 | 2015-12-07 |
-| [PressPlayTV/PressPlayApp#45](https://github.com/PressPlayTV/PressPlayApp/pull/45) | Rohit development | 2015-12-05 | 2015-12-05 |
-| [PressPlayTV/PressPlayApp#44](https://github.com/PressPlayTV/PressPlayApp/pull/44) | caching with recycler view for channel icons | 2015-12-05 | 2015-12-05 |
-| [PressPlayTV/PressPlayApp#43](https://github.com/PressPlayTV/PressPlayApp/pull/43) | Gaurav testing | 2015-12-05 | 2015-12-05 |
-| [PressPlayTV/PressPlayApp#42](https://github.com/PressPlayTV/PressPlayApp/pull/42) | Rohit development | 2015-12-04 | 2015-12-04 |
-| [PressPlayTV/PressPlayApp#41](https://github.com/PressPlayTV/PressPlayApp/pull/41) | Rohit development | 2015-12-02 | 2015-12-02 |
-
-### November 2015 · 8 opened · 8 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [PressPlayTV/PressPlayApp#40](https://github.com/PressPlayTV/PressPlayApp/pull/40) | Rohit development | 2015-11-26 | 2015-11-26 |
-| [PressPlayTV/PressPlayApp#39](https://github.com/PressPlayTV/PressPlayApp/pull/39) | Rohit development | 2015-11-25 | 2015-11-25 |
-| [PressPlayTV/PressPlayApp#37](https://github.com/PressPlayTV/PressPlayApp/pull/37) | Video Slider | 2015-11-20 | 2015-11-20 |
-| [PressPlayTV/PressPlayApp#36](https://github.com/PressPlayTV/PressPlayApp/pull/36) | Adding Download Monitor | 2015-11-07 | 2015-11-07 |
-| [PressPlayTV/PressPlayApp#35](https://github.com/PressPlayTV/PressPlayApp/pull/35) | Gaurav development | 2015-11-07 | 2015-11-07 |
-| [PressPlayTV/PressPlayApp#33](https://github.com/PressPlayTV/PressPlayApp/pull/33) | master to development | 2015-11-07 | 2015-11-07 |
-| [PressPlayTV/PressPlayApp#32](https://github.com/PressPlayTV/PressPlayApp/pull/32) | Version 23 merge | 2015-11-04 | 2015-11-04 |
-| [PressPlayTV/PressPlayApp#31](https://github.com/PressPlayTV/PressPlayApp/pull/31) | Gaurav development | 2015-11-04 | 2015-11-04 |
-
-### October 2015 · 9 opened · 9 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [PressPlayTV/PressPlayApp#26](https://github.com/PressPlayTV/PressPlayApp/pull/26) | Development | 2015-10-26 | 2015-10-26 |
-| [PressPlayTV/PressPlayApp#25](https://github.com/PressPlayTV/PressPlayApp/pull/25) | Gaurav development | 2015-10-26 | 2015-10-26 |
-| [PressPlayTV/PressPlayApp#23](https://github.com/PressPlayTV/PressPlayApp/pull/23) | Gaurav development | 2015-10-24 | 2015-10-25 |
-| [PressPlayTV/PressPlayApp#22](https://github.com/PressPlayTV/PressPlayApp/pull/22) | Gaurav development | 2015-10-22 | 2015-10-23 |
-| [PressPlayTV/PressPlayApp#21](https://github.com/PressPlayTV/PressPlayApp/pull/21) | Gaurav development | 2015-10-20 | 2015-10-20 |
-| [PressPlayTV/PressPlayApp#20](https://github.com/PressPlayTV/PressPlayApp/pull/20) | Yogesh | 2015-10-20 | 2015-10-20 |
-| [PressPlayTV/PressPlayApp#19](https://github.com/PressPlayTV/PressPlayApp/pull/19) | Gaurav development | 2015-10-16 | 2015-10-16 |
-| [PressPlayTV/PressPlayApp#18](https://github.com/PressPlayTV/PressPlayApp/pull/18) | Gaurav development | 2015-10-13 | 2015-10-13 |
-| [PressPlayTV/PressPlayApp#17](https://github.com/PressPlayTV/PressPlayApp/pull/17) | Pre rolladd | 2015-10-01 | 2015-10-01 |
-
-### September 2015 · 1 opened · 1 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [PressPlayTV/PressPlayApp#16](https://github.com/PressPlayTV/PressPlayApp/pull/16) | Exoplayer added for on the box app | 2015-09-25 | 2015-09-25 |
-
-### June 2015 · 3 opened · 3 merged
-
-| PR | title | opened | merged |
-|---|---|---|---|
-| [PressPlayTV/PressPlayApp#5](https://github.com/PressPlayTV/PressPlayApp/pull/5) | Naman | 2015-06-19 | 2015-06-19 |
-| [PressPlayTV/PressPlayApp#3](https://github.com/PressPlayTV/PressPlayApp/pull/3) | merging naman | 2015-06-11 | 2015-06-11 |
-| [PressPlayTV/PressPlayApp#2](https://github.com/PressPlayTV/PressPlayApp/pull/2) | first | 2015-06-10 | 2015-06-10 |
 
 
 ## Open now
@@ -440,6 +285,4 @@ _last synced · 2026-10-12_ · [← back to profile](README.md)
 | [FlowiseAI/Flowise#6355](https://github.com/FlowiseAI/Flowise/pull/6355) | feat: add Cohere Aya multilingual models to ChatCohere | 2026-05-06 |
 | [NousResearch/hermes-agent#18552](https://github.com/NousResearch/hermes-agent/pull/18552) | fix(weixin): steer agent to images or list format for wide tables (#16951) | 2026-05-01 |
 | [langchain-ai/langchain-google#1708](https://github.com/langchain-ai/langchain-google/pull/1708) | fix(genai): wrap batch texts in Content objects for correct embedding count | 2026-04-18 |
-| [wealthscore/wealthscore-backend#22](https://github.com/wealthscore/wealthscore-backend/pull/22) | Gaurav | 2019-04-17 |
-| [PressPlayTV/smithy#30](https://github.com/PressPlayTV/smithy/pull/30) | Movingpingstoinflux | 2016-02-06 |
 
