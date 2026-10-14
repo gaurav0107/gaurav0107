@@ -1,20 +1,24 @@
 # Pull requests
 
-_last synced · 2026-10-13_ · [← back to profile](README.md)
+_last synced · 2026-10-14_ · [← back to profile](README.md)
 
-**142** merged · **51** open
+**143** merged · **54** open
 
 ## By month opened
 
-### October 2026 · 7 opened · 2 merged
+### October 2026 · 11 opened · 3 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | open |
+| [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 | open |
+| [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | open |
+| [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 | draft |
 | [gaurav0107/gaurav0107#2](https://github.com/gaurav0107/gaurav0107/pull/2) | PULLS.md: group by month, open list below | 2026-10-12 | 2026-10-12 |
 | [gaurav0107/gaurav0107#1](https://github.com/gaurav0107/gaurav0107/pull/1) | Add PR timeline page (PULLS.md) | 2026-10-12 | 2026-10-12 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 | open |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 | open |
-| [koalaman/shellcheck#3558](https://github.com/koalaman/shellcheck/pull/3558) | fix(SC2292): do not add an extra ] when the test was closed with ]] | 2026-10-12 | open |
+| [koalaman/shellcheck#3558](https://github.com/koalaman/shellcheck/pull/3558) | fix(SC2292): do not add an extra ] when the test was closed with ]] | 2026-10-12 | 2026-10-14 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 | open |
 | [oxc-project/oxc#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports | 2026-10-12 | open |
 
@@ -234,9 +238,12 @@ _last synced · 2026-10-13_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 |
+| [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 |
+| [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 |
+| [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
-| [koalaman/shellcheck#3558](https://github.com/koalaman/shellcheck/pull/3558) | fix(SC2292): do not add an extra ] when the test was closed with ]] | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
 | [oxc-project/oxc#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports | 2026-10-12 |
 | [khoj-ai/khoj#1430](https://github.com/khoj-ai/khoj/pull/1430) | Fix crash when chat tool selection falls back to agent's configured tools | 2026-09-23 |
