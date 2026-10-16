@@ -1,15 +1,17 @@
 # Pull requests
 
-_last synced · 2026-10-15_ · [← back to profile](README.md)
+_last synced · 2026-10-16_ · [← back to profile](README.md)
 
-**143** merged · **54** open
+**143** merged · **55** open
 
 ## By month opened
 
-### October 2026 · 11 opened · 3 merged
+### October 2026 · 13 opened · 3 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | open |
+| [affaan-m/ECC#3597](https://github.com/affaan-m/ECC/pull/3597) | fix(commands): drop unrendered {{LITE_MODE_FLAG}} from multi-* wrapper calls | 2026-10-15 | open |
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | open |
 | [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 | open |
 | [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | open |
@@ -116,7 +118,7 @@ _last synced · 2026-10-15_ · [← back to profile](README.md)
 | [langprobe/langprobe#18](https://github.com/langprobe/langprobe/pull/18) | feat(web): v4 design system — Plus Jakarta Sans + dc.html tokens | 2026-07-01 | 2026-07-01 |
 | [affaan-m/ECC#2413](https://github.com/affaan-m/ECC/pull/2413) | feat(session-start): make instinct injection count and confidence threshold configurable | 2026-07-01 | 2026-07-04 |
 
-### June 2026 · 61 opened · 48 merged
+### June 2026 · 60 opened · 48 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -135,7 +137,6 @@ _last synced · 2026-10-15_ · [← back to profile](README.md)
 | [Lightning-AI/pytorch-lightning#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) | feat: add dtype option to LightningModule.load_from_checkpoint | 2026-06-28 | open |
 | [lima-vm/lima#5165](https://github.com/lima-vm/lima/pull/5165) | shell: clean up stale ssh.sock on --reconnect when the master is already dead | 2026-06-28 | 2026-07-02 |
 | [mochajs/mocha#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors | 2026-06-28 | open |
-| [google-gemini/gemini-cli#28183](https://github.com/google-gemini/gemini-cli/pull/28183) | fix(vscode-ide-companion): preserve terminal focus when closing diff tabs | 2026-06-28 | open |
 | [gaurav0107/superhuman#12](https://github.com/gaurav0107/superhuman/pull/12) | Add Codex plugin configuration | 2026-06-28 | 2026-06-28 |
 | [affaan-m/ECC#2374](https://github.com/affaan-m/ECC/pull/2374) | test(clv2): add coverage for instinct-cli prune, projects ops, promote dry-run, normalize-url | 2026-06-28 | 2026-06-30 |
 | [affaan-m/ECC#2373](https://github.com/affaan-m/ECC/pull/2373) | fix(clv2): surface SIGALRM timeout drops in observe.sh | 2026-06-27 | 2026-06-30 |
@@ -238,6 +239,8 @@ _last synced · 2026-10-15_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 |
+| [affaan-m/ECC#3597](https://github.com/affaan-m/ECC/pull/3597) | fix(commands): drop unrendered {{LITE_MODE_FLAG}} from multi-* wrapper calls | 2026-10-15 |
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 |
 | [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 |
 | [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 |
@@ -275,7 +278,6 @@ _last synced · 2026-10-15_ · [← back to profile](README.md)
 | [FlowiseAI/Flowise#6579](https://github.com/FlowiseAI/Flowise/pull/6579) | feat(milvus): make distance metric type configurable | 2026-06-29 |
 | [Lightning-AI/pytorch-lightning#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) | feat: add dtype option to LightningModule.load_from_checkpoint | 2026-06-28 |
 | [mochajs/mocha#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors | 2026-06-28 |
-| [google-gemini/gemini-cli#28183](https://github.com/google-gemini/gemini-cli/pull/28183) | fix(vscode-ide-companion): preserve terminal focus when closing diff tabs | 2026-06-28 |
 | [mitmproxy/mitmproxy#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) | scripts: fix crash when loading addon scripts that define a dataclass | 2026-06-27 |
 | [mitmproxy/mitmproxy#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | feat: add termlog_colors option to force/disable color output | 2026-06-10 |
 | [pingcap/tidb#69006](https://github.com/pingcap/tidb/pull/69006) | executor, planner: push down table_id/index_id filters for tiflash_indexes (#68821) | 2026-06-06 |
