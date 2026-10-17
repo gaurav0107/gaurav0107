@@ -1,8 +1,8 @@
 # Pull requests
 
-_last synced · 2026-10-16_ · [← back to profile](README.md)
+_last synced · 2026-10-17_ · [← back to profile](README.md)
 
-**143** merged · **55** open
+**144** merged · **54** open
 
 ## By month opened
 
@@ -183,7 +183,7 @@ _last synced · 2026-10-16_ · [← back to profile](README.md)
 | [freshframework/fresh#3832](https://github.com/freshframework/fresh/pull/3832) | docs: add JSDoc to @fresh/plugin-tailwind public symbols | 2026-06-05 | open |
 | [affaan-m/ECC#2134](https://github.com/affaan-m/ECC/pull/2134) | fix(continuous-learning-v2): accept claude-vscode as valid entrypoint | 2026-06-03 | 2026-06-07 |
 
-### May 2026 · 30 opened · 22 merged
+### May 2026 · 30 opened · 23 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -193,7 +193,7 @@ _last synced · 2026-10-16_ · [← back to profile](README.md)
 | [SeleniumHQ/selenium#17567](https://github.com/SeleniumHQ/selenium/pull/17567) | [rust] honor --browser-version in Selenium Manager Electron driver resolution | 2026-05-24 | 2026-07-23 |
 | [weaviate/weaviate#11439](https://github.com/weaviate/weaviate/pull/11439) | gh-11399 validate hnsw vectorIndexConfig numeric ranges | 2026-05-24 | open |
 | [mochajs/mocha#6016](https://github.com/mochajs/mocha/pull/6016) | docs: modernize spies example, drop should.js | 2026-05-24 | 2026-06-08 |
-| [starship/starship#7497](https://github.com/starship/starship/pull/7497) | docs(preset): add Void Linux symbol to catppuccin-powerline | 2026-05-24 | open |
+| [starship/starship#7497](https://github.com/starship/starship/pull/7497) | docs(preset): add Void Linux symbol to catppuccin-powerline | 2026-05-24 | 2026-10-16 |
 | [stretchr/testify#1898](https://github.com/stretchr/testify/pull/1898) | assert: include map key in InDeltaMapValues error message | 2026-05-24 | open |
 | [starship/starship#7495](https://github.com/starship/starship/pull/7495) | fix(format): include parse error details when format string fails to parse | 2026-05-22 | open |
 | [affaan-m/ECC#2041](https://github.com/affaan-m/ECC/pull/2041) | fix(install-targets): validate compiled OpenCode plugin before install | 2026-05-22 | 2026-05-25 |
@@ -287,7 +287,6 @@ _last synced · 2026-10-16_ · [← back to profile](README.md)
 | [freshframework/fresh#3832](https://github.com/freshframework/fresh/pull/3832) | docs: add JSDoc to @fresh/plugin-tailwind public symbols | 2026-06-05 |
 | [ray-project/ray#63659](https://github.com/ray-project/ray/pull/63659) | [core][docs] Document hex round-trip ObjectRef anti-pattern (#47923) | 2026-05-27 |
 | [weaviate/weaviate#11439](https://github.com/weaviate/weaviate/pull/11439) | gh-11399 validate hnsw vectorIndexConfig numeric ranges | 2026-05-24 |
-| [starship/starship#7497](https://github.com/starship/starship/pull/7497) | docs(preset): add Void Linux symbol to catppuccin-powerline | 2026-05-24 |
 | [stretchr/testify#1898](https://github.com/stretchr/testify/pull/1898) | assert: include map key in InDeltaMapValues error message | 2026-05-24 |
 | [starship/starship#7495](https://github.com/starship/starship/pull/7495) | fix(format): include parse error details when format string fails to parse | 2026-05-22 |
 | [ExpediaGroup/graphql-kotlin#2173](https://github.com/ExpediaGroup/graphql-kotlin/pull/2173) | feat: allow priority override when multiple SchemaGeneratorHooksProviders are registered | 2026-05-14 |
