@@ -1,12 +1,12 @@
 # Pull requests
 
-_last synced · 2026-10-17_ · [← back to profile](README.md)
+_last synced · 2026-10-18_ · [← back to profile](README.md)
 
-**144** merged · **54** open
+**145** merged · **53** open
 
 ## By month opened
 
-### October 2026 · 13 opened · 3 merged
+### October 2026 · 13 opened · 4 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -15,7 +15,7 @@ _last synced · 2026-10-17_ · [← back to profile](README.md)
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | open |
 | [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 | open |
 | [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | open |
-| [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 | draft |
+| [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 | 2026-10-18 |
 | [gaurav0107/gaurav0107#2](https://github.com/gaurav0107/gaurav0107/pull/2) | PULLS.md: group by month, open list below | 2026-10-12 | 2026-10-12 |
 | [gaurav0107/gaurav0107#1](https://github.com/gaurav0107/gaurav0107/pull/1) | Add PR timeline page (PULLS.md) | 2026-10-12 | 2026-10-12 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 | open |
@@ -244,7 +244,6 @@ _last synced · 2026-10-17_ · [← back to profile](README.md)
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 |
 | [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 |
 | [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 |
-| [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
