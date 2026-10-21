@@ -1,20 +1,21 @@
 # Pull requests
 
-_last synced · 2026-10-20_ · [← back to profile](README.md)
+_last synced · 2026-10-21_ · [← back to profile](README.md)
 
-**145** merged · **53** open
+**146** merged · **52** open
 
 ## By month opened
 
-### October 2026 · 13 opened · 4 merged
+### October 2026 · 14 opened · 5 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 | draft |
+| [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 | open |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | open |
-| [affaan-m/ECC#3597](https://github.com/affaan-m/ECC/pull/3597) | fix(commands): drop unrendered {{LITE_MODE_FLAG}} from multi-* wrapper calls | 2026-10-15 | open |
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | open |
 | [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 | open |
-| [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | open |
+| [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | 2026-10-20 |
 | [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 | 2026-10-18 |
 | [gaurav0107/gaurav0107#2](https://github.com/gaurav0107/gaurav0107/pull/2) | PULLS.md: group by month, open list below | 2026-10-12 | 2026-10-12 |
 | [gaurav0107/gaurav0107#1](https://github.com/gaurav0107/gaurav0107/pull/1) | Add PR timeline page (PULLS.md) | 2026-10-12 | 2026-10-12 |
@@ -31,7 +32,7 @@ _last synced · 2026-10-20_ · [← back to profile](README.md)
 | [ZhuLinsen/daily_stock_analysis#2368](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2368) | fix: use full English stock analysis prompt templates when REPORT_LANGUAGE=en | 2026-09-29 | 2026-09-30 |
 | [khoj-ai/khoj#1430](https://github.com/khoj-ai/khoj/pull/1430) | Fix crash when chat tool selection falls back to agent's configured tools | 2026-09-23 | open |
 
-### July 2026 · 82 opened · 59 merged
+### July 2026 · 81 opened · 59 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -90,7 +91,6 @@ _last synced · 2026-10-20_ · [← back to profile](README.md)
 | [gaurav0107/superhuman#20](https://github.com/gaurav0107/superhuman/pull/20) | Rogue-proof PR-body attribution (v0.6.1) | 2026-07-05 | 2026-07-05 |
 | [gaurav0107/superhuman#19](https://github.com/gaurav0107/superhuman/pull/19) | Revert "Add landing page website and make it Vercel-ready" | 2026-07-05 | 2026-07-05 |
 | [gaurav0107/superhuman#18](https://github.com/gaurav0107/superhuman/pull/18) | Add landing page website and make it Vercel-ready | 2026-07-05 | 2026-07-05 |
-| [wwade/jobrunner#428](https://github.com/wwade/jobrunner/pull/428) | fix: render printable env values as text in job -vvv | 2026-07-05 | open |
 | [gaurav0107/superhuman#17](https://github.com/gaurav0107/superhuman/pull/17) | Add basic opt-out usage telemetry (PostHog) | 2026-07-05 | 2026-07-05 |
 | [langprobe/langprobe#33](https://github.com/langprobe/langprobe/pull/33) | feat: agent-native eval loop (cluster → propose → backtest → promote → watch) | 2026-07-05 | 2026-07-05 |
 | [gaurav0107/superhuman#16](https://github.com/gaurav0107/superhuman/pull/16) | v0.8.0: disclose Superhuman PR origin by default (SUPERHUMAN_ATTRIBUTION opt-out) | 2026-07-04 | 2026-07-04 |
@@ -239,11 +239,11 @@ _last synced · 2026-10-20_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
+| [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 |
-| [affaan-m/ECC#3597](https://github.com/affaan-m/ECC/pull/3597) | fix(commands): drop unrendered {{LITE_MODE_FLAG}} from multi-* wrapper calls | 2026-10-15 |
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 |
 | [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 |
-| [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
@@ -268,7 +268,6 @@ _last synced · 2026-10-20_ · [← back to profile](README.md)
 | [agno-agi/agno#8786](https://github.com/agno-agi/agno/pull/8786) | fix: keep tool defaults for omitted params on HITL continue | 2026-07-06 |
 | [agno-agi/agno#8763](https://github.com/agno-agi/agno/pull/8763) | [fix] Gate OpenAI strict schema normalization on strict_output | 2026-07-05 |
 | [huggingface/datasets#8306](https://github.com/huggingface/datasets/pull/8306) | Fix add_column parameter order so feature precedes new_fingerprint | 2026-07-05 |
-| [wwade/jobrunner#428](https://github.com/wwade/jobrunner/pull/428) | fix: render printable env values as text in job -vvv | 2026-07-05 |
 | [FlowiseAI/Flowise#6596](https://github.com/FlowiseAI/Flowise/pull/6596) | fix(postgres): honor user-supplied ssl config in vector store connection | 2026-07-03 |
 | [langprobe/sdk-python#3](https://github.com/langprobe/sdk-python/pull/3) | OTel-native SDK v2 — full parity: init/identify/examples+CI/mask/consolidation + B4 replay + B2 prompts | 2026-07-03 |
 | [Lightning-AI/pytorch-lightning#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) | fix: log the convenience epoch metric once per step (#20902) | 2026-07-01 |
