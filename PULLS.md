@@ -1,15 +1,23 @@
 # Pull requests
 
-_last synced · 2026-10-21_ · [← back to profile](README.md)
+_last synced · 2026-10-22_ · [← back to profile](README.md)
 
-**146** merged · **52** open
+**146** merged · **60** open
 
 ## By month opened
 
-### October 2026 · 14 opened · 5 merged
+### October 2026 · 22 opened · 5 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 | draft |
+| [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 | open |
+| [files-community/Files#19056](https://github.com/files-community/Files/pull/19056) | Fix: Fixed an issue where deleting items from archives reported failure | 2026-10-22 | draft |
+| [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 | open |
+| [files-community/Files#19055](https://github.com/files-community/Files/pull/19055) | Fix: Fixed an issue where Eject was shown for floppy disk drives | 2026-10-21 | draft |
+| [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 | open |
+| [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 | draft |
+| [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 | open |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 | draft |
 | [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 | open |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | open |
@@ -239,6 +247,14 @@ _last synced · 2026-10-21_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 |
+| [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 |
+| [files-community/Files#19056](https://github.com/files-community/Files/pull/19056) | Fix: Fixed an issue where deleting items from archives reported failure | 2026-10-22 |
+| [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 |
+| [files-community/Files#19055](https://github.com/files-community/Files/pull/19055) | Fix: Fixed an issue where Eject was shown for floppy disk drives | 2026-10-21 |
+| [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 |
+| [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 |
+| [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
 | [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 |
