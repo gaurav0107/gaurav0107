@@ -1,15 +1,16 @@
 # Pull requests
 
-_last synced · 2026-10-23_ · [← back to profile](README.md)
+_last synced · 2026-10-24_ · [← back to profile](README.md)
 
-**146** merged · **61** open
+**146** merged · **62** open
 
 ## By month opened
 
-### October 2026 · 23 opened · 5 merged
+### October 2026 · 24 opened · 5 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 | open |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 | open |
 | [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 | open |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 | open |
@@ -248,6 +249,7 @@ _last synced · 2026-10-23_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 |
 | [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 |
