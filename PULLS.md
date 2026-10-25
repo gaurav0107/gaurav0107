@@ -1,15 +1,16 @@
 # Pull requests
 
-_last synced · 2026-10-24_ · [← back to profile](README.md)
+_last synced · 2026-10-25_ · [← back to profile](README.md)
 
-**146** merged · **62** open
+**146** merged · **63** open
 
 ## By month opened
 
-### October 2026 · 24 opened · 5 merged
+### October 2026 · 25 opened · 5 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 | open |
 | [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 | open |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 | open |
 | [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 | open |
@@ -249,6 +250,7 @@ _last synced · 2026-10-24_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 |
 | [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 |
 | [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 |
