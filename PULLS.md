@@ -1,12 +1,12 @@
 # Pull requests
 
-_last synced · 2026-10-25_ · [← back to profile](README.md)
+_last synced · 2026-10-26_ · [← back to profile](README.md)
 
-**146** merged · **63** open
+**147** merged · **61** open
 
 ## By month opened
 
-### October 2026 · 25 opened · 5 merged
+### October 2026 · 24 opened · 6 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -15,7 +15,7 @@ _last synced · 2026-10-25_ · [← back to profile](README.md)
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 | open |
 | [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 | open |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 | open |
-| [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 | open |
+| [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 | 2026-10-25 |
 | [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 | open |
 | [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 | open |
 | [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 | open |
@@ -25,7 +25,6 @@ _last synced · 2026-10-25_ · [← back to profile](README.md)
 | [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 | open |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | open |
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | open |
-| [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 | open |
 | [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | 2026-10-20 |
 | [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 | 2026-10-18 |
 | [gaurav0107/gaurav0107#2](https://github.com/gaurav0107/gaurav0107/pull/2) | PULLS.md: group by month, open list below | 2026-10-12 | 2026-10-12 |
@@ -255,7 +254,6 @@ _last synced · 2026-10-25_ · [← back to profile](README.md)
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 |
 | [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 |
-| [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 |
 | [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 |
 | [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 |
 | [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 |
@@ -265,7 +263,6 @@ _last synced · 2026-10-25_ · [← back to profile](README.md)
 | [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 |
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 |
-| [affaan-m/ECC#3561](https://github.com/affaan-m/ECC/pull/3561) | fix(opencode): ship @opencode-ai/plugin as a runtime dependency | 2026-10-13 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
