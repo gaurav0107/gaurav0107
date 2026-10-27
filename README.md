@@ -52,8 +52,8 @@ _last synced · 2026-10-27_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 73 merged  ·  31 open  ·  2.4M⭐ reached
-│  ▁            █▃▁ ▁    ▆█▁▁ ▁▄  prs over last 30 days
+│ 73 merged  ·  32 open  ·  2.4M⭐ reached
+│  ▁            █▃▁ ▁    ▆█▁▁ ▁▆  prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -88,7 +88,7 @@ _last synced · 2026-10-27_
 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | 30k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | [#10383](https://github.com/better-auth/better-auth/pull/10383) | fix(session): use authoritative session reads in token and delete-a... |
 | [nrwl/nx](https://github.com/nrwl/nx) | 29k | [#36397](https://github.com/nrwl/nx/pull/36397) | [#36485](https://github.com/nrwl/nx/pull/36485) | fix(core): mark all projects affected when a global package is not ... |
 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | [#45510](https://github.com/envoyproxy/envoy/pull/45510) | — | docs: remove broken Ubuntu noble install instructions |
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 28k | [#6776](https://github.com/reflex-dev/reflex/pull/6776) | [#7668](https://github.com/reflex-dev/reflex/pull/7668) [#7631](https://github.com/reflex-dev/reflex/pull/7631) | feat(log): add trace_id/span_id to JSON log records inside a span |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 28k | [#6776](https://github.com/reflex-dev/reflex/pull/6776) | [#7670](https://github.com/reflex-dev/reflex/pull/7670) [#7668](https://github.com/reflex-dev/reflex/pull/7668) [#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(hosting-cli): fail cloud config when PyYAML is missing |
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28k | [#23488](https://github.com/mlflow/mlflow/pull/23488) | — | Support optimizing chat-type prompts in optimize_prompts |
 | [oxc-project/oxc](https://github.com/oxc-project/oxc) | 23k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | [#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports |
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors |

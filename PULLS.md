@@ -2,14 +2,16 @@
 
 _last synced · 2026-10-27_ · [← back to profile](README.md)
 
-**147** merged · **65** open
+**147** merged · **67** open
 
 ## By month opened
 
-### October 2026 · 28 opened · 6 merged
+### October 2026 · 30 opened · 6 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 | draft |
+| [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 | open |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 | open |
 | [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 | open |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 | open |
@@ -253,6 +255,8 @@ _last synced · 2026-10-27_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 |
+| [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 |
 | [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 |
