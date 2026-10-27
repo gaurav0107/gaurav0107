@@ -1,15 +1,19 @@
 # Pull requests
 
-_last synced · 2026-10-26_ · [← back to profile](README.md)
+_last synced · 2026-10-27_ · [← back to profile](README.md)
 
-**147** merged · **61** open
+**147** merged · **65** open
 
 ## By month opened
 
-### October 2026 · 24 opened · 6 merged
+### October 2026 · 28 opened · 6 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 | open |
+| [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 | open |
+| [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 | open |
+| [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 | open |
 | [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 | open |
 | [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 | open |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 | open |
@@ -249,6 +253,10 @@ _last synced · 2026-10-26_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 |
+| [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 |
+| [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 |
+| [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 |
 | [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 |
 | [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 |
