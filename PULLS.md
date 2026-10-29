@@ -1,15 +1,16 @@
 # Pull requests
 
-_last synced · 2026-10-28_ · [← back to profile](README.md)
+_last synced · 2026-10-29_ · [← back to profile](README.md)
 
-**148** merged · **66** open
+**152** merged · **63** open
 
 ## By month opened
 
-### October 2026 · 30 opened · 7 merged
+### October 2026 · 31 opened · 11 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 | open |
 | [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 | open |
 | [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 | open |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 | open |
@@ -19,14 +20,14 @@ _last synced · 2026-10-28_ · [← back to profile](README.md)
 | [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 | open |
 | [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 | 2026-10-27 |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 | open |
-| [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 | open |
+| [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 | 2026-10-29 |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 | open |
 | [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 | 2026-10-25 |
-| [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 | open |
-| [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 | open |
+| [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 | 2026-10-28 |
+| [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 | 2026-10-29 |
 | [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 | open |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 | draft |
-| [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 | open |
+| [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 | 2026-10-29 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 | draft |
 | [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 | open |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | open |
@@ -255,6 +256,7 @@ _last synced · 2026-10-28_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 |
 | [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 |
 | [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 |
@@ -263,13 +265,9 @@ _last synced · 2026-10-28_ · [← back to profile](README.md)
 | [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 |
 | [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 |
 | [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 |
-| [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 |
-| [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 |
-| [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 |
 | [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 |
-| [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
 | [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 |
