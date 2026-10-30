@@ -1,25 +1,27 @@
 # Pull requests
 
-_last synced · 2026-10-29_ · [← back to profile](README.md)
+_last synced · 2026-10-30_ · [← back to profile](README.md)
 
-**152** merged · **63** open
+**156** merged · **60** open
 
 ## By month opened
 
-### October 2026 · 31 opened · 11 merged
+### October 2026 · 32 opened · 15 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [aaif-goose/goose#13239](https://github.com/aaif-goose/goose/pull/13239) | fix(litellm): use supports_vision from /model/info | 2026-10-30 | open |
+| [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 | open |
+| [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 | draft |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 | open |
 | [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 | open |
 | [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 | open |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 | open |
 | [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 | open |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 | open |
-| [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 | open |
-| [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 | open |
+| [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 | 2026-10-29 |
 | [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 | 2026-10-27 |
-| [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 | open |
+| [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 | 2026-10-29 |
 | [DeusData/codebase-memory-mcp#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) | fix(go-lsp): follow a type alias declared in another file of the package | 2026-10-22 | 2026-10-29 |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 | open |
 | [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 | 2026-10-25 |
@@ -29,9 +31,8 @@ _last synced · 2026-10-29_ · [← back to profile](README.md)
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 | draft |
 | [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 | 2026-10-29 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 | draft |
-| [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 | open |
-| [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | open |
-| [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | open |
+| [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | 2026-10-29 |
+| [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | 2026-10-29 |
 | [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | 2026-10-20 |
 | [koalaman/shellcheck#3560](https://github.com/koalaman/shellcheck/pull/3560) | fix(SC2312): treat    echo as deliberately handling the return value | 2026-10-13 | 2026-10-18 |
 | [gaurav0107/gaurav0107#2](https://github.com/gaurav0107/gaurav0107/pull/2) | PULLS.md: group by month, open list below | 2026-10-12 | 2026-10-12 |
@@ -256,22 +257,19 @@ _last synced · 2026-10-29_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [aaif-goose/goose#13239](https://github.com/aaif-goose/goose/pull/13239) | fix(litellm): use supports_vision from /model/info | 2026-10-30 |
+| [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 |
+| [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 |
 | [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 |
 | [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 |
 | [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 |
-| [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 |
-| [affaan-m/ECC#3697](https://github.com/affaan-m/ECC/pull/3697) | fix(continuous-learning): resolve the observer's id when a root has two registry entries | 2026-10-24 |
-| [affaan-m/ECC#3669](https://github.com/affaan-m/ECC/pull/3669) | fix(hooks): stop hook stdin reads when the caller never sends EOF | 2026-10-22 |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 |
 | [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
-| [affaan-m/ECC#3656](https://github.com/affaan-m/ECC/pull/3656) | fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too | 2026-10-21 |
-| [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 |
-| [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
