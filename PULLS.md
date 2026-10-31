@@ -1,16 +1,18 @@
 # Pull requests
 
-_last synced · 2026-10-30_ · [← back to profile](README.md)
+_last synced · 2026-10-31_ · [← back to profile](README.md)
 
-**156** merged · **60** open
+**157** merged · **60** open
 
 ## By month opened
 
-### October 2026 · 32 opened · 15 merged
+### October 2026 · 34 opened · 16 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
-| [aaif-goose/goose#13239](https://github.com/aaif-goose/goose/pull/13239) | fix(litellm): use supports_vision from /model/info | 2026-10-30 | open |
+| [aaif-goose/goose#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort | 2026-10-30 | open |
+| [aaif-goose/goose#13242](https://github.com/aaif-goose/goose/pull/13242) | fix(mcp): send notifications/cancelled for abandoned 2026-07-28 calls | 2026-10-30 | open |
+| [aaif-goose/goose#13239](https://github.com/aaif-goose/goose/pull/13239) | fix(litellm): use supports_vision from /model/info | 2026-10-30 | 2026-10-30 |
 | [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 | open |
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 | draft |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 | open |
@@ -50,7 +52,7 @@ _last synced · 2026-10-30_ · [← back to profile](README.md)
 | [ZhuLinsen/daily_stock_analysis#2368](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2368) | fix: use full English stock analysis prompt templates when REPORT_LANGUAGE=en | 2026-09-29 | 2026-09-30 |
 | [khoj-ai/khoj#1430](https://github.com/khoj-ai/khoj/pull/1430) | Fix crash when chat tool selection falls back to agent's configured tools | 2026-09-23 | open |
 
-### July 2026 · 81 opened · 59 merged
+### July 2026 · 80 opened · 59 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -73,7 +75,6 @@ _last synced · 2026-10-30_ · [← back to profile](README.md)
 | [apache/superset#42220](https://github.com/apache/superset/pull/42220) | fix(select): exclude null-valued options from "Select all" count | 2026-07-19 | 2026-07-28 |
 | [gaurav0107/superhuman#30](https://github.com/gaurav0107/superhuman/pull/30) | fix(repo-finder): notes-only preferences fall back to defaults; overrides read '## filters' | 2026-07-19 | 2026-07-19 |
 | [nrwl/nx#36397](https://github.com/nrwl/nx/pull/36397) | fix(js): handle empty npm view output in release-publish executor | 2026-07-17 | 2026-09-15 |
-| [metabase/metabase#78049](https://github.com/metabase/metabase/pull/78049) | Return invalid for password-reset tokens belonging to deactivated users | 2026-07-17 | draft |
 | [mitmproxy/mitmproxy#8326](https://github.com/mitmproxy/mitmproxy/pull/8326) | proxy: bracket IPv6 literals in upstream CONNECT authority | 2026-07-16 | 2026-07-17 |
 | [go-gitea/gitea#38479](https://github.com/go-gitea/gitea/pull/38479) | fix(packages): serve noarch Alpine index for any requested architecture | 2026-07-16 | 2026-07-16 |
 | [skylot/jadx#2918](https://github.com/skylot/jadx/pull/2918) | fix(core): restore enum initialized with external SGET field (#2618) | 2026-07-15 | open |
@@ -257,7 +258,8 @@ _last synced · 2026-10-30_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
-| [aaif-goose/goose#13239](https://github.com/aaif-goose/goose/pull/13239) | fix(litellm): use supports_vision from /model/info | 2026-10-30 |
+| [aaif-goose/goose#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort | 2026-10-30 |
+| [aaif-goose/goose#13242](https://github.com/aaif-goose/goose/pull/13242) | fix(mcp): send notifications/cancelled for abandoned 2026-07-28 calls | 2026-10-30 |
 | [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 |
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 |
@@ -285,7 +287,6 @@ _last synced · 2026-10-30_ · [← back to profile](README.md)
 | [duckdb/duckdb#23946](https://github.com/duckdb/duckdb/pull/23946) | Match secret SCOPE only on URI component boundaries | 2026-07-19 |
 | [vectordotdev/vector#25895](https://github.com/vectordotdev/vector/pull/25895) | fix(file source): don't warn about empty files too small to fingerprint | 2026-07-19 |
 | [beekeeper-studio/beekeeper-studio#4511](https://github.com/beekeeper-studio/beekeeper-studio/pull/4511) | Fix MongoDB Decimal128 rendering as raw bytes in table/JSON view | 2026-07-19 |
-| [metabase/metabase#78049](https://github.com/metabase/metabase/pull/78049) | Return invalid for password-reset tokens belonging to deactivated users | 2026-07-17 |
 | [skylot/jadx#2918](https://github.com/skylot/jadx/pull/2918) | fix(core): restore enum initialized with external SGET field (#2618) | 2026-07-15 |
 | [meilisearch/meilisearch#6521](https://github.com/meilisearch/meilisearch/pull/6521) | Prune cancelled waiters from the search queue | 2026-07-15 |
 | [ClickHouse/ClickHouse#110618](https://github.com/ClickHouse/ClickHouse/pull/110618) | Parsers: make normalizedQueryHash fold signs in literal lists like normalizeQuery | 2026-07-15 |
