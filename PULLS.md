@@ -1,15 +1,23 @@
 # Pull requests
 
-_last synced · 2026-10-31_ · [← back to profile](README.md)
+_last synced · 2026-11-01_ · [← back to profile](README.md)
 
-**157** merged · **60** open
+**158** merged · **62** open
 
 ## By month opened
 
-### October 2026 · 34 opened · 16 merged
+### November 2026 · 1 opened · 0 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 | draft |
+
+### October 2026 · 36 opened · 17 merged
+
+| PR | title | opened | merged |
+|---|---|---|---|
+| [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 | open |
+| [go-gitea/gitea#40139](https://github.com/go-gitea/gitea/pull/40139) | fix(packages): cleanup rule keep count is used up by untagged container manifests | 2026-10-31 | draft |
 | [aaif-goose/goose#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort | 2026-10-30 | open |
 | [aaif-goose/goose#13242](https://github.com/aaif-goose/goose/pull/13242) | fix(mcp): send notifications/cancelled for abandoned 2026-07-28 calls | 2026-10-30 | open |
 | [aaif-goose/goose#13239](https://github.com/aaif-goose/goose/pull/13239) | fix(litellm): use supports_vision from /model/info | 2026-10-30 | 2026-10-30 |
@@ -29,7 +37,7 @@ _last synced · 2026-10-31_ · [← back to profile](README.md)
 | [DeusData/codebase-memory-mcp#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) | fix(cypher): return one row for an ungrouped aggregate over empty input | 2026-10-22 | 2026-10-25 |
 | [DeusData/codebase-memory-mcp#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) | fix(extract): YAML walkers grow their stacks instead of capping content | 2026-10-22 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) | fix(pipeline): a bare C reference never binds a struct Field | 2026-10-21 | 2026-10-29 |
-| [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 | open |
+| [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 | 2026-10-31 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 | draft |
 | [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 | 2026-10-29 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 | draft |
@@ -258,6 +266,9 @@ _last synced · 2026-10-31_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 |
+| [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 |
+| [go-gitea/gitea#40139](https://github.com/go-gitea/gitea/pull/40139) | fix(packages): cleanup rule keep count is used up by untagged container manifests | 2026-10-31 |
 | [aaif-goose/goose#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort | 2026-10-30 |
 | [aaif-goose/goose#13242](https://github.com/aaif-goose/goose/pull/13242) | fix(mcp): send notifications/cancelled for abandoned 2026-07-28 calls | 2026-10-30 |
 | [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 |
@@ -269,7 +280,6 @@ _last synced · 2026-10-31_ · [← back to profile](README.md)
 | [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 |
 | [reflex-dev/reflex#7631](https://github.com/reflex-dev/reflex/pull/7631) | fix(state): log disk state files that fail to load instead of ignoring them | 2026-10-22 |
-| [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
