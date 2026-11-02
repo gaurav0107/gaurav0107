@@ -1,15 +1,18 @@
 # Pull requests
 
-_last synced · 2026-11-01_ · [← back to profile](README.md)
+_last synced · 2026-11-02_ · [← back to profile](README.md)
 
-**158** merged · **62** open
+**158** merged · **65** open
 
 ## By month opened
 
-### November 2026 · 1 opened · 0 merged
+### November 2026 · 4 opened · 0 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 | open |
+| [jackwener/OpenCLI#2756](https://github.com/jackwener/OpenCLI/pull/2756) | fix(browser): send code, keyCode and keypress text with native key presses | 2026-11-02 | open |
+| [jackwener/OpenCLI#2754](https://github.com/jackwener/OpenCLI/pull/2754) | fix(jd): fail typed when search redirects to login instead of returning empty results | 2026-11-01 | open |
 | [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 | draft |
 
 ### October 2026 · 36 opened · 17 merged
@@ -266,6 +269,9 @@ _last synced · 2026-11-01_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 |
+| [jackwener/OpenCLI#2756](https://github.com/jackwener/OpenCLI/pull/2756) | fix(browser): send code, keyCode and keypress text with native key presses | 2026-11-02 |
+| [jackwener/OpenCLI#2754](https://github.com/jackwener/OpenCLI/pull/2754) | fix(jd): fail typed when search redirects to login instead of returning empty results | 2026-11-01 |
 | [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 |
 | [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 |
 | [go-gitea/gitea#40139](https://github.com/go-gitea/gitea/pull/40139) | fix(packages): cleanup rule keep count is used up by untagged container manifests | 2026-10-31 |
