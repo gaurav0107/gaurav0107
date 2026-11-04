@@ -1,25 +1,26 @@
 # Pull requests
 
-_last synced · 2026-11-03_ · [← back to profile](README.md)
+_last synced · 2026-11-04_ · [← back to profile](README.md)
 
-**158** merged · **68** open
+**164** merged · **63** open
 
 ## By month opened
 
-### November 2026 · 8 opened · 0 merged
+### November 2026 · 9 opened · 4 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
-| [cheaper-inference/OmniRoute#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) | fix(providers): pass through a client tool named tool_call on kiro | 2026-11-03 | open |
+| [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 | open |
+| [cheaper-inference/OmniRoute#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) | fix(providers): pass through a client tool named tool_call on kiro | 2026-11-03 | 2026-11-04 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 | open |
-| [cheaper-inference/OmniRoute#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) | fix(translator): sanitize tool schemas on the responses to chat path | 2026-11-03 | open |
-| [cheaper-inference/OmniRoute#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | fix(providers): stream "{}" for Kiro tool calls with no input | 2026-11-02 | open |
+| [cheaper-inference/OmniRoute#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) | fix(translator): sanitize tool schemas on the responses to chat path | 2026-11-03 | 2026-11-04 |
+| [cheaper-inference/OmniRoute#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | fix(providers): stream "{}" for Kiro tool calls with no input | 2026-11-02 | 2026-11-04 |
 | [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 | open |
 | [jackwener/OpenCLI#2756](https://github.com/jackwener/OpenCLI/pull/2756) | fix(browser): send code, keyCode and keypress text with native key presses | 2026-11-02 | open |
 | [jackwener/OpenCLI#2754](https://github.com/jackwener/OpenCLI/pull/2754) | fix(jd): fail typed when search redirects to login instead of returning empty results | 2026-11-01 | open |
-| [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 | open |
+| [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 | 2026-11-03 |
 
-### October 2026 · 35 opened · 17 merged
+### October 2026 · 35 opened · 19 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -32,9 +33,9 @@ _last synced · 2026-11-03_ · [← back to profile](README.md)
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 | draft |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 | open |
 | [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 | open |
-| [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 | open |
+| [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 | 2026-11-03 |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 | open |
-| [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 | open |
+| [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 | 2026-11-03 |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 | open |
 | [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 | 2026-10-29 |
 | [DeusData/codebase-memory-mcp#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) | fix(daemon): log the effective auto_index_limit in daemon.autoindex.skipped | 2026-10-23 | 2026-10-27 |
@@ -272,14 +273,11 @@ _last synced · 2026-11-03_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
-| [cheaper-inference/OmniRoute#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) | fix(providers): pass through a client tool named tool_call on kiro | 2026-11-03 |
+| [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 |
-| [cheaper-inference/OmniRoute#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) | fix(translator): sanitize tool schemas on the responses to chat path | 2026-11-03 |
-| [cheaper-inference/OmniRoute#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | fix(providers): stream "{}" for Kiro tool calls with no input | 2026-11-02 |
 | [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 |
 | [jackwener/OpenCLI#2756](https://github.com/jackwener/OpenCLI/pull/2756) | fix(browser): send code, keyCode and keypress text with native key presses | 2026-11-02 |
 | [jackwener/OpenCLI#2754](https://github.com/jackwener/OpenCLI/pull/2754) | fix(jd): fail typed when search redirects to login instead of returning empty results | 2026-11-01 |
-| [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 |
 | [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 |
 | [go-gitea/gitea#40139](https://github.com/go-gitea/gitea/pull/40139) | fix(packages): cleanup rule keep count is used up by untagged container manifests | 2026-10-31 |
 | [aaif-goose/goose#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort | 2026-10-30 |
@@ -288,9 +286,7 @@ _last synced · 2026-11-03_ · [← back to profile](README.md)
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 |
 | [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 |
-| [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 |
 | [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 |
-| [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
