@@ -1,15 +1,22 @@
 # Pull requests
 
-_last synced · 2026-11-04_ · [← back to profile](README.md)
+_last synced · 2026-11-05_ · [← back to profile](README.md)
 
-**164** merged · **63** open
+**166** merged · **68** open
 
 ## By month opened
 
-### November 2026 · 9 opened · 4 merged
+### November 2026 · 16 opened · 4 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 | open |
+| [Tracer-Cloud/opensre#6984](https://github.com/Tracer-Cloud/opensre/pull/6984) | fix(splunk): keep generating-command queries and send offset time bounds | 2026-11-05 | open |
+| [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 | open |
+| [jackwener/OpenCLI#2774](https://github.com/jackwener/OpenCLI/pull/2774) | fix(reddit): keep loaded comments when read --expand-more is denied | 2026-11-05 | open |
+| [cheaper-inference/OmniRoute#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) | fix(api): honor hidden and denylisted effort variants in /v1/models | 2026-11-04 | open |
+| [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 | open |
+| [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 | open |
 | [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 | open |
 | [cheaper-inference/OmniRoute#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) | fix(providers): pass through a client tool named tool_call on kiro | 2026-11-03 | 2026-11-04 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 | open |
@@ -20,7 +27,7 @@ _last synced · 2026-11-04_ · [← back to profile](README.md)
 | [jackwener/OpenCLI#2754](https://github.com/jackwener/OpenCLI/pull/2754) | fix(jd): fail typed when search redirects to login instead of returning empty results | 2026-11-01 | open |
 | [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 | 2026-11-03 |
 
-### October 2026 · 35 opened · 19 merged
+### October 2026 · 35 opened · 21 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -32,9 +39,9 @@ _last synced · 2026-11-04_ · [← back to profile](README.md)
 | [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 | open |
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 | draft |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 | open |
-| [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 | open |
+| [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 | 2026-11-05 |
 | [reflex-dev/reflex#7670](https://github.com/reflex-dev/reflex/pull/7670) | fix(hosting-cli): fail cloud config when PyYAML is missing | 2026-10-27 | 2026-11-03 |
-| [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 | open |
+| [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 | 2026-11-05 |
 | [reflex-dev/reflex#7668](https://github.com/reflex-dev/reflex/pull/7668) | feat(log): add trace_id/span_id to JSON log records inside a span | 2026-10-27 | 2026-11-03 |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 | open |
 | [affaan-m/ECC#3748](https://github.com/affaan-m/ECC/pull/3748) | fix(hooks): keep inline resolver backslash-free so hooks parse on Windows | 2026-10-26 | 2026-10-29 |
@@ -273,6 +280,13 @@ _last synced · 2026-11-04_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 |
+| [Tracer-Cloud/opensre#6984](https://github.com/Tracer-Cloud/opensre/pull/6984) | fix(splunk): keep generating-command queries and send offset time bounds | 2026-11-05 |
+| [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 |
+| [jackwener/OpenCLI#2774](https://github.com/jackwener/OpenCLI/pull/2774) | fix(reddit): keep loaded comments when read --expand-more is denied | 2026-11-05 |
+| [cheaper-inference/OmniRoute#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) | fix(api): honor hidden and denylisted effort variants in /v1/models | 2026-11-04 |
+| [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 |
+| [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 |
 | [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 |
 | [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 |
@@ -285,8 +299,6 @@ _last synced · 2026-11-04_ · [← back to profile](README.md)
 | [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 |
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 |
-| [headroomlabs-ai/headroom#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) | fix(proxy): keep Gemini memory context on entries with non-text parts | 2026-10-27 |
-| [headroomlabs-ai/headroom#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) | fix(router): gate block-form tool output against cached lossy results | 2026-10-27 |
 | [headroomlabs-ai/headroom#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) | fix(proxy): bound the model-keyed tokenizer, beacon and litellm caches | 2026-10-27 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 |
 | [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
