@@ -1,22 +1,28 @@
 # Pull requests
 
-_last synced · 2026-11-06_ · [← back to profile](README.md)
+_last synced · 2026-11-07_ · [← back to profile](README.md)
 
-**170** merged · **66** open
+**171** merged · **71** open
 
 ## By month opened
 
-### November 2026 · 18 opened · 7 merged
+### November 2026 · 24 opened · 8 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [tursodatabase/turso#11566](https://github.com/tursodatabase/turso/pull/11566) | core/time: return an error for a time blob whose seconds overflow | 2026-11-07 | open |
+| [gofr-dev/gofr#4593](https://github.com/gofr-dev/gofr/pull/4593) | fix(container): keep mock SQL expectation handles valid and accept a nil health result | 2026-11-07 | draft |
+| [tursodatabase/turso#11562](https://github.com/tursodatabase/turso/pull/11562) | core/translate: find a CTE by name in the nearest scope | 2026-11-07 | open |
+| [eosphoros-ai/DB-GPT#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) | fix(datasource): reflect table metadata lazily in RDBMSConnector | 2026-11-06 | open |
+| [mochajs/mocha#6472](https://github.com/mochajs/mocha/pull/6472) | fix: resolve relative paths in unloadFile against cwd | 2026-11-06 | open |
+| [jackwener/OpenCLI#2787](https://github.com/jackwener/OpenCLI/pull/2787) | feat(auth): report refreshed when auth refresh extends session cookie expiry | 2026-11-06 | open |
 | [eosphoros-ai/DB-GPT#3362](https://github.com/eosphoros-ai/DB-GPT/pull/3362) | fix(app): keep hidden internal datasources out of agent and editor access | 2026-11-05 | open |
 | [pingcap/tidb#72756](https://github.com/pingcap/tidb/pull/72756) | planner: fix slow_query time predicates on the Unix epoch being ignored | 2026-11-05 | open |
 | [jackwener/OpenCLI#2775](https://github.com/jackwener/OpenCLI/pull/2775) | feat(auth): suggest the site login command on not_logged_in rows | 2026-11-05 | 2026-11-05 |
 | [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 | open |
 | [Tracer-Cloud/opensre#6984](https://github.com/Tracer-Cloud/opensre/pull/6984) | fix(splunk): keep generating-command queries and send offset time bounds | 2026-11-05 | open |
 | [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 | open |
-| [cheaper-inference/OmniRoute#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) | fix(api): honor hidden and denylisted effort variants in /v1/models | 2026-11-04 | open |
+| [cheaper-inference/OmniRoute#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) | fix(api): honor hidden and denylisted effort variants in /v1/models | 2026-11-04 | 2026-11-07 |
 | [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 | open |
 | [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 | open |
 | [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 | open |
@@ -282,12 +288,17 @@ _last synced · 2026-11-06_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [tursodatabase/turso#11566](https://github.com/tursodatabase/turso/pull/11566) | core/time: return an error for a time blob whose seconds overflow | 2026-11-07 |
+| [gofr-dev/gofr#4593](https://github.com/gofr-dev/gofr/pull/4593) | fix(container): keep mock SQL expectation handles valid and accept a nil health result | 2026-11-07 |
+| [tursodatabase/turso#11562](https://github.com/tursodatabase/turso/pull/11562) | core/translate: find a CTE by name in the nearest scope | 2026-11-07 |
+| [eosphoros-ai/DB-GPT#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) | fix(datasource): reflect table metadata lazily in RDBMSConnector | 2026-11-06 |
+| [mochajs/mocha#6472](https://github.com/mochajs/mocha/pull/6472) | fix: resolve relative paths in unloadFile against cwd | 2026-11-06 |
+| [jackwener/OpenCLI#2787](https://github.com/jackwener/OpenCLI/pull/2787) | feat(auth): report refreshed when auth refresh extends session cookie expiry | 2026-11-06 |
 | [eosphoros-ai/DB-GPT#3362](https://github.com/eosphoros-ai/DB-GPT/pull/3362) | fix(app): keep hidden internal datasources out of agent and editor access | 2026-11-05 |
 | [pingcap/tidb#72756](https://github.com/pingcap/tidb/pull/72756) | planner: fix slow_query time predicates on the Unix epoch being ignored | 2026-11-05 |
 | [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 |
 | [Tracer-Cloud/opensre#6984](https://github.com/Tracer-Cloud/opensre/pull/6984) | fix(splunk): keep generating-command queries and send offset time bounds | 2026-11-05 |
 | [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 |
-| [cheaper-inference/OmniRoute#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) | fix(api): honor hidden and denylisted effort variants in /v1/models | 2026-11-04 |
 | [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 |
 | [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 |
 | [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 |

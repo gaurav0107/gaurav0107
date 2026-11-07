@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-11-06_
+_last synced · 2026-11-07_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 96 merged  ·  21 open  ·  2.6M⭐ reached
-│     █▃▁ ▁    ▄▆▁  ▁█  ▄ ▃▃▆▃▁   prs over last 30 days
+│ 97 merged  ·  22 open  ·  2.6M⭐ reached
+│    █▃▁ ▁    ▄▆▁  ▁█  ▄ ▃▃▆▃▁▃   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,9 +65,9 @@ _last synced · 2026-11-06_
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | [#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | — | fix(cli): add missing response key to custom theme text schema |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100k | [#58551](https://github.com/ant-design/ant-design/pull/58551) [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode |
-| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 84k | [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): honor hidden and denylisted effort variants in /v1/models |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 85k | [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): honor hidden and denylisted effort variants in /v1/models |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 78k | [#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) [#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) [#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): keep Gemini memory context on entries with non-text parts |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 79k | [#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) [#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) [#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): keep Gemini memory context on entries with non-text parts |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [apache/superset](https://github.com/apache/superset) | 75k | [#42489](https://github.com/apache/superset/pull/42489) [#42220](https://github.com/apache/superset/pull/42220) | — | fix(core): stop discarding API errors that quote an HTML tag |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 68k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
@@ -87,14 +87,14 @@ _last synced · 2026-11-06_
 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34k | [#17567](https://github.com/SeleniumHQ/selenium/pull/17567) | — | [rust] honor --browser-version in Selenium Manager Electron driver ... |
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32k | [#1239](https://github.com/conductor-oss/conductor/pull/1239) | — | fix(rest): log 4xx client exceptions at WARN instead of ERROR |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | fix: log the convenience epoch metric once per step (#20902) |
-| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 30k | [#2775](https://github.com/jackwener/OpenCLI/pull/2775) [#2756](https://github.com/jackwener/OpenCLI/pull/2756) [#2754](https://github.com/jackwener/OpenCLI/pull/2754) | — | feat(auth): suggest the site login command on not_logged_in rows |
+| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 30k | [#2775](https://github.com/jackwener/OpenCLI/pull/2775) [#2756](https://github.com/jackwener/OpenCLI/pull/2756) [#2754](https://github.com/jackwener/OpenCLI/pull/2754) | [#2787](https://github.com/jackwener/OpenCLI/pull/2787) | feat(auth): report refreshed when auth refresh extends session cook... |
 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | 30k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | [#10383](https://github.com/better-auth/better-auth/pull/10383) | fix(session): use authoritative session reads in token and delete-a... |
 | [nrwl/nx](https://github.com/nrwl/nx) | 29k | [#36397](https://github.com/nrwl/nx/pull/36397) | [#36485](https://github.com/nrwl/nx/pull/36485) | fix(core): mark all projects affected when a global package is not ... |
 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | [#45510](https://github.com/envoyproxy/envoy/pull/45510) | — | docs: remove broken Ubuntu noble install instructions |
 | [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 28k | [#7670](https://github.com/reflex-dev/reflex/pull/7670) [#7668](https://github.com/reflex-dev/reflex/pull/7668) [#6776](https://github.com/reflex-dev/reflex/pull/6776) | — | fix(hosting-cli): fail cloud config when PyYAML is missing |
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28k | [#23488](https://github.com/mlflow/mlflow/pull/23488) | — | Support optimizing chat-type prompts in optimize_prompts |
 | [oxc-project/oxc](https://github.com/oxc-project/oxc) | 23k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | [#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports |
-| [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6120](https://github.com/mochajs/mocha/pull/6120) | feat: print each error within AggregateErrors |
+| [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6472](https://github.com/mochajs/mocha/pull/6472) [#6120](https://github.com/mochajs/mocha/pull/6120) | fix: resolve relative paths in unloadFile against cwd |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | 22k | [#5165](https://github.com/lima-vm/lima/pull/5165) [#5090](https://github.com/lima-vm/lima/pull/5090) | — | shell: clean up stale ssh.sock on --reconnect when the master is al... |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21k | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | — | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
