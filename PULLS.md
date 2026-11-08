@@ -1,16 +1,21 @@
 # Pull requests
 
-_last synced · 2026-11-07_ · [← back to profile](README.md)
+_last synced · 2026-11-08_ · [← back to profile](README.md)
 
-**171** merged · **71** open
+**173** merged · **74** open
 
 ## By month opened
 
-### November 2026 · 24 opened · 8 merged
+### November 2026 · 29 opened · 10 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
-| [tursodatabase/turso#11566](https://github.com/tursodatabase/turso/pull/11566) | core/time: return an error for a time blob whose seconds overflow | 2026-11-07 | open |
+| [lidge-jun/opencodex#8327](https://github.com/lidge-jun/opencodex/pull/8327) | fix(oauth): stop killing blocked Claude Keychain reads | 2026-11-08 | draft |
+| [bunkerity/bunkerweb#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | fix(antibot): don't apply INJECT_HEAD/INJECT_BODY to the challenge page | 2026-11-08 | open |
+| [tursodatabase/turso#11579](https://github.com/tursodatabase/turso/pull/11579) | tursopg: read 't', 'yes' and 'on' as true in a cast to boolean | 2026-11-08 | open |
+| [tursodatabase/turso#11575](https://github.com/tursodatabase/turso/pull/11575) | core/translate: do not let UPDATE's WHERE name a RETURNING alias | 2026-11-07 | open |
+| [tursodatabase/turso#11571](https://github.com/tursodatabase/turso/pull/11571) | tursopg: read hex, octal and binary literals that do not fit in int4 | 2026-11-07 | 2026-11-07 |
+| [tursodatabase/turso#11566](https://github.com/tursodatabase/turso/pull/11566) | core/time: return an error for a time blob whose seconds overflow | 2026-11-07 | 2026-11-07 |
 | [gofr-dev/gofr#4593](https://github.com/gofr-dev/gofr/pull/4593) | fix(container): keep mock SQL expectation handles valid and accept a nil health result | 2026-11-07 | draft |
 | [tursodatabase/turso#11562](https://github.com/tursodatabase/turso/pull/11562) | core/translate: find a CTE by name in the nearest scope | 2026-11-07 | open |
 | [eosphoros-ai/DB-GPT#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) | fix(datasource): reflect table metadata lazily in RDBMSConnector | 2026-11-06 | open |
@@ -288,7 +293,10 @@ _last synced · 2026-11-07_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
-| [tursodatabase/turso#11566](https://github.com/tursodatabase/turso/pull/11566) | core/time: return an error for a time blob whose seconds overflow | 2026-11-07 |
+| [lidge-jun/opencodex#8327](https://github.com/lidge-jun/opencodex/pull/8327) | fix(oauth): stop killing blocked Claude Keychain reads | 2026-11-08 |
+| [bunkerity/bunkerweb#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | fix(antibot): don't apply INJECT_HEAD/INJECT_BODY to the challenge page | 2026-11-08 |
+| [tursodatabase/turso#11579](https://github.com/tursodatabase/turso/pull/11579) | tursopg: read 't', 'yes' and 'on' as true in a cast to boolean | 2026-11-08 |
+| [tursodatabase/turso#11575](https://github.com/tursodatabase/turso/pull/11575) | core/translate: do not let UPDATE's WHERE name a RETURNING alias | 2026-11-07 |
 | [gofr-dev/gofr#4593](https://github.com/gofr-dev/gofr/pull/4593) | fix(container): keep mock SQL expectation handles valid and accept a nil health result | 2026-11-07 |
 | [tursodatabase/turso#11562](https://github.com/tursodatabase/turso/pull/11562) | core/translate: find a CTE by name in the nearest scope | 2026-11-07 |
 | [eosphoros-ai/DB-GPT#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) | fix(datasource): reflect table metadata lazily in RDBMSConnector | 2026-11-06 |
