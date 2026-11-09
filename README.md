@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-11-08_
+_last synced · 2026-11-09_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 99 merged  ·  25 open  ·  2.6M⭐ reached
-│   █▃▁ ▁    ▄▆▁  ▁█  ▄ ▃▃▆▃▁▃▆▁  prs over last 30 days
+│ 102 merged  ·  28 open  ·  2.7M⭐ reached
+│  █▃▁ ▁    ▄▆▁  ▁█  ▄ ▃▃▆▃▄▄▆▆   prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,13 +65,13 @@ _last synced · 2026-11-08_
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | [#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | — | fix(cli): add missing response key to custom theme text schema |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100k | [#58551](https://github.com/ant-design/ant-design/pull/58551) [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode |
-| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 85k | [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): honor hidden and denylisted effort variants in /v1/models |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 85k | [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(api): honor hidden and denylisted effort variants in /v1/models |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 79k | [#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) [#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) [#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): keep Gemini memory context on entries with non-text parts |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
 | [apache/superset](https://github.com/apache/superset) | 75k | [#42489](https://github.com/apache/superset/pull/42489) [#42220](https://github.com/apache/superset/pull/42220) | — | fix(core): stop discarding API errors that quote an HTML tag |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 68k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 67k | [#2368](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2368) | — | fix: use full English stock analysis prompt templates when REPORT_L... |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 68k | [#2368](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2368) | — | fix: use full English stock analysis prompt templates when REPORT_L... |
 | [starship/starship](https://github.com/starship/starship) | 60k | [#7497](https://github.com/starship/starship/pull/7497) | [#7495](https://github.com/starship/starship/pull/7495) | docs(preset): add Void Linux symbol to catppuccin-powerline |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 58k | [#40153](https://github.com/go-gitea/gitea/pull/40153) [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(api): keep wiki page name when editing with an empty title |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56k | [#13239](https://github.com/aaif-goose/goose/pull/13239) | [#13248](https://github.com/aaif-goose/goose/pull/13248) [#13242](https://github.com/aaif-goose/goose/pull/13242) | feat(cli): change thinking effort mid-session with /model --effort |
@@ -93,11 +93,13 @@ _last synced · 2026-11-08_
 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | [#45510](https://github.com/envoyproxy/envoy/pull/45510) | — | docs: remove broken Ubuntu noble install instructions |
 | [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 29k | [#7670](https://github.com/reflex-dev/reflex/pull/7670) [#7668](https://github.com/reflex-dev/reflex/pull/7668) [#6776](https://github.com/reflex-dev/reflex/pull/6776) | — | fix(hosting-cli): fail cloud config when PyYAML is missing |
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28k | [#23488](https://github.com/mlflow/mlflow/pull/23488) | — | Support optimizing chat-type prompts in optimize_prompts |
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 25k | [#11571](https://github.com/tursodatabase/turso/pull/11571) [#11566](https://github.com/tursodatabase/turso/pull/11566) | [#11579](https://github.com/tursodatabase/turso/pull/11579) [#11575](https://github.com/tursodatabase/turso/pull/11575) [#11562](https://github.com/tursodatabase/turso/pull/11562) | tursopg: read 't', 'yes' and 'on' as true in a cast to boolean |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 25k | [#11571](https://github.com/tursodatabase/turso/pull/11571) [#11566](https://github.com/tursodatabase/turso/pull/11566) | [#11600](https://github.com/tursodatabase/turso/pull/11600) [#11593](https://github.com/tursodatabase/turso/pull/11593) [#11579](https://github.com/tursodatabase/turso/pull/11579) [#11575](https://github.com/tursodatabase/turso/pull/11575) [#11562](https://github.com/tursodatabase/turso/pull/11562) | tursopg: parse the text in a cast to uuid |
 | [oxc-project/oxc](https://github.com/oxc-project/oxc) | 23k | [#23909](https://github.com/oxc-project/oxc/pull/23909) [#23015](https://github.com/oxc-project/oxc/pull/23015) [#22752](https://github.com/oxc-project/oxc/pull/22752) | [#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports |
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6472](https://github.com/mochajs/mocha/pull/6472) [#6120](https://github.com/mochajs/mocha/pull/6120) | fix: resolve relative paths in unloadFile against cwd |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | 22k | [#5165](https://github.com/lima-vm/lima/pull/5165) [#5090](https://github.com/lima-vm/lima/pull/5090) | — | shell: clean up stale ssh.sock on --reconnect when the master is al... |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21k | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | — | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
+| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 20k | [#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | [#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) [#3362](https://github.com/eosphoros-ai/DB-GPT/pull/3362) | fix(datasource): reflect table metadata lazily in RDBMSConnector |
+| [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 18k | [#8327](https://github.com/lidge-jun/opencodex/pull/8327) | — | fix(oauth): stop killing blocked Claude Keychain reads |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 
 <!-- OSS:END -->

@@ -1,16 +1,19 @@
 # Pull requests
 
-_last synced · 2026-11-08_ · [← back to profile](README.md)
+_last synced · 2026-11-09_ · [← back to profile](README.md)
 
-**173** merged · **74** open
+**176** merged · **74** open
 
 ## By month opened
 
-### November 2026 · 29 opened · 10 merged
+### November 2026 · 32 opened · 13 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
-| [lidge-jun/opencodex#8327](https://github.com/lidge-jun/opencodex/pull/8327) | fix(oauth): stop killing blocked Claude Keychain reads | 2026-11-08 | draft |
+| [tursodatabase/turso#11600](https://github.com/tursodatabase/turso/pull/11600) | tursopg: parse the text in a cast to uuid | 2026-11-08 | open |
+| [bunkerity/bunkerweb#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings | 2026-11-08 | open |
+| [tursodatabase/turso#11593](https://github.com/tursodatabase/turso/pull/11593) | core/translate: leave IF NOT EXISTS out of a virtual table's stored SQL | 2026-11-08 | open |
+| [lidge-jun/opencodex#8327](https://github.com/lidge-jun/opencodex/pull/8327) | fix(oauth): stop killing blocked Claude Keychain reads | 2026-11-08 | 2026-11-09 |
 | [bunkerity/bunkerweb#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | fix(antibot): don't apply INJECT_HEAD/INJECT_BODY to the challenge page | 2026-11-08 | open |
 | [tursodatabase/turso#11579](https://github.com/tursodatabase/turso/pull/11579) | tursopg: read 't', 'yes' and 'on' as true in a cast to boolean | 2026-11-08 | open |
 | [tursodatabase/turso#11575](https://github.com/tursodatabase/turso/pull/11575) | core/translate: do not let UPDATE's WHERE name a RETURNING alias | 2026-11-07 | open |
@@ -26,11 +29,11 @@ _last synced · 2026-11-08_ · [← back to profile](README.md)
 | [jackwener/OpenCLI#2775](https://github.com/jackwener/OpenCLI/pull/2775) | feat(auth): suggest the site login command on not_logged_in rows | 2026-11-05 | 2026-11-05 |
 | [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 | open |
 | [Tracer-Cloud/opensre#6984](https://github.com/Tracer-Cloud/opensre/pull/6984) | fix(splunk): keep generating-command queries and send offset time bounds | 2026-11-05 | open |
-| [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 | open |
+| [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 | 2026-11-08 |
 | [cheaper-inference/OmniRoute#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) | fix(api): honor hidden and denylisted effort variants in /v1/models | 2026-11-04 | 2026-11-07 |
 | [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 | open |
 | [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 | open |
-| [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 | open |
+| [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 | 2026-11-08 |
 | [cheaper-inference/OmniRoute#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) | fix(providers): pass through a client tool named tool_call on kiro | 2026-11-03 | 2026-11-04 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 | open |
 | [cheaper-inference/OmniRoute#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) | fix(translator): sanitize tool schemas on the responses to chat path | 2026-11-03 | 2026-11-04 |
@@ -293,7 +296,9 @@ _last synced · 2026-11-08_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
-| [lidge-jun/opencodex#8327](https://github.com/lidge-jun/opencodex/pull/8327) | fix(oauth): stop killing blocked Claude Keychain reads | 2026-11-08 |
+| [tursodatabase/turso#11600](https://github.com/tursodatabase/turso/pull/11600) | tursopg: parse the text in a cast to uuid | 2026-11-08 |
+| [bunkerity/bunkerweb#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings | 2026-11-08 |
+| [tursodatabase/turso#11593](https://github.com/tursodatabase/turso/pull/11593) | core/translate: leave IF NOT EXISTS out of a virtual table's stored SQL | 2026-11-08 |
 | [bunkerity/bunkerweb#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | fix(antibot): don't apply INJECT_HEAD/INJECT_BODY to the challenge page | 2026-11-08 |
 | [tursodatabase/turso#11579](https://github.com/tursodatabase/turso/pull/11579) | tursopg: read 't', 'yes' and 'on' as true in a cast to boolean | 2026-11-08 |
 | [tursodatabase/turso#11575](https://github.com/tursodatabase/turso/pull/11575) | core/translate: do not let UPDATE's WHERE name a RETURNING alias | 2026-11-07 |
@@ -306,10 +311,8 @@ _last synced · 2026-11-08_ · [← back to profile](README.md)
 | [pingcap/tidb#72756](https://github.com/pingcap/tidb/pull/72756) | planner: fix slow_query time predicates on the Unix epoch being ignored | 2026-11-05 |
 | [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 |
 | [Tracer-Cloud/opensre#6984](https://github.com/Tracer-Cloud/opensre/pull/6984) | fix(splunk): keep generating-command queries and send offset time bounds | 2026-11-05 |
-| [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 |
 | [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 |
 | [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 |
-| [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 |
 | [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 |
 | [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 |
