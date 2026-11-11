@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-11-10_
+_last synced · 2026-11-11_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 104 merged  ·  29 open  ·  2.7M⭐ reached
-│ █▃▁ ▁    ▄▆▁  ▁█  ▄ ▃▃▆▃▄▄▆▆▁▃  prs over last 30 days
+│ 107 merged  ·  29 open  ·  2.7M⭐ reached
+│ ▃▁ ▁    ▄▆▁  ▁█  ▄ ▃▃▆▃▄▄▆▆▃▄▁  prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,7 +65,7 @@ _last synced · 2026-11-10_
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | [#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | — | fix(cli): add missing response key to custom theme text schema |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100k | [#58551](https://github.com/ant-design/ant-design/pull/58551) [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode |
-| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 86k | [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | [#19603](https://github.com/cheaper-inference/OmniRoute/pull/19603) [#19579](https://github.com/cheaper-inference/OmniRoute/pull/19579) [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(dashboard): skip the onboarding password step when a password i... |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 86k | [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | [#19603](https://github.com/cheaper-inference/OmniRoute/pull/19603) [#19579](https://github.com/cheaper-inference/OmniRoute/pull/19579) | fix(dashboard): skip the onboarding password step when a password i... |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 79k | [#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) [#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) [#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): keep Gemini memory context on entries with non-text parts |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
@@ -73,7 +73,7 @@ _last synced · 2026-11-10_
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 69k | [#2368](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2368) | — | fix: use full English stock analysis prompt templates when REPORT_L... |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 68k | [#5202](https://github.com/mem0ai/mem0/pull/5202) | — | fix(vector_stores): pass namespace as top-level kwarg to UpstashVec... |
 | [starship/starship](https://github.com/starship/starship) | 60k | [#7497](https://github.com/starship/starship/pull/7497) | [#7495](https://github.com/starship/starship/pull/7495) | docs(preset): add Void Linux symbol to catppuccin-powerline |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 58k | [#40153](https://github.com/go-gitea/gitea/pull/40153) [#38479](https://github.com/go-gitea/gitea/pull/38479) | [#40306](https://github.com/go-gitea/gitea/pull/40306) | fix(packages): rebuild repository index after removing a package |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 59k | [#40306](https://github.com/go-gitea/gitea/pull/40306) [#40299](https://github.com/go-gitea/gitea/pull/40299) [#40153](https://github.com/go-gitea/gitea/pull/40153) [#38479](https://github.com/go-gitea/gitea/pull/38479) | — | fix(packages): rebuild repository index after removing a package |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56k | [#13239](https://github.com/aaif-goose/goose/pull/13239) | [#13248](https://github.com/aaif-goose/goose/pull/13248) [#13242](https://github.com/aaif-goose/goose/pull/13242) | feat(cli): change thinking effort mid-session with /model --effort |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | — | fix(openrouter): support llama-index-llms-openai-like 0.7 |
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50k | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | — | Common: mask sensitive data on Exception::addMessage |
@@ -87,7 +87,7 @@ _last synced · 2026-11-10_
 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34k | [#17567](https://github.com/SeleniumHQ/selenium/pull/17567) | — | [rust] honor --browser-version in Selenium Manager Electron driver ... |
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32k | [#1239](https://github.com/conductor-oss/conductor/pull/1239) | — | fix(rest): log 4xx client exceptions at WARN instead of ERROR |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31k | [#21686](https://github.com/Lightning-AI/pytorch-lightning/pull/21686) | [#21796](https://github.com/Lightning-AI/pytorch-lightning/pull/21796) [#21791](https://github.com/Lightning-AI/pytorch-lightning/pull/21791) [#21759](https://github.com/Lightning-AI/pytorch-lightning/pull/21759) | fix: log the convenience epoch metric once per step (#20902) |
-| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 30k | [#2775](https://github.com/jackwener/OpenCLI/pull/2775) [#2756](https://github.com/jackwener/OpenCLI/pull/2756) [#2754](https://github.com/jackwener/OpenCLI/pull/2754) | [#2787](https://github.com/jackwener/OpenCLI/pull/2787) | feat(auth): report refreshed when auth refresh extends session cook... |
+| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 31k | [#2775](https://github.com/jackwener/OpenCLI/pull/2775) [#2756](https://github.com/jackwener/OpenCLI/pull/2756) [#2754](https://github.com/jackwener/OpenCLI/pull/2754) | [#2787](https://github.com/jackwener/OpenCLI/pull/2787) | feat(auth): report refreshed when auth refresh extends session cook... |
 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | 30k | [#10368](https://github.com/better-auth/better-auth/pull/10368) | [#10383](https://github.com/better-auth/better-auth/pull/10383) | fix(session): use authoritative session reads in token and delete-a... |
 | [nrwl/nx](https://github.com/nrwl/nx) | 29k | [#36397](https://github.com/nrwl/nx/pull/36397) | [#36485](https://github.com/nrwl/nx/pull/36485) | fix(core): mark all projects affected when a global package is not ... |
 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | [#45510](https://github.com/envoyproxy/envoy/pull/45510) | — | docs: remove broken Ubuntu noble install instructions |
@@ -98,7 +98,7 @@ _last synced · 2026-11-10_
 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22k | [#6016](https://github.com/mochajs/mocha/pull/6016) | [#6472](https://github.com/mochajs/mocha/pull/6472) [#6120](https://github.com/mochajs/mocha/pull/6120) | fix: resolve relative paths in unloadFile against cwd |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | 22k | [#5165](https://github.com/lima-vm/lima/pull/5165) [#5090](https://github.com/lima-vm/lima/pull/5090) | — | shell: clean up stale ssh.sock on --reconnect when the master is al... |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21k | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | — | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
-| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 20k | [#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | [#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) [#3362](https://github.com/eosphoros-ai/DB-GPT/pull/3362) | fix(datasource): reflect table metadata lazily in RDBMSConnector |
+| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 20k | [#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | [#3375](https://github.com/eosphoros-ai/DB-GPT/pull/3375) [#3374](https://github.com/eosphoros-ai/DB-GPT/pull/3374) [#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) [#3362](https://github.com/eosphoros-ai/DB-GPT/pull/3362) | fix(sandbox): stop reparented children when local execution times out |
 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 18k | [#8327](https://github.com/lidge-jun/opencodex/pull/8327) | — | fix(oauth): stop killing blocked Claude Keychain reads |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 

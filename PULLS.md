@@ -1,19 +1,23 @@
 # Pull requests
 
-_last synced · 2026-11-10_ · [← back to profile](README.md)
+_last synced · 2026-11-11_ · [← back to profile](README.md)
 
-**178** merged · **77** open
+**181** merged · **78** open
 
 ## By month opened
 
-### November 2026 · 37 opened · 15 merged
+### November 2026 · 41 opened · 18 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
-| [go-gitea/gitea#40306](https://github.com/go-gitea/gitea/pull/40306) | fix(packages): rebuild repository index after removing a package | 2026-11-10 | open |
+| [eosphoros-ai/DB-GPT#3375](https://github.com/eosphoros-ai/DB-GPT/pull/3375) | fix(sandbox): stop reparented children when local execution times out | 2026-11-11 | open |
+| [robotframework/robotframework#5855](https://github.com/robotframework/robotframework/pull/5855) | Support KeywordName and KeywordArgument as variable types in data | 2026-11-10 | open |
+| [eosphoros-ai/DB-GPT#3374](https://github.com/eosphoros-ai/DB-GPT/pull/3374) | fix(sandbox): kill CLI sandbox commands when the request is cancelled | 2026-11-10 | open |
+| [davila7/claude-code-templates#1507](https://github.com/davila7/claude-code-templates/pull/1507) | fix(skills): rag-qdrant uses query_points instead of the removed search API | 2026-11-10 | open |
+| [go-gitea/gitea#40306](https://github.com/go-gitea/gitea/pull/40306) | fix(packages): rebuild repository index after removing a package | 2026-11-10 | 2026-11-10 |
 | [cheaper-inference/OmniRoute#19603](https://github.com/cheaper-inference/OmniRoute/pull/19603) | fix(dashboard): skip the onboarding password step when a password is already set | 2026-11-10 | open |
 | [go-gitea/gitea#40301](https://github.com/go-gitea/gitea/pull/40301) | enhance(api): expose label exclusive order | 2026-11-10 | draft |
-| [go-gitea/gitea#40299](https://github.com/go-gitea/gitea/pull/40299) | fix(indexer): reindex issues when their projects change | 2026-11-09 | draft |
+| [go-gitea/gitea#40299](https://github.com/go-gitea/gitea/pull/40299) | fix(indexer): reindex issues when their projects change | 2026-11-09 | 2026-11-10 |
 | [cheaper-inference/OmniRoute#19579](https://github.com/cheaper-inference/OmniRoute/pull/19579) | fix(translator): keep Antigravity tool parameters named like schema keywords | 2026-11-09 | open |
 | [tursodatabase/turso#11600](https://github.com/tursodatabase/turso/pull/11600) | tursopg: parse the text in a cast to uuid | 2026-11-08 | open |
 | [bunkerity/bunkerweb#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings | 2026-11-08 | open |
@@ -37,7 +41,7 @@ _last synced · 2026-11-10_ · [← back to profile](README.md)
 | [eosphoros-ai/DB-GPT#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | fix(sandbox): confine get_file to the session working directory | 2026-11-05 | 2026-11-08 |
 | [cheaper-inference/OmniRoute#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) | fix(api): honor hidden and denylisted effort variants in /v1/models | 2026-11-04 | 2026-11-07 |
 | [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 | open |
-| [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 | open |
+| [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 | 2026-11-10 |
 | [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 | 2026-11-08 |
 | [cheaper-inference/OmniRoute#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) | fix(providers): pass through a client tool named tool_call on kiro | 2026-11-03 | 2026-11-04 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 | open |
@@ -301,10 +305,12 @@ _last synced · 2026-11-10_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
-| [go-gitea/gitea#40306](https://github.com/go-gitea/gitea/pull/40306) | fix(packages): rebuild repository index after removing a package | 2026-11-10 |
+| [eosphoros-ai/DB-GPT#3375](https://github.com/eosphoros-ai/DB-GPT/pull/3375) | fix(sandbox): stop reparented children when local execution times out | 2026-11-11 |
+| [robotframework/robotframework#5855](https://github.com/robotframework/robotframework/pull/5855) | Support KeywordName and KeywordArgument as variable types in data | 2026-11-10 |
+| [eosphoros-ai/DB-GPT#3374](https://github.com/eosphoros-ai/DB-GPT/pull/3374) | fix(sandbox): kill CLI sandbox commands when the request is cancelled | 2026-11-10 |
+| [davila7/claude-code-templates#1507](https://github.com/davila7/claude-code-templates/pull/1507) | fix(skills): rag-qdrant uses query_points instead of the removed search API | 2026-11-10 |
 | [cheaper-inference/OmniRoute#19603](https://github.com/cheaper-inference/OmniRoute/pull/19603) | fix(dashboard): skip the onboarding password step when a password is already set | 2026-11-10 |
 | [go-gitea/gitea#40301](https://github.com/go-gitea/gitea/pull/40301) | enhance(api): expose label exclusive order | 2026-11-10 |
-| [go-gitea/gitea#40299](https://github.com/go-gitea/gitea/pull/40299) | fix(indexer): reindex issues when their projects change | 2026-11-09 |
 | [cheaper-inference/OmniRoute#19579](https://github.com/cheaper-inference/OmniRoute/pull/19579) | fix(translator): keep Antigravity tool parameters named like schema keywords | 2026-11-09 |
 | [tursodatabase/turso#11600](https://github.com/tursodatabase/turso/pull/11600) | tursopg: parse the text in a cast to uuid | 2026-11-08 |
 | [bunkerity/bunkerweb#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings | 2026-11-08 |
@@ -320,7 +326,6 @@ _last synced · 2026-11-10_ · [← back to profile](README.md)
 | [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 |
 | [Tracer-Cloud/opensre#6984](https://github.com/Tracer-Cloud/opensre/pull/6984) | fix(splunk): keep generating-command queries and send offset time bounds | 2026-11-05 |
 | [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 |
-| [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 |
 | [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 |
 | [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 |
 | [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 |
