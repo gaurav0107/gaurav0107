@@ -1,15 +1,16 @@
 # Pull requests
 
-_last synced · 2026-11-13_ · [← back to profile](README.md)
+_last synced · 2026-11-14_ · [← back to profile](README.md)
 
-**183** merged · **79** open
+**184** merged · **79** open
 
 ## By month opened
 
-### November 2026 · 44 opened · 20 merged
+### November 2026 · 45 opened · 21 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 | open |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 | open |
 | [HKUDS/DeepTutor#2644](https://github.com/HKUDS/DeepTutor/pull/2644) | fix(desktop): activate the bundled core after an in-place upgrade | 2026-11-12 | open |
 | [robotframework/robotframework#5856](https://github.com/robotframework/robotframework/pull/5856) | Add type argument to Convert To Number | 2026-11-11 | open |
@@ -27,7 +28,7 @@ _last synced · 2026-11-13_ · [← back to profile](README.md)
 | [bunkerity/bunkerweb#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings | 2026-11-08 | open |
 | [tursodatabase/turso#11593](https://github.com/tursodatabase/turso/pull/11593) | core/translate: leave IF NOT EXISTS out of a virtual table's stored SQL | 2026-11-08 | open |
 | [lidge-jun/opencodex#8327](https://github.com/lidge-jun/opencodex/pull/8327) | fix(oauth): stop killing blocked Claude Keychain reads | 2026-11-08 | 2026-11-09 |
-| [bunkerity/bunkerweb#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | fix(antibot): don't apply INJECT_HEAD/INJECT_BODY to the challenge page | 2026-11-08 | open |
+| [bunkerity/bunkerweb#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | fix(antibot): don't apply INJECT_HEAD/INJECT_BODY to the challenge page | 2026-11-08 | 2026-11-13 |
 | [tursodatabase/turso#11579](https://github.com/tursodatabase/turso/pull/11579) | tursopg: read 't', 'yes' and 'on' as true in a cast to boolean | 2026-11-08 | open |
 | [tursodatabase/turso#11575](https://github.com/tursodatabase/turso/pull/11575) | core/translate: do not let UPDATE's WHERE name a RETURNING alias | 2026-11-07 | 2026-11-10 |
 | [tursodatabase/turso#11571](https://github.com/tursodatabase/turso/pull/11571) | tursopg: read hex, octal and binary literals that do not fit in int4 | 2026-11-07 | 2026-11-07 |
@@ -308,6 +309,7 @@ _last synced · 2026-11-13_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 |
 | [HKUDS/DeepTutor#2644](https://github.com/HKUDS/DeepTutor/pull/2644) | fix(desktop): activate the bundled core after an in-place upgrade | 2026-11-12 |
 | [robotframework/robotframework#5856](https://github.com/robotframework/robotframework/pull/5856) | Add type argument to Convert To Number | 2026-11-11 |
@@ -320,7 +322,6 @@ _last synced · 2026-11-13_ · [← back to profile](README.md)
 | [tursodatabase/turso#11600](https://github.com/tursodatabase/turso/pull/11600) | tursopg: parse the text in a cast to uuid | 2026-11-08 |
 | [bunkerity/bunkerweb#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings | 2026-11-08 |
 | [tursodatabase/turso#11593](https://github.com/tursodatabase/turso/pull/11593) | core/translate: leave IF NOT EXISTS out of a virtual table's stored SQL | 2026-11-08 |
-| [bunkerity/bunkerweb#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | fix(antibot): don't apply INJECT_HEAD/INJECT_BODY to the challenge page | 2026-11-08 |
 | [tursodatabase/turso#11579](https://github.com/tursodatabase/turso/pull/11579) | tursopg: read 't', 'yes' and 'on' as true in a cast to boolean | 2026-11-08 |
 | [gofr-dev/gofr#4593](https://github.com/gofr-dev/gofr/pull/4593) | fix(container): keep mock SQL expectation handles valid and accept a nil health result | 2026-11-07 |
 | [eosphoros-ai/DB-GPT#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) | fix(datasource): reflect table metadata lazily in RDBMSConnector | 2026-11-06 |

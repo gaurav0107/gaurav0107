@@ -48,24 +48,24 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-11-13_
+_last synced · 2026-11-14_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 109 merged  ·  29 open  ·  2.7M⭐ reached
-│  ▁    ▄▆▁  ▁█  ▄ ▃▃▆▃▄▄▆▆▃▄▃▁   prs over last 30 days
+│ 110 merged  ·  31 open  ·  2.7M⭐ reached
+│ ▁    ▄▅▁  ▁▆  ▄ ▂▂▅▂▄▄▅█▂▄▂▁ ▁  prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
 | repository | ⭐ | merged | open | latest title |
 |---|---:|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 316k | [#1987](https://github.com/obra/superpowers/pull/1987) | [#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable |
+| [obra/superpowers](https://github.com/obra/superpowers) | 317k | [#1987](https://github.com/obra/superpowers/pull/1987) | [#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 302k | [#3748](https://github.com/affaan-m/ECC/pull/3748) [#3669](https://github.com/affaan-m/ECC/pull/3669) [#3601](https://github.com/affaan-m/ECC/pull/3601) [#3562](https://github.com/affaan-m/ECC/pull/3562) [#3560](https://github.com/affaan-m/ECC/pull/3560) [#2606](https://github.com/affaan-m/ECC/pull/2606) [#2577](https://github.com/affaan-m/ECC/pull/2577) [#2491](https://github.com/affaan-m/ECC/pull/2491) [#2490](https://github.com/affaan-m/ECC/pull/2490) [#2488](https://github.com/affaan-m/ECC/pull/2488) [#2466](https://github.com/affaan-m/ECC/pull/2466) [#2429](https://github.com/affaan-m/ECC/pull/2429) [#2413](https://github.com/affaan-m/ECC/pull/2413) [#2401](https://github.com/affaan-m/ECC/pull/2401) [#2399](https://github.com/affaan-m/ECC/pull/2399) [#2386](https://github.com/affaan-m/ECC/pull/2386) [#2374](https://github.com/affaan-m/ECC/pull/2374) [#2373](https://github.com/affaan-m/ECC/pull/2373) [#2372](https://github.com/affaan-m/ECC/pull/2372) [#2369](https://github.com/affaan-m/ECC/pull/2369) [#2339](https://github.com/affaan-m/ECC/pull/2339) [#2177](https://github.com/affaan-m/ECC/pull/2177) [#2163](https://github.com/affaan-m/ECC/pull/2163) [#2161](https://github.com/affaan-m/ECC/pull/2161) [#2159](https://github.com/affaan-m/ECC/pull/2159) [#2134](https://github.com/affaan-m/ECC/pull/2134) [#2041](https://github.com/affaan-m/ECC/pull/2041) [#1701](https://github.com/affaan-m/ECC/pull/1701) [#1682](https://github.com/affaan-m/ECC/pull/1682) [#1669](https://github.com/affaan-m/ECC/pull/1669) [#1490](https://github.com/affaan-m/ECC/pull/1490) | [#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash comma... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 168k | [#45611](https://github.com/huggingface/transformers/pull/45611) | — | Raise clear error for problem_type="single_label_classification" wi... |
 | [denoland/deno](https://github.com/denoland/deno) | 108k | [#36321](https://github.com/denoland/deno/pull/36321) | [#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108k | [#25822](https://github.com/google-gemini/gemini-cli/pull/25822) | — | fix(cli): add missing response key to custom theme text schema |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100k | [#58551](https://github.com/ant-design/ant-design/pull/58551) [#58241](https://github.com/ant-design/ant-design/pull/58241) | [#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode |
-| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 86k | [#19603](https://github.com/cheaper-inference/OmniRoute/pull/19603) [#19579](https://github.com/cheaper-inference/OmniRoute/pull/19579) [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | — | fix(dashboard): skip the onboarding password step when a password i... |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 87k | [#19603](https://github.com/cheaper-inference/OmniRoute/pull/19603) [#19579](https://github.com/cheaper-inference/OmniRoute/pull/19579) [#19039](https://github.com/cheaper-inference/OmniRoute/pull/19039) [#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) [#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) [#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) [#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) [#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | [#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 79k | [#4506](https://github.com/headroomlabs-ai/headroom/pull/4506) [#4504](https://github.com/headroomlabs-ai/headroom/pull/4504) [#4497](https://github.com/headroomlabs-ai/headroom/pull/4497) [#1513](https://github.com/headroomlabs-ai/headroom/pull/1513) | — | fix(proxy): keep Gemini memory context on entries with non-text parts |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79k | [#7156](https://github.com/unslothai/unsloth/pull/7156) [#7113](https://github.com/unslothai/unsloth/pull/7113) [#7082](https://github.com/unslothai/unsloth/pull/7082) | — | Studio: add option to disable the in-memory API monitor |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77k | [#4563](https://github.com/tesseract-ocr/tesseract/pull/4563) | — | Fix crash when LSTM is missing in disabled-legacy build (#4448) |
@@ -101,6 +101,7 @@ _last synced · 2026-11-13_
 | [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 20k | [#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | [#3376](https://github.com/eosphoros-ai/DB-GPT/pull/3376) [#3375](https://github.com/eosphoros-ai/DB-GPT/pull/3375) [#3374](https://github.com/eosphoros-ai/DB-GPT/pull/3374) [#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) [#3362](https://github.com/eosphoros-ai/DB-GPT/pull/3362) | fix(agent): keep same-named resources in ResourcePack |
 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 18k | [#8327](https://github.com/lidge-jun/opencodex/pull/8327) | — | fix(oauth): stop killing blocked Claude Keychain reads |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
+| [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) | 11k | [#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | [#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings |
 
 <!-- OSS:END -->
 
