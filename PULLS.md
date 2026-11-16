@@ -1,19 +1,19 @@
 # Pull requests
 
-_last synced · 2026-11-15_ · [← back to profile](README.md)
+_last synced · 2026-11-16_ · [← back to profile](README.md)
 
-**184** merged · **79** open
+**185** merged · **78** open
 
 ## By month opened
 
-### November 2026 · 45 opened · 21 merged
+### November 2026 · 45 opened · 22 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
 | [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 | draft |
 | [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 | open |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 | open |
-| [HKUDS/DeepTutor#2644](https://github.com/HKUDS/DeepTutor/pull/2644) | fix(desktop): activate the bundled core after an in-place upgrade | 2026-11-12 | open |
+| [HKUDS/DeepTutor#2644](https://github.com/HKUDS/DeepTutor/pull/2644) | fix(desktop): activate the bundled core after an in-place upgrade | 2026-11-12 | 2026-11-15 |
 | [robotframework/robotframework#5856](https://github.com/robotframework/robotframework/pull/5856) | Add type argument to Convert To Number | 2026-11-11 | open |
 | [eosphoros-ai/DB-GPT#3376](https://github.com/eosphoros-ai/DB-GPT/pull/3376) | fix(agent): keep same-named resources in ResourcePack | 2026-11-11 | open |
 | [eosphoros-ai/DB-GPT#3375](https://github.com/eosphoros-ai/DB-GPT/pull/3375) | fix(sandbox): stop reparented children when local execution times out | 2026-11-11 | open |
@@ -312,7 +312,6 @@ _last synced · 2026-11-15_ · [← back to profile](README.md)
 | [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 |
 | [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 |
-| [HKUDS/DeepTutor#2644](https://github.com/HKUDS/DeepTutor/pull/2644) | fix(desktop): activate the bundled core after an in-place upgrade | 2026-11-12 |
 | [robotframework/robotframework#5856](https://github.com/robotframework/robotframework/pull/5856) | Add type argument to Convert To Number | 2026-11-11 |
 | [eosphoros-ai/DB-GPT#3376](https://github.com/eosphoros-ai/DB-GPT/pull/3376) | fix(agent): keep same-named resources in ResourcePack | 2026-11-11 |
 | [eosphoros-ai/DB-GPT#3375](https://github.com/eosphoros-ai/DB-GPT/pull/3375) | fix(sandbox): stop reparented children when local execution times out | 2026-11-11 |
