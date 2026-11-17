@@ -1,15 +1,19 @@
 # Pull requests
 
-_last synced · 2026-11-16_ · [← back to profile](README.md)
+_last synced · 2026-11-17_ · [← back to profile](README.md)
 
-**185** merged · **78** open
+**189** merged · **78** open
 
 ## By month opened
 
-### November 2026 · 45 opened · 22 merged
+### November 2026 · 49 opened · 26 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [Significant-Gravitas/AutoGPT#16855](https://github.com/Significant-Gravitas/AutoGPT/pull/16855) | fix(backend): skip the workflow join when an expert's credentials are already seeded | 2026-11-17 | open |
+| [gaurav0107/superhuman#38](https://github.com/gaurav0107/superhuman/pull/38) | docs(readme): complete install, verify, quick start, update, uninstall | 2026-11-16 | 2026-11-16 |
+| [gaurav0107/superhuman#37](https://github.com/gaurav0107/superhuman/pull/37) | docs(readme): add track record and stars/site badges | 2026-11-16 | 2026-11-16 |
+| [gaurav0107/superhuman#36](https://github.com/gaurav0107/superhuman/pull/36) | feat: outcome sweep, PR caps, lock TTL, and opt-in cron docs | 2026-11-16 | 2026-11-16 |
 | [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 | draft |
 | [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 | open |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 | open |
@@ -48,7 +52,7 @@ _last synced · 2026-11-16_ · [← back to profile](README.md)
 | [cheaper-inference/OmniRoute#18949](https://github.com/cheaper-inference/OmniRoute/pull/18949) | fix(test): run the #15172 Codex usage throttle test on a virtual clock | 2026-11-04 | 2026-11-10 |
 | [cheaper-inference/OmniRoute#18847](https://github.com/cheaper-inference/OmniRoute/pull/18847) | fix(api): report an unknown provider quota as null, not 100% remaining | 2026-11-03 | 2026-11-08 |
 | [cheaper-inference/OmniRoute#18823](https://github.com/cheaper-inference/OmniRoute/pull/18823) | fix(providers): pass through a client tool named tool_call on kiro | 2026-11-03 | 2026-11-04 |
-| [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 | open |
+| [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 | 2026-11-17 |
 | [cheaper-inference/OmniRoute#18806](https://github.com/cheaper-inference/OmniRoute/pull/18806) | fix(translator): sanitize tool schemas on the responses to chat path | 2026-11-03 | 2026-11-04 |
 | [cheaper-inference/OmniRoute#18780](https://github.com/cheaper-inference/OmniRoute/pull/18780) | fix(providers): stream "{}" for Kiro tool calls with no input | 2026-11-02 | 2026-11-04 |
 | [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 | open |
@@ -309,6 +313,7 @@ _last synced · 2026-11-16_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [Significant-Gravitas/AutoGPT#16855](https://github.com/Significant-Gravitas/AutoGPT/pull/16855) | fix(backend): skip the workflow join when an expert's credentials are already seeded | 2026-11-17 |
 | [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 |
 | [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 |
@@ -330,7 +335,6 @@ _last synced · 2026-11-16_ · [← back to profile](README.md)
 | [pingcap/tidb#72756](https://github.com/pingcap/tidb/pull/72756) | planner: fix slow_query time predicates on the Unix epoch being ignored | 2026-11-05 |
 | [pingcap/tidb#72725](https://github.com/pingcap/tidb/pull/72725) | expression: report ESCAPE evaluation errors in vectorized ILIKE | 2026-11-05 |
 | [expo/expo#52962](https://github.com/expo/expo/pull/52962) | [expo] Resolve expo-constants through expo in the SwiftPM app config phase | 2026-11-04 |
-| [affaan-m/ECC#3849](https://github.com/affaan-m/ECC/pull/3849) | fix(hooks): redact bare API keys, JWTs and PEM blocks in bash command logs | 2026-11-03 |
 | [robotframework/robotframework#5841](https://github.com/robotframework/robotframework/pull/5841) | Libdoc: Preserve Markdown docs in spec files by default | 2026-11-02 |
 | [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 |
 | [go-gitea/gitea#40139](https://github.com/go-gitea/gitea/pull/40139) | fix(packages): cleanup rule keep count is used up by untagged container manifests | 2026-10-31 |
