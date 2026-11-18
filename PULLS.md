@@ -1,15 +1,16 @@
 # Pull requests
 
-_last synced · 2026-11-17_ · [← back to profile](README.md)
+_last synced · 2026-11-18_ · [← back to profile](README.md)
 
-**189** merged · **78** open
+**189** merged · **79** open
 
 ## By month opened
 
-### November 2026 · 49 opened · 26 merged
+### November 2026 · 50 opened · 26 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [Significant-Gravitas/AutoGPT#16862](https://github.com/Significant-Gravitas/AutoGPT/pull/16862) | fix(frontend): show the impersonated user's library, not the admin's | 2026-11-17 | open |
 | [Significant-Gravitas/AutoGPT#16855](https://github.com/Significant-Gravitas/AutoGPT/pull/16855) | fix(backend): skip the workflow join when an expert's credentials are already seeded | 2026-11-17 | open |
 | [gaurav0107/superhuman#38](https://github.com/gaurav0107/superhuman/pull/38) | docs(readme): complete install, verify, quick start, update, uninstall | 2026-11-16 | 2026-11-16 |
 | [gaurav0107/superhuman#37](https://github.com/gaurav0107/superhuman/pull/37) | docs(readme): add track record and stars/site badges | 2026-11-16 | 2026-11-16 |
@@ -313,6 +314,7 @@ _last synced · 2026-11-17_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [Significant-Gravitas/AutoGPT#16862](https://github.com/Significant-Gravitas/AutoGPT/pull/16862) | fix(frontend): show the impersonated user's library, not the admin's | 2026-11-17 |
 | [Significant-Gravitas/AutoGPT#16855](https://github.com/Significant-Gravitas/AutoGPT/pull/16855) | fix(backend): skip the workflow join when an expert's credentials are already seeded | 2026-11-17 |
 | [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 |
 | [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 |
