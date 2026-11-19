@@ -1,15 +1,18 @@
 # Pull requests
 
-_last synced · 2026-11-18_ · [← back to profile](README.md)
+_last synced · 2026-11-19_ · [← back to profile](README.md)
 
-**189** merged · **79** open
+**189** merged · **82** open
 
 ## By month opened
 
-### November 2026 · 50 opened · 26 merged
+### November 2026 · 53 opened · 26 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [affaan-m/ECC#4039](https://github.com/affaan-m/ECC/pull/4039) | fix(hooks): create command logs owner-only and rotate them | 2026-11-19 | open |
+| [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 | draft |
+| [davila7/claude-code-templates#1612](https://github.com/davila7/claude-code-templates/pull/1612) | fix(mods): jev-model-router hooks agent.spawn only when routeSubagentModel is on | 2026-11-18 | open |
 | [Significant-Gravitas/AutoGPT#16862](https://github.com/Significant-Gravitas/AutoGPT/pull/16862) | fix(frontend): show the impersonated user's library, not the admin's | 2026-11-17 | open |
 | [Significant-Gravitas/AutoGPT#16855](https://github.com/Significant-Gravitas/AutoGPT/pull/16855) | fix(backend): skip the workflow join when an expert's credentials are already seeded | 2026-11-17 | open |
 | [gaurav0107/superhuman#38](https://github.com/gaurav0107/superhuman/pull/38) | docs(readme): complete install, verify, quick start, update, uninstall | 2026-11-16 | 2026-11-16 |
@@ -314,6 +317,9 @@ _last synced · 2026-11-18_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [affaan-m/ECC#4039](https://github.com/affaan-m/ECC/pull/4039) | fix(hooks): create command logs owner-only and rotate them | 2026-11-19 |
+| [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 |
+| [davila7/claude-code-templates#1612](https://github.com/davila7/claude-code-templates/pull/1612) | fix(mods): jev-model-router hooks agent.spawn only when routeSubagentModel is on | 2026-11-18 |
 | [Significant-Gravitas/AutoGPT#16862](https://github.com/Significant-Gravitas/AutoGPT/pull/16862) | fix(frontend): show the impersonated user's library, not the admin's | 2026-11-17 |
 | [Significant-Gravitas/AutoGPT#16855](https://github.com/Significant-Gravitas/AutoGPT/pull/16855) | fix(backend): skip the workflow join when an expert's credentials are already seeded | 2026-11-17 |
 | [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 |
