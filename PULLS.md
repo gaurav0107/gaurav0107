@@ -1,16 +1,16 @@
 # Pull requests
 
-_last synced · 2026-11-19_ · [← back to profile](README.md)
+_last synced · 2026-11-20_ · [← back to profile](README.md)
 
-**189** merged · **82** open
+**191** merged · **80** open
 
 ## By month opened
 
-### November 2026 · 53 opened · 26 merged
+### November 2026 · 53 opened · 28 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
-| [affaan-m/ECC#4039](https://github.com/affaan-m/ECC/pull/4039) | fix(hooks): create command logs owner-only and rotate them | 2026-11-19 | open |
+| [affaan-m/ECC#4039](https://github.com/affaan-m/ECC/pull/4039) | fix(hooks): create command logs owner-only and rotate them | 2026-11-19 | 2026-11-19 |
 | [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 | draft |
 | [davila7/claude-code-templates#1612](https://github.com/davila7/claude-code-templates/pull/1612) | fix(mods): jev-model-router hooks agent.spawn only when routeSubagentModel is on | 2026-11-18 | open |
 | [Significant-Gravitas/AutoGPT#16862](https://github.com/Significant-Gravitas/AutoGPT/pull/16862) | fix(frontend): show the impersonated user's library, not the admin's | 2026-11-17 | open |
@@ -18,7 +18,7 @@ _last synced · 2026-11-19_ · [← back to profile](README.md)
 | [gaurav0107/superhuman#38](https://github.com/gaurav0107/superhuman/pull/38) | docs(readme): complete install, verify, quick start, update, uninstall | 2026-11-16 | 2026-11-16 |
 | [gaurav0107/superhuman#37](https://github.com/gaurav0107/superhuman/pull/37) | docs(readme): add track record and stars/site badges | 2026-11-16 | 2026-11-16 |
 | [gaurav0107/superhuman#36](https://github.com/gaurav0107/superhuman/pull/36) | feat: outcome sweep, PR caps, lock TTL, and opt-in cron docs | 2026-11-16 | 2026-11-16 |
-| [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 | draft |
+| [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 | 2026-11-19 |
 | [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 | open |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 | open |
 | [HKUDS/DeepTutor#2644](https://github.com/HKUDS/DeepTutor/pull/2644) | fix(desktop): activate the bundled core after an in-place upgrade | 2026-11-12 | 2026-11-15 |
@@ -317,12 +317,10 @@ _last synced · 2026-11-19_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
-| [affaan-m/ECC#4039](https://github.com/affaan-m/ECC/pull/4039) | fix(hooks): create command logs owner-only and rotate them | 2026-11-19 |
 | [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 |
 | [davila7/claude-code-templates#1612](https://github.com/davila7/claude-code-templates/pull/1612) | fix(mods): jev-model-router hooks agent.spawn only when routeSubagentModel is on | 2026-11-18 |
 | [Significant-Gravitas/AutoGPT#16862](https://github.com/Significant-Gravitas/AutoGPT/pull/16862) | fix(frontend): show the impersonated user's library, not the admin's | 2026-11-17 |
 | [Significant-Gravitas/AutoGPT#16855](https://github.com/Significant-Gravitas/AutoGPT/pull/16855) | fix(backend): skip the workflow join when an expert's credentials are already seeded | 2026-11-17 |
-| [affaan-m/ECC#3938](https://github.com/affaan-m/ECC/pull/3938) | fix(gateguard): deny same-batch siblings of a first-touch denial | 2026-11-15 |
 | [cheaper-inference/OmniRoute#20165](https://github.com/cheaper-inference/OmniRoute/pull/20165) | fix(backend): download the aarch64 CLIProxyAPI asset on ARM64 hosts | 2026-11-14 |
 | [jackwener/OpenCLI#2809](https://github.com/jackwener/OpenCLI/pull/2809) | fix(linkedin): read job-detail from the jobPostings API on SDUI job pages | 2026-11-12 |
 | [robotframework/robotframework#5856](https://github.com/robotframework/robotframework/pull/5856) | Add type argument to Convert To Number | 2026-11-11 |
