@@ -1,15 +1,20 @@
 # Pull requests
 
-_last synced · 2026-11-20_ · [← back to profile](README.md)
+_last synced · 2026-11-21_ · [← back to profile](README.md)
 
-**191** merged · **80** open
+**192** merged · **83** open
 
 ## By month opened
 
-### November 2026 · 53 opened · 28 merged
+### November 2026 · 58 opened · 28 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 | open |
+| [clash-verge-rev/clash-verge-rev#8700](https://github.com/clash-verge-rev/clash-verge-rev/pull/8700) | fix(updater): show the manually checked update when auto check is off | 2026-11-21 | open |
+| [cheaper-inference/OmniRoute#20828](https://github.com/cheaper-inference/OmniRoute/pull/20828) | fix(build): keep the image optimizer from creating a disk cache in the install tree | 2026-11-20 | open |
+| [lidge-jun/opencodex#9021](https://github.com/lidge-jun/opencodex/pull/9021) | fix(combos): hop past a provider 413, keep proxy-owned 413s terminal (#9017) | 2026-11-20 | open |
+| [gaurav0107/superhuman#39](https://github.com/gaurav0107/superhuman/pull/39) | feat: honor no-AI contribution policies; lowercase PR footer brand | 2026-11-20 | open |
 | [affaan-m/ECC#4039](https://github.com/affaan-m/ECC/pull/4039) | fix(hooks): create command logs owner-only and rotate them | 2026-11-19 | 2026-11-19 |
 | [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 | draft |
 | [davila7/claude-code-templates#1612](https://github.com/davila7/claude-code-templates/pull/1612) | fix(mods): jev-model-router hooks agent.spawn only when routeSubagentModel is on | 2026-11-18 | open |
@@ -64,14 +69,13 @@ _last synced · 2026-11-20_ · [← back to profile](README.md)
 | [jackwener/OpenCLI#2754](https://github.com/jackwener/OpenCLI/pull/2754) | fix(jd): fail typed when search redirects to login instead of returning empty results | 2026-11-01 | 2026-11-05 |
 | [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 | 2026-11-03 |
 
-### October 2026 · 35 opened · 22 merged
+### October 2026 · 34 opened · 23 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
 | [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 | open |
 | [go-gitea/gitea#40139](https://github.com/go-gitea/gitea/pull/40139) | fix(packages): cleanup rule keep count is used up by untagged container manifests | 2026-10-31 | draft |
 | [aaif-goose/goose#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort | 2026-10-30 | open |
-| [aaif-goose/goose#13242](https://github.com/aaif-goose/goose/pull/13242) | fix(mcp): send notifications/cancelled for abandoned 2026-07-28 calls | 2026-10-30 | open |
 | [aaif-goose/goose#13239](https://github.com/aaif-goose/goose/pull/13239) | fix(litellm): use supports_vision from /model/info | 2026-10-30 | 2026-10-30 |
 | [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 | open |
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 | draft |
@@ -91,7 +95,7 @@ _last synced · 2026-11-20_ · [← back to profile](README.md)
 | [DeusData/codebase-memory-mcp#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) | fix(routes): read Go 1.22 ServeMux method and host patterns | 2026-10-21 | 2026-10-31 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 | draft |
 | [DeusData/codebase-memory-mcp#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | fix(ts-lsp): resolve calls through renamed named imports | 2026-10-21 | 2026-10-29 |
-| [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 | open |
+| [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 | 2026-11-21 |
 | [affaan-m/ECC#3601](https://github.com/affaan-m/ECC/pull/3601) | fix(dashboard): keep the web dashboard running when no browser launcher is installed | 2026-10-16 | 2026-10-29 |
 | [affaan-m/ECC#3562](https://github.com/affaan-m/ECC/pull/3562) | fix(install): give Antigravity rules an activation trigger | 2026-10-14 | 2026-10-29 |
 | [affaan-m/ECC#3560](https://github.com/affaan-m/ECC/pull/3560) | fix(install): treat .pi as a foreign platform path | 2026-10-13 | 2026-10-20 |
@@ -317,6 +321,11 @@ _last synced · 2026-11-20_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 |
+| [clash-verge-rev/clash-verge-rev#8700](https://github.com/clash-verge-rev/clash-verge-rev/pull/8700) | fix(updater): show the manually checked update when auto check is off | 2026-11-21 |
+| [cheaper-inference/OmniRoute#20828](https://github.com/cheaper-inference/OmniRoute/pull/20828) | fix(build): keep the image optimizer from creating a disk cache in the install tree | 2026-11-20 |
+| [lidge-jun/opencodex#9021](https://github.com/lidge-jun/opencodex/pull/9021) | fix(combos): hop past a provider 413, keep proxy-owned 413s terminal (#9017) | 2026-11-20 |
+| [gaurav0107/superhuman#39](https://github.com/gaurav0107/superhuman/pull/39) | feat: honor no-AI contribution policies; lowercase PR footer brand | 2026-11-20 |
 | [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 |
 | [davila7/claude-code-templates#1612](https://github.com/davila7/claude-code-templates/pull/1612) | fix(mods): jev-model-router hooks agent.spawn only when routeSubagentModel is on | 2026-11-18 |
 | [Significant-Gravitas/AutoGPT#16862](https://github.com/Significant-Gravitas/AutoGPT/pull/16862) | fix(frontend): show the impersonated user's library, not the admin's | 2026-11-17 |
@@ -345,12 +354,10 @@ _last synced · 2026-11-20_ · [← back to profile](README.md)
 | [agno-agi/agno#11413](https://github.com/agno-agi/agno/pull/11413) | fix: keep session summary, compression and compaction settings across to_dict/from_dict | 2026-10-31 |
 | [go-gitea/gitea#40139](https://github.com/go-gitea/gitea/pull/40139) | fix(packages): cleanup rule keep count is used up by untagged container manifests | 2026-10-31 |
 | [aaif-goose/goose#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort | 2026-10-30 |
-| [aaif-goose/goose#13242](https://github.com/aaif-goose/goose/pull/13242) | fix(mcp): send notifications/cancelled for abandoned 2026-07-28 calls | 2026-10-30 |
 | [expo/expo#52594](https://github.com/expo/expo/pull/52594) | [html-elements] Apply the system font size once to headings on Android and iOS | 2026-10-30 |
 | [expo/expo#52583](https://github.com/expo/expo/pull/52583) | [file-system] Report upload and download task progress as numbers on iOS | 2026-10-30 |
 | [AstrBotDevs/AstrBot#10843](https://github.com/AstrBotDevs/AstrBot/pull/10843) | fix(lark): keep token diagnostics for platform policy errors | 2026-10-29 |
 | [rtk-ai/rtk#4719](https://github.com/rtk-ai/rtk/pull/4719) | fix(hooks): resolve a relative CLAUDE_CONFIG_DIR against CLAUDE_PROJECT_DIR | 2026-10-21 |
-| [rtk-ai/rtk#4706](https://github.com/rtk-ai/rtk/pull/4706) | fix(telemetry): claim the daily ping in the send thread, not before it | 2026-10-21 |
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
