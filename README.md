@@ -48,12 +48,12 @@ hand-holding.
 ## Open-source contributions
 
 <!-- OSS:START -->
-_last synced · 2026-11-21_
+_last synced · 2026-11-22_
 
 ```
 ┌─ impact ──────────────────────────────────────────────────────────────┐
-│ 114 merged  ·  30 open  ·  2.9M⭐ reached
-│ ▁  ▁█  ▃ ▃▃▆▃▄▄▆█▃▄▃▃ ▁    ▁▃   prs over last 30 days
+│ 115 merged  ·  29 open  ·  2.9M⭐ reached
+│   ▁█  ▃ ▃▃▆▃▄▄▆█▃▄▃▃ ▁    ▁▃    prs over last 30 days
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -79,7 +79,7 @@ _last synced · 2026-11-21_
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56k | [#13239](https://github.com/aaif-goose/goose/pull/13239) | [#13248](https://github.com/aaif-goose/goose/pull/13248) | feat(cli): change thinking effort mid-session with /model --effort |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52k | [#21891](https://github.com/run-llama/llama_index/pull/21891) | — | fix(openrouter): support llama-index-llms-openai-like 0.7 |
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 51k | [#106916](https://github.com/ClickHouse/ClickHouse/pull/106916) | — | Common: mask sensitive data on Exception::addMessage |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 48k | [#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) [#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) [#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) [#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) [#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) [#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) [#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | — | fix(daemon): log the effective auto_index_limit in daemon.autoindex... |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 49k | [#2777](https://github.com/DeusData/codebase-memory-mcp/pull/2777) [#2769](https://github.com/DeusData/codebase-memory-mcp/pull/2769) [#2764](https://github.com/DeusData/codebase-memory-mcp/pull/2764) [#2760](https://github.com/DeusData/codebase-memory-mcp/pull/2760) [#2754](https://github.com/DeusData/codebase-memory-mcp/pull/2754) [#2752](https://github.com/DeusData/codebase-memory-mcp/pull/2752) [#2746](https://github.com/DeusData/codebase-memory-mcp/pull/2746) | — | fix(daemon): log the effective auto_index_limit in daemon.autoindex... |
 | [apache/airflow](https://github.com/apache/airflow) | 47k | [#65685](https://github.com/apache/airflow/pull/65685) | — | Honor AUTH_ROLE_PUBLIC in FastAPI API server |
 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 47k | [#13171](https://github.com/LibreChat-AI/LibreChat/pull/13171) [#12825](https://github.com/LibreChat-AI/LibreChat/pull/12825) | [#14415](https://github.com/LibreChat-AI/LibreChat/pull/14415) | 📧 fix: Add .msg (application/vnd.ms-outlook) Support to File Upload |
 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 47k | [#8326](https://github.com/mitmproxy/mitmproxy/pull/8326) [#8294](https://github.com/mitmproxy/mitmproxy/pull/8294) | [#8293](https://github.com/mitmproxy/mitmproxy/pull/8293) [#8280](https://github.com/mitmproxy/mitmproxy/pull/8280) | proxy: bracket IPv6 literals in upstream CONNECT authority |
@@ -101,7 +101,7 @@ _last synced · 2026-11-21_
 | [lima-vm/lima](https://github.com/lima-vm/lima) | 22k | [#5165](https://github.com/lima-vm/lima/pull/5165) [#5090](https://github.com/lima-vm/lima/pull/5090) | — | shell: clean up stale ssh.sock on --reconnect when the master is al... |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21k | [#5815](https://github.com/pydantic/pydantic-ai/pull/5815) [#5681](https://github.com/pydantic/pydantic-ai/pull/5681) | — | Auto-enable Anthropic Files API beta when messages contain Uploaded... |
 | [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 20k | [#3357](https://github.com/eosphoros-ai/DB-GPT/pull/3357) | [#3376](https://github.com/eosphoros-ai/DB-GPT/pull/3376) [#3375](https://github.com/eosphoros-ai/DB-GPT/pull/3375) [#3374](https://github.com/eosphoros-ai/DB-GPT/pull/3374) [#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) [#3362](https://github.com/eosphoros-ai/DB-GPT/pull/3362) | fix(agent): keep same-named resources in ResourcePack |
-| [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 18k | [#8327](https://github.com/lidge-jun/opencodex/pull/8327) | [#9021](https://github.com/lidge-jun/opencodex/pull/9021) | fix(combos): hop past a provider 413, keep proxy-owned 413s termina... |
+| [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 18k | [#9021](https://github.com/lidge-jun/opencodex/pull/9021) [#8327](https://github.com/lidge-jun/opencodex/pull/8327) | — | fix(combos): hop past a provider 413, keep proxy-owned 413s termina... |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13k | [#5272](https://github.com/langchain4j/langchain4j/pull/5272) | — | Skills: add DefaultFileSystemSkill.toBuilder() and round-trip tools... |
 | [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) | 11k | [#4153](https://github.com/bunkerity/bunkerweb/pull/4153) | [#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings |
 

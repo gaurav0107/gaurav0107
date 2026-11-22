@@ -1,19 +1,19 @@
 # Pull requests
 
-_last synced · 2026-11-21_ · [← back to profile](README.md)
+_last synced · 2026-11-22_ · [← back to profile](README.md)
 
-**192** merged · **83** open
+**193** merged · **82** open
 
 ## By month opened
 
-### November 2026 · 58 opened · 28 merged
+### November 2026 · 58 opened · 29 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 | draft |
 | [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 | open |
-| [clash-verge-rev/clash-verge-rev#8700](https://github.com/clash-verge-rev/clash-verge-rev/pull/8700) | fix(updater): show the manually checked update when auto check is off | 2026-11-21 | open |
 | [cheaper-inference/OmniRoute#20828](https://github.com/cheaper-inference/OmniRoute/pull/20828) | fix(build): keep the image optimizer from creating a disk cache in the install tree | 2026-11-20 | open |
-| [lidge-jun/opencodex#9021](https://github.com/lidge-jun/opencodex/pull/9021) | fix(combos): hop past a provider 413, keep proxy-owned 413s terminal (#9017) | 2026-11-20 | open |
+| [lidge-jun/opencodex#9021](https://github.com/lidge-jun/opencodex/pull/9021) | fix(combos): hop past a provider 413, keep proxy-owned 413s terminal (#9017) | 2026-11-20 | 2026-11-21 |
 | [gaurav0107/superhuman#39](https://github.com/gaurav0107/superhuman/pull/39) | feat: honor no-AI contribution policies; lowercase PR footer brand | 2026-11-20 | open |
 | [affaan-m/ECC#4039](https://github.com/affaan-m/ECC/pull/4039) | fix(hooks): create command logs owner-only and rotate them | 2026-11-19 | 2026-11-19 |
 | [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 | draft |
@@ -321,10 +321,9 @@ _last synced · 2026-11-21_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 |
 | [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 |
-| [clash-verge-rev/clash-verge-rev#8700](https://github.com/clash-verge-rev/clash-verge-rev/pull/8700) | fix(updater): show the manually checked update when auto check is off | 2026-11-21 |
 | [cheaper-inference/OmniRoute#20828](https://github.com/cheaper-inference/OmniRoute/pull/20828) | fix(build): keep the image optimizer from creating a disk cache in the install tree | 2026-11-20 |
-| [lidge-jun/opencodex#9021](https://github.com/lidge-jun/opencodex/pull/9021) | fix(combos): hop past a provider 413, keep proxy-owned 413s terminal (#9017) | 2026-11-20 |
 | [gaurav0107/superhuman#39](https://github.com/gaurav0107/superhuman/pull/39) | feat: honor no-AI contribution policies; lowercase PR footer brand | 2026-11-20 |
 | [Unleash/unleash#12824](https://github.com/Unleash/unleash/pull/12824) | fix: use whole-number y-axis ticks in the personal dashboard flag chart | 2026-11-18 |
 | [davila7/claude-code-templates#1612](https://github.com/davila7/claude-code-templates/pull/1612) | fix(mods): jev-model-router hooks agent.spawn only when routeSubagentModel is on | 2026-11-18 |
