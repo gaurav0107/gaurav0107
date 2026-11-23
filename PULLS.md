@@ -1,15 +1,18 @@
 # Pull requests
 
-_last synced · 2026-11-22_ · [← back to profile](README.md)
+_last synced · 2026-11-23_ · [← back to profile](README.md)
 
-**193** merged · **82** open
+**193** merged · **85** open
 
 ## By month opened
 
-### November 2026 · 58 opened · 29 merged
+### November 2026 · 61 opened · 29 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [lidge-jun/opencodex#9071](https://github.com/lidge-jun/opencodex/pull/9071) | fix(opencode): write the loopback placeholder key for the keyless listener | 2026-11-23 | open |
+| [2dust/v2rayNG#6500](https://github.com/2dust/v2rayNG/pull/6500) | fix(sub): show proxy chain members for v2rayN subscription imports | 2026-11-23 | open |
+| [affaan-m/ECC#4097](https://github.com/affaan-m/ECC/pull/4097) | fix(antigravity): match current file tool names and Path argument in hooks | 2026-11-22 | open |
 | [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 | draft |
 | [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 | open |
 | [cheaper-inference/OmniRoute#20828](https://github.com/cheaper-inference/OmniRoute/pull/20828) | fix(build): keep the image optimizer from creating a disk cache in the install tree | 2026-11-20 | open |
@@ -321,6 +324,9 @@ _last synced · 2026-11-22_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [lidge-jun/opencodex#9071](https://github.com/lidge-jun/opencodex/pull/9071) | fix(opencode): write the loopback placeholder key for the keyless listener | 2026-11-23 |
+| [2dust/v2rayNG#6500](https://github.com/2dust/v2rayNG/pull/6500) | fix(sub): show proxy chain members for v2rayN subscription imports | 2026-11-23 |
+| [affaan-m/ECC#4097](https://github.com/affaan-m/ECC/pull/4097) | fix(antigravity): match current file tool names and Path argument in hooks | 2026-11-22 |
 | [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 |
 | [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 |
 | [cheaper-inference/OmniRoute#20828](https://github.com/cheaper-inference/OmniRoute/pull/20828) | fix(build): keep the image optimizer from creating a disk cache in the install tree | 2026-11-20 |
