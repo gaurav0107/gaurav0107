@@ -1,17 +1,18 @@
 # Pull requests
 
-_last synced · 2026-11-23_ · [← back to profile](README.md)
+_last synced · 2026-11-24_ · [← back to profile](README.md)
 
-**193** merged · **85** open
+**194** merged · **84** open
 
 ## By month opened
 
-### November 2026 · 61 opened · 29 merged
+### November 2026 · 62 opened · 30 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [ionic-team/ionic-framework#31814](https://github.com/ionic-team/ionic-framework/pull/31814) | fix(angular): set tabs outlet before emitting ionTabsWillChange | 2026-11-24 | open |
 | [lidge-jun/opencodex#9071](https://github.com/lidge-jun/opencodex/pull/9071) | fix(opencode): write the loopback placeholder key for the keyless listener | 2026-11-23 | open |
-| [2dust/v2rayNG#6500](https://github.com/2dust/v2rayNG/pull/6500) | fix(sub): show proxy chain members for v2rayN subscription imports | 2026-11-23 | open |
+| [2dust/v2rayNG#6500](https://github.com/2dust/v2rayNG/pull/6500) | fix(sub): show proxy chain members for v2rayN subscription imports | 2026-11-23 | 2026-11-24 |
 | [affaan-m/ECC#4097](https://github.com/affaan-m/ECC/pull/4097) | fix(antigravity): match current file tool names and Path argument in hooks | 2026-11-22 | open |
 | [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 | draft |
 | [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 | open |
@@ -72,7 +73,7 @@ _last synced · 2026-11-23_ · [← back to profile](README.md)
 | [jackwener/OpenCLI#2754](https://github.com/jackwener/OpenCLI/pull/2754) | fix(jd): fail typed when search redirects to login instead of returning empty results | 2026-11-01 | 2026-11-05 |
 | [go-gitea/gitea#40153](https://github.com/go-gitea/gitea/pull/40153) | fix(api): keep wiki page name when editing with an empty title | 2026-11-01 | 2026-11-03 |
 
-### October 2026 · 34 opened · 23 merged
+### October 2026 · 33 opened · 23 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
@@ -109,7 +110,6 @@ _last synced · 2026-11-23_ · [← back to profile](README.md)
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 | open |
 | [koalaman/shellcheck#3558](https://github.com/koalaman/shellcheck/pull/3558) | fix(SC2292): do not add an extra ] when the test was closed with ]] | 2026-10-12 | 2026-10-14 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 | open |
-| [oxc-project/oxc#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports | 2026-10-12 | open |
 
 ### September 2026 · 2 opened · 1 merged
 
@@ -324,8 +324,8 @@ _last synced · 2026-11-23_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [ionic-team/ionic-framework#31814](https://github.com/ionic-team/ionic-framework/pull/31814) | fix(angular): set tabs outlet before emitting ionTabsWillChange | 2026-11-24 |
 | [lidge-jun/opencodex#9071](https://github.com/lidge-jun/opencodex/pull/9071) | fix(opencode): write the loopback placeholder key for the keyless listener | 2026-11-23 |
-| [2dust/v2rayNG#6500](https://github.com/2dust/v2rayNG/pull/6500) | fix(sub): show proxy chain members for v2rayN subscription imports | 2026-11-23 |
 | [affaan-m/ECC#4097](https://github.com/affaan-m/ECC/pull/4097) | fix(antigravity): match current file tool names and Path argument in hooks | 2026-11-22 |
 | [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 |
 | [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 |
@@ -366,7 +366,6 @@ _last synced · 2026-11-23_ · [← back to profile](README.md)
 | [obra/superpowers#2504](https://github.com/obra/superpowers/pull/2504) | fix(codex): fall back to sha256sum when shasum is unavailable | 2026-10-12 |
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
-| [oxc-project/oxc#27578](https://github.com/oxc-project/oxc/pull/27578) | fix(linter/prefer-each): resolve test functions through their imports | 2026-10-12 |
 | [khoj-ai/khoj#1430](https://github.com/khoj-ai/khoj/pull/1430) | Fix crash when chat tool selection falls back to agent's configured tools | 2026-09-23 |
 | [nrwl/nx#36485](https://github.com/nrwl/nx/pull/36485) | fix(core): mark all projects affected when a global package is not in the graph | 2026-07-27 |
 | [ollama/ollama#17407](https://github.com/ollama/ollama/pull/17407) | api: coerce tool call arguments declared with oneOf | 2026-07-26 |
