@@ -1,17 +1,20 @@
 # Pull requests
 
-_last synced · 2026-11-24_ · [← back to profile](README.md)
+_last synced · 2026-11-25_ · [← back to profile](README.md)
 
-**194** merged · **84** open
+**195** merged · **86** open
 
 ## By month opened
 
-### November 2026 · 62 opened · 30 merged
+### November 2026 · 65 opened · 31 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [ZhuLinsen/daily_stock_analysis#2650](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2650) | fix(web): show built-in strategy names in English when UI language is EN | 2026-11-25 | open |
+| [HKUDS/DeepTutor#2934](https://github.com/HKUDS/DeepTutor/pull/2934) | fix(mastery): keep language-course content in its target language | 2026-11-25 | open |
+| [keycloak/keycloak#55501](https://github.com/keycloak/keycloak/pull/55501) | Keep custom HTTPS truststore type when a PEM server certificate is configured | 2026-11-25 | draft |
 | [ionic-team/ionic-framework#31814](https://github.com/ionic-team/ionic-framework/pull/31814) | fix(angular): set tabs outlet before emitting ionTabsWillChange | 2026-11-24 | open |
-| [lidge-jun/opencodex#9071](https://github.com/lidge-jun/opencodex/pull/9071) | fix(opencode): write the loopback placeholder key for the keyless listener | 2026-11-23 | open |
+| [lidge-jun/opencodex#9071](https://github.com/lidge-jun/opencodex/pull/9071) | fix(opencode): write the loopback placeholder key for the keyless listener | 2026-11-23 | 2026-11-25 |
 | [2dust/v2rayNG#6500](https://github.com/2dust/v2rayNG/pull/6500) | fix(sub): show proxy chain members for v2rayN subscription imports | 2026-11-23 | 2026-11-24 |
 | [affaan-m/ECC#4097](https://github.com/affaan-m/ECC/pull/4097) | fix(antigravity): match current file tool names and Path argument in hooks | 2026-11-22 | open |
 | [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 | draft |
@@ -324,8 +327,10 @@ _last synced · 2026-11-24_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [ZhuLinsen/daily_stock_analysis#2650](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2650) | fix(web): show built-in strategy names in English when UI language is EN | 2026-11-25 |
+| [HKUDS/DeepTutor#2934](https://github.com/HKUDS/DeepTutor/pull/2934) | fix(mastery): keep language-course content in its target language | 2026-11-25 |
+| [keycloak/keycloak#55501](https://github.com/keycloak/keycloak/pull/55501) | Keep custom HTTPS truststore type when a PEM server certificate is configured | 2026-11-25 |
 | [ionic-team/ionic-framework#31814](https://github.com/ionic-team/ionic-framework/pull/31814) | fix(angular): set tabs outlet before emitting ionTabsWillChange | 2026-11-24 |
-| [lidge-jun/opencodex#9071](https://github.com/lidge-jun/opencodex/pull/9071) | fix(opencode): write the loopback placeholder key for the keyless listener | 2026-11-23 |
 | [affaan-m/ECC#4097](https://github.com/affaan-m/ECC/pull/4097) | fix(antigravity): match current file tool names and Path argument in hooks | 2026-11-22 |
 | [HKUDS/DeepTutor#2870](https://github.com/HKUDS/DeepTutor/pull/2870) | fix(rag): keep figure captions out of the chunk metadata budget | 2026-11-22 |
 | [marktext/marktext#6108](https://github.com/marktext/marktext/pull/6108) | fix: #6101 center unaligned table headers in the editor | 2026-11-21 |
