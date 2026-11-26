@@ -1,16 +1,20 @@
 # Pull requests
 
-_last synced · 2026-11-25_ · [← back to profile](README.md)
+_last synced · 2026-11-26_ · [← back to profile](README.md)
 
-**195** merged · **86** open
+**201** merged · **84** open
 
 ## By month opened
 
-### November 2026 · 65 opened · 31 merged
+### November 2026 · 69 opened · 36 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
-| [ZhuLinsen/daily_stock_analysis#2650](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2650) | fix(web): show built-in strategy names in English when UI language is EN | 2026-11-25 | open |
+| [gaurav0107/superhuman-oss-website#5](https://github.com/gaurav0107/superhuman-oss-website/pull/5) | revert(seo): drop the inner pages, keywords on the home page | 2026-11-25 | 2026-11-25 |
+| [gaurav0107/superhuman-oss-website#4](https://github.com/gaurav0107/superhuman-oss-website/pull/4) | feat(seo): agents, skills, software-factory and guide pages | 2026-11-25 | 2026-11-25 |
+| [gaurav0107/superhuman#40](https://github.com/gaurav0107/superhuman/pull/40) | docs(readme): showcase layout, and claims that match the plugin | 2026-11-25 | 2026-11-25 |
+| [gaurav0107/superhuman-oss-website#3](https://github.com/gaurav0107/superhuman-oss-website/pull/3) | Rebuild the site in the Workbench brand, and add the Merge Wall | 2026-11-25 | 2026-11-25 |
+| [ZhuLinsen/daily_stock_analysis#2650](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2650) | fix(web): show built-in strategy names in English when UI language is EN | 2026-11-25 | 2026-11-25 |
 | [HKUDS/DeepTutor#2934](https://github.com/HKUDS/DeepTutor/pull/2934) | fix(mastery): keep language-course content in its target language | 2026-11-25 | open |
 | [keycloak/keycloak#55501](https://github.com/keycloak/keycloak/pull/55501) | Keep custom HTTPS truststore type when a PEM server certificate is configured | 2026-11-25 | draft |
 | [ionic-team/ionic-framework#31814](https://github.com/ionic-team/ionic-framework/pull/31814) | fix(angular): set tabs outlet before emitting ionTabsWillChange | 2026-11-24 | open |
@@ -121,12 +125,12 @@ _last synced · 2026-11-25_ · [← back to profile](README.md)
 | [ZhuLinsen/daily_stock_analysis#2368](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2368) | fix: use full English stock analysis prompt templates when REPORT_LANGUAGE=en | 2026-09-29 | 2026-09-30 |
 | [khoj-ai/khoj#1430](https://github.com/khoj-ai/khoj/pull/1430) | Fix crash when chat tool selection falls back to agent's configured tools | 2026-09-23 | open |
 
-### July 2026 · 80 opened · 59 merged
+### July 2026 · 80 opened · 60 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
 | [HKUDS/LightRAG#3498](https://github.com/HKUDS/LightRAG/pull/3498) | 🐛 fix(api): stop the ollama bracket prompt from corrupting the query | 2026-07-27 | 2026-07-28 |
-| [nrwl/nx#36485](https://github.com/nrwl/nx/pull/36485) | fix(core): mark all projects affected when a global package is not in the graph | 2026-07-27 | open |
+| [nrwl/nx#36485](https://github.com/nrwl/nx/pull/36485) | fix(core): mark all projects affected when a global package is not in the graph | 2026-07-27 | 2026-11-25 |
 | [affaan-m/ECC#2606](https://github.com/affaan-m/ECC/pull/2606) | fix(continuous-learning-v2): warn when the observer never survives a hook invocation (#2489) | 2026-07-27 | 2026-08-12 |
 | [apache/superset#42489](https://github.com/apache/superset/pull/42489) | fix(core): stop discarding API errors that quote an HTML tag | 2026-07-27 | 2026-10-01 |
 | [ollama/ollama#17407](https://github.com/ollama/ollama/pull/17407) | api: coerce tool call arguments declared with oneOf | 2026-07-26 | open |
@@ -327,7 +331,6 @@ _last synced · 2026-11-25_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
-| [ZhuLinsen/daily_stock_analysis#2650](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2650) | fix(web): show built-in strategy names in English when UI language is EN | 2026-11-25 |
 | [HKUDS/DeepTutor#2934](https://github.com/HKUDS/DeepTutor/pull/2934) | fix(mastery): keep language-course content in its target language | 2026-11-25 |
 | [keycloak/keycloak#55501](https://github.com/keycloak/keycloak/pull/55501) | Keep custom HTTPS truststore type when a PEM server certificate is configured | 2026-11-25 |
 | [ionic-team/ionic-framework#31814](https://github.com/ionic-team/ionic-framework/pull/31814) | fix(angular): set tabs outlet before emitting ionTabsWillChange | 2026-11-24 |
@@ -372,7 +375,6 @@ _last synced · 2026-11-25_ · [← back to profile](README.md)
 | [ant-design/ant-design#59550](https://github.com/ant-design/ant-design/pull/59550) | fix(Table): keep selection column width in virtual mode | 2026-10-12 |
 | [denoland/deno#37012](https://github.com/denoland/deno/pull/37012) | fix: strip leading UTF-8 BOM from .env and .npmrc files | 2026-10-12 |
 | [khoj-ai/khoj#1430](https://github.com/khoj-ai/khoj/pull/1430) | Fix crash when chat tool selection falls back to agent's configured tools | 2026-09-23 |
-| [nrwl/nx#36485](https://github.com/nrwl/nx/pull/36485) | fix(core): mark all projects affected when a global package is not in the graph | 2026-07-27 |
 | [ollama/ollama#17407](https://github.com/ollama/ollama/pull/17407) | api: coerce tool call arguments declared with oneOf | 2026-07-26 |
 | [microsoft/markitdown#2245](https://github.com/microsoft/markitdown/pull/2245) | fix: resolve Outlook 365 sender address and convert HTML-only message bodies | 2026-07-26 |
 | [excalidraw/excalidraw#11764](https://github.com/excalidraw/excalidraw/pull/11764) | fix(packages/excalidraw): guard missing FontFace.unicodeRange in svg export | 2026-07-26 |
