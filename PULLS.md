@@ -1,15 +1,18 @@
 # Pull requests
 
-_last synced · 2026-11-27_ · [← back to profile](README.md)
+_last synced · 2026-11-28_ · [← back to profile](README.md)
 
-**201** merged · **84** open
+**201** merged · **86** open
 
 ## By month opened
 
-### November 2026 · 69 opened · 36 merged
+### November 2026 · 71 opened · 36 merged
 
 | PR | title | opened | merged |
 |---|---|---|---|
+| [anomalyco/opencode#66913](https://github.com/anomalyco/opencode/pull/66913) | fix(core): bound the wait for a background compaction summary | 2026-11-28 | open |
+| [anomalyco/opencode#66903](https://github.com/anomalyco/opencode/pull/66903) | fix(desktop): mirror expired cookie deletions to the partner store | 2026-11-28 | open |
+| [anomalyco/opencode#66810](https://github.com/anomalyco/opencode/pull/66810) | fix(app): polyfill URL.parse for Safari before 18 | 2026-11-27 | open |
 | [gaurav0107/superhuman-oss-website#5](https://github.com/gaurav0107/superhuman-oss-website/pull/5) | revert(seo): drop the inner pages, keywords on the home page | 2026-11-25 | 2026-11-25 |
 | [gaurav0107/superhuman-oss-website#4](https://github.com/gaurav0107/superhuman-oss-website/pull/4) | feat(seo): agents, skills, software-factory and guide pages | 2026-11-25 | 2026-11-25 |
 | [gaurav0107/superhuman#40](https://github.com/gaurav0107/superhuman/pull/40) | docs(readme): showcase layout, and claims that match the plugin | 2026-11-25 | 2026-11-25 |
@@ -57,7 +60,6 @@ _last synced · 2026-11-27_ · [← back to profile](README.md)
 | [tursodatabase/turso#11575](https://github.com/tursodatabase/turso/pull/11575) | core/translate: do not let UPDATE's WHERE name a RETURNING alias | 2026-11-07 | 2026-11-10 |
 | [tursodatabase/turso#11571](https://github.com/tursodatabase/turso/pull/11571) | tursopg: read hex, octal and binary literals that do not fit in int4 | 2026-11-07 | 2026-11-07 |
 | [tursodatabase/turso#11566](https://github.com/tursodatabase/turso/pull/11566) | core/time: return an error for a time blob whose seconds overflow | 2026-11-07 | 2026-11-07 |
-| [gofr-dev/gofr#4593](https://github.com/gofr-dev/gofr/pull/4593) | fix(container): keep mock SQL expectation handles valid and accept a nil health result | 2026-11-07 | draft |
 | [tursodatabase/turso#11562](https://github.com/tursodatabase/turso/pull/11562) | core/translate: find a CTE by name in the nearest scope | 2026-11-07 | 2026-11-10 |
 | [eosphoros-ai/DB-GPT#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) | fix(datasource): reflect table metadata lazily in RDBMSConnector | 2026-11-06 | open |
 | [mochajs/mocha#6472](https://github.com/mochajs/mocha/pull/6472) | fix: resolve relative paths in unloadFile against cwd | 2026-11-06 | open |
@@ -331,6 +333,9 @@ _last synced · 2026-11-27_ · [← back to profile](README.md)
 
 | PR | title | opened |
 |---|---|---|
+| [anomalyco/opencode#66913](https://github.com/anomalyco/opencode/pull/66913) | fix(core): bound the wait for a background compaction summary | 2026-11-28 |
+| [anomalyco/opencode#66903](https://github.com/anomalyco/opencode/pull/66903) | fix(desktop): mirror expired cookie deletions to the partner store | 2026-11-28 |
+| [anomalyco/opencode#66810](https://github.com/anomalyco/opencode/pull/66810) | fix(app): polyfill URL.parse for Safari before 18 | 2026-11-27 |
 | [HKUDS/DeepTutor#2934](https://github.com/HKUDS/DeepTutor/pull/2934) | fix(mastery): keep language-course content in its target language | 2026-11-25 |
 | [keycloak/keycloak#55501](https://github.com/keycloak/keycloak/pull/55501) | Keep custom HTTPS truststore type when a PEM server certificate is configured | 2026-11-25 |
 | [ionic-team/ionic-framework#31814](https://github.com/ionic-team/ionic-framework/pull/31814) | fix(angular): set tabs outlet before emitting ionTabsWillChange | 2026-11-24 |
@@ -355,7 +360,6 @@ _last synced · 2026-11-27_ · [← back to profile](README.md)
 | [tursodatabase/turso#11600](https://github.com/tursodatabase/turso/pull/11600) | tursopg: parse the text in a cast to uuid | 2026-11-08 |
 | [bunkerity/bunkerweb#4155](https://github.com/bunkerity/bunkerweb/pull/4155) | feat(ui): confirm before enabling PROXY protocol in global settings | 2026-11-08 |
 | [tursodatabase/turso#11593](https://github.com/tursodatabase/turso/pull/11593) | core/translate: leave IF NOT EXISTS out of a virtual table's stored SQL | 2026-11-08 |
-| [gofr-dev/gofr#4593](https://github.com/gofr-dev/gofr/pull/4593) | fix(container): keep mock SQL expectation handles valid and accept a nil health result | 2026-11-07 |
 | [eosphoros-ai/DB-GPT#3364](https://github.com/eosphoros-ai/DB-GPT/pull/3364) | fix(datasource): reflect table metadata lazily in RDBMSConnector | 2026-11-06 |
 | [mochajs/mocha#6472](https://github.com/mochajs/mocha/pull/6472) | fix: resolve relative paths in unloadFile against cwd | 2026-11-06 |
 | [jackwener/OpenCLI#2787](https://github.com/jackwener/OpenCLI/pull/2787) | feat(auth): report refreshed when auth refresh extends session cookie expiry | 2026-11-06 |
